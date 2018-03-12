@@ -19,18 +19,18 @@ To use the Design Kit in Sketch, start by cloning a copy of this repo to your lo
 
 ![Clone patternfly-design-kit](img/choose-repo.png)
 
-2. In Sketch, open Preferences and click the Libraries tab. This will show you all the libraries that are installed in your instance of Sketch. Next click **Add Library...**
+2. In Sketch, open **Preferences** and click the Libraries tab. This will show you all the libraries that are installed in your instance of Sketch. Next click **Add Library...**
 3. In the file browser, go to the location where you cloned the PatternFly Design Kit repo to and select the 'PatternFly 3.sketch' file. This will install the PatternFly 3 component library into your instance of Sketch. 
 
 ![Sketch Preferences](img/sketch-preferences.png)
 
-4. Open the file 'PatternFly Template.sketch' and save it as a template (**File>Save as Template...**)
+4. Open the file 'PatternFly Template.sketch' and save it as a template (**File > Save as Template...**)
 
-That's it. Your PatternFly Design Kit is now set up! To use the template, create a new file by selecting **File>New from Template** and select the PatternFly Template. This will provide you with a starter set of common page layouts and access to symbols that you can use in your new Sketch file. 
+That's it. Your PatternFly Design Kit is now set up! To use the template, create a new file by selecting **File > New from Template** and select the PatternFly Template. This will provide you with a starter set of common page layouts and access to symbols that you can use in your new Sketch file. 
 
 ![New from Template](img/new-from-template.png)
 
-When you click on the Insert menu in Skecth, you will be able to access PatternFly symbols for use in your design.
+When you click on the Insert menu in Sketch, you will be able to access PatternFly symbols for use in your design.
 
 ![Insert Symbol](img/insert-symbol.png)
 
@@ -42,6 +42,8 @@ The PatternFly Design Kit will continue to evolve and grow as new components and
 ![Updating your local copy](img/pull-from-upstream.png)
 
 When you open an existing file that uses PatternFly symbols, Sketch will notify you of any changes and allow you to apply and changes to your project. In this way, any changes to PatternFly look and feel can be easily deployed to your project design files without needing to do manual updates. To learn more about how this works, read about [Library Updates](https://www.sketchapp.com/docs/libraries/library-updates) in the Sketch online user guide.
+
+To update you PatternFly Template file, open the updated template from your local repo and select **File > Save as Template...** This will replace the current template with the updated version and make the latest layouts available using the **New from Template...*** feature.
 
 ## Contributing to the PatternFly Design Kit
 We welcome contributions from our community of PatternFly designers. More information about how to make a contribution will be forthcoming. But in the mean time, if you are interested in helping us to build out this library, please contact Matt Carrano, [mcarrano@redhat.com](mailto:mcarrano@redhat.com), or Kyle Baker, [kybaker@redhat.com](mailto:kybaker@redhat.com).
