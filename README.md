@@ -5,12 +5,12 @@ The PatternFly Design Kit is a collection of [Sketch](https://www.sketchapp.com/
 * A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements.
 * A template file that provides several starter layouts that will make it easier to construct common PatternFly screens.
 
-By using these file to create your designs, mockups will always be kept up to date with the latest PatternFly styling as Skecth will automatically notify you of any symbol changes when you open a Skecth source file that was created using the library. We recommend using the design kit any time you need to create high-fidelity product mockups using Sketch. 
+By using these file to create your designs, mockups will always be kept up to date with the latest PatternFly styling as Sketch will automatically notify you of any symbol changes when you open a Sketch source file that was created using the library. We recommend using the design kit any time you need to create high-fidelity product mockups using Sketch. 
 
 ## Get Started with the PatternFly Design Kit
 
 ### Working with Sketch Libraries
-Libraries were introduced in Skecth 47 as a tools for creating custom symbols that can be shared across a variety of projects. You must have Sketch version 47 or above installed to use this capability. You can read more about the capabilities of Sketch Libraries here: https://www.sketchapp.com/docs/libraries/.
+Libraries were introduced in Sketch 47 as a tools for creating custom symbols that can be shared across a variety of projects. You must have Sketch version 47 or above installed to use this capability. You can read more about the capabilities of Sketch Libraries here: https://www.sketchapp.com/docs/libraries/.
 
 ### First Time Setup and Installation
 To use the Design Kit in Sketch, start by cloning a copy of this repo to your local machine. For this you will need [SourceTree](https://www.sourcetreeapp.com/) or a similar tool installed to maintain the local copy of this repo. If you have never set this up, we recommend reading [this article](https://github.com/patternfly/patternfly-design/wiki/How-to-Setup-your-Contribution-Environment) for more information about using GitHub with PatternFly Design. Once you have Sourcetree installed and connected to your GitHub account, you should follow these steps to clone this repo.
