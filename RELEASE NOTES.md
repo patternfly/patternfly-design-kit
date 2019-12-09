@@ -1,28 +1,31 @@
-We have released version 1.0 of the PatternFly Design Kit! This update includes many new symbols and templates as well as various enhancements/fixes to the beta release.
+2019.10 release notes (2019-11-25)
 
-In this update you will find:
+Symbol library updates:
+- Applied smart layout to components
+- PF color palette
+  - Gray family
+  - Condensed background colors so -200 is only one (updated this as well)
+  - Secondary text color
+Symbol library additions:
+- Custom icons
+- Empty state icons
+- Dark navigation (now made as default)
+- Navigation spacing
+- Dismissible chip group
+- Dropdown with typeahead
+- Spinner
+- Full standard card (with smart layout)
+- Full compact card (with smart layout)
 
-New Symbols:
-* Alerts
-* Accordion
-* Vertical navigation & Masthead
-* Buttons with icons
-* Better forms
-* Watermark
-* Breadcrumbs
-* Tables
-* Kebab menu
-* Tabs
-* About Modal
-
-New Templates:
-* List view
-* Card view
-* Table view
-
-Possible updates for next release:
-* Data Visualization
-* Dashboards
-* RCUE downstream branding
-
-Instructions on cloning or downloading can be found in the Github repo. If you have any questions we have a Slack channel #patternfly-design-kit. If you are unfamiliar with this library we have a recording of the design kit workshop. A special thank you to everyone who contributed getting the design kit to GA!
+Template file additions:
+- Table
+- Empty state
+- Card view
+- Chips
+- Select
+- Wizard
+- Navigation
+- Form
+- Toolbar
+- Login
+- Empty state
