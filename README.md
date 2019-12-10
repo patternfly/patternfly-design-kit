@@ -1,5 +1,4 @@
 # Patternfly Design Kit
-
 The PatternFly Design Kit is a collection of [Sketch](https://www.sketchapp.com/) assets that make it easy for designers to create high-fidelity design mockups that accurately represent [PatternFly](http://patternfly.org) components and layouts. It includes:
 
 * A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud here: https://sketch.cloud/s/7do0P
@@ -14,7 +13,7 @@ To update you PatternFly Template file, open the updated template from your loca
 If something isn't working as expected with the library or template file, please file an issue in this repo and label it with "bug". We should be able to fix it within a couple days! 
 
 ## Contributing to the PatternFly Design Kit
-We welcome contributions from our community of PatternFly designers. There are issues in the backlog that are up for grabs if not already assigned. 
+We welcome contributions from our community of PatternFly designers. Please contact Gina Doyle (@gina) on the #patternfly-design-kit channel within the patternfly.slack.com Slack workspace.
 ### Contributing a new or edited symbol
 Follow these steps:
 1. Download the library file from here: https://sketch.cloud/s/7do0P
