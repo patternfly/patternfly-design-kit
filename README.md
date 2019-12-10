@@ -12,6 +12,9 @@ To update you PatternFly Template file, open the updated template from your loca
 ## Filing bugs
 If something isn't working as expected with the library or template file, please file an issue in this repo and label it with "bug". We should be able to fix it within a couple days! 
 
+## Release notes
+To check out the latest design kit release notes, go [here](https://github.com/patternfly/patternfly-design-kit/blob/master/RELEASE%20NOTES.md).
+
 ## Contributing to the PatternFly Design Kit
 We welcome contributions from our community of PatternFly designers. Please contact Gina Doyle (@gina) on the #patternfly-design-kit channel within the patternfly.slack.com Slack workspace.
 ### Contributing a new or edited symbol
