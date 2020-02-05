@@ -28,7 +28,7 @@ expanded and selected or expanded and unselected.
 1. Is it compact or standard size?
 ![step2.1](./img/image4.png)	
 2. Is it expandable?
-![step2.2](./img/image4.png)
+![step2.2](./img/image5.png)
 	
 3. Now you should have the correct toggles and spacing for your row. 
 	
