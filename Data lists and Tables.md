@@ -35,5 +35,3 @@ of a one-line standard size row).
 
 2. Place the functionality layer on top of the background layer, and place your text, content, 
 and more on top of that. Volia! 
-
-## Mockups
