@@ -18,14 +18,17 @@ Instead of having table rows be symbols that contain the visuals for state and e
 
 2. What state is this row in? If the row is ‘Expanded’, you then would choose from there if it’s 
 expanded and selected or expanded and unselected. 
+![step1.2](./img/image2.png)
+![step1.3](./img/image3.png)
   
 3. Now you should have a the correct background: I used a hover background
 
 ### Step 2: Choose your row functionality
 
 1. Is it compact or standard size?
-	
+![step2.1](./img/image4.png)	
 2. Is it expandable?
+![step2.2](./img/image4.png)
 	
 3. Now you should have the correct toggles and spacing for your row. 
 	
