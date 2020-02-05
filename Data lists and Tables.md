@@ -16,8 +16,7 @@ Instead of having table rows be symbols that contain the visuals for state and e
 1. Do you want a row divider line? 
 ![step1.1](./img/image1.png)
 
-2. What state is this row in? If the row is ‘Expanded’, you then would choose from there if it’s 
-expanded and selected or expanded and unselected. 
+2. What state is this row in? If the row is ‘Expanded’, you then would choose from there if it’s expanded and selected or expanded and unselected. 
 ![step1.2](./img/image2.png)
 ![step1.3](./img/image3.png)
   
