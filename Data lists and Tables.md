@@ -1,4 +1,4 @@
-# Table and data list enhancements for hover and selection
+# Table and Data list enhancements for hover and selection
 [Design kit issue](https://github.com/patternfly/patternfly-design-kit/issues/140#event-2948552735)
 
 [Examples Marvel link](https://marvelapp.com/dfbie31)
