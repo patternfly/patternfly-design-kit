@@ -11,9 +11,6 @@ Updates and additions to the symbol library and template file are documented bel
 - Active state of card [#173](https://github.com/patternfly/patternfly-design-kit/issues/173)
 - All states of "text area" (expandable text box) [#161](https://github.com/patternfly/patternfly-design-kit/issues/161)
 
-### Template file updates:
-- Table to include a wrapped sortable header [#175](https://github.com/patternfly/patternfly-design-kit/issues/175)
-
 ### Template file additions:
 - Table with a wrapped sortable header [#175](https://github.com/patternfly/patternfly-design-kit/issues/175)
 - Table with expand all/collapse all [#176](https://github.com/patternfly/patternfly-design-kit/issues/176)
