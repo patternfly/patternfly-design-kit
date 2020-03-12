@@ -1,6 +1,25 @@
 # PatternFly release notes
 Updates and additions to the symbol library and template file are documented below. You will receive automatic updates for what is listed in symbol library updates and additions. In order to receive the template file additions, you must re-download the template file.
 
+## 2020.03 release notes (2020-03-10)
+
+### Symbol library updates:
+- Table/Data list header with expandable option [#176](https://github.com/patternfly/patternfly-design-kit/issues/176)
+- Compact row background to standard compact row height [#171](https://github.com/patternfly/patternfly-design-kit/issues/171)
+
+### Symbol library additions:
+- Active state of card [#173](https://github.com/patternfly/patternfly-design-kit/issues/173)
+- All states of "text area" (expandable text box) [#161](https://github.com/patternfly/patternfly-design-kit/issues/161)
+
+### Template file updates:
+- Table to include a wrapped sortable header [#175](https://github.com/patternfly/patternfly-design-kit/issues/175)
+
+### Template file additions:
+- Table with a wrapped sortable header [#175](https://github.com/patternfly/patternfly-design-kit/issues/175)
+- Table with expand all/collapse all [#176](https://github.com/patternfly/patternfly-design-kit/issues/176)
+- Master detail in many views [#173](https://github.com/patternfly/patternfly-design-kit/issues/173)
+- File upload [#161](https://github.com/patternfly/patternfly-design-kit/issues/161)
+
 ## 2020.02 release notes (2020-02-18)
 
 ### Symbol library updates:
