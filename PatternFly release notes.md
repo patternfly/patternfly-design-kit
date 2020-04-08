@@ -14,7 +14,8 @@ Updates and additions to the symbol library and template file are documented bel
   - Popover spacing updated
   - Tooltip spacing updated
   - Data list still has two versions (large and compact) but compact has decreased spacing
-  - Tabe still has two versions (large and compact) but compact has decreased spacing
+  - Table still has two versions (large and compact) but compact has decreased spacing
+- Restructure icons based on icon effort [#197](https://github.com/patternfly/patternfly-design-kit/issues/197)
 
 ### Symbol library additions:
 - Horizontal and vertical dividers [#185](https://github.com/patternfly/patternfly-design-kit/issues/185)
