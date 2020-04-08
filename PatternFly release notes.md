@@ -1,6 +1,33 @@
 # PatternFly release notes
 Updates and additions to the symbol library and template file are documented below. You will receive automatic updates for what is listed in symbol library updates and additions. In order to receive the template file additions, you must re-download the template file.
 
+## 2020.04 release notes (2020-03-31)
+
+### Symbol library updates:
+- Toast notification restructure (only allow for dismissible toasts) [#188](https://github.com/patternfly/patternfly-design-kit/issues/188)
+- Background color of disabled dropdown menu item [187](https://github.com/patternfly/patternfly-design-kit/issues/187)
+- Text style "lg" to 18px reg [#180](https://github.com/patternfly/patternfly-design-kit/issues/180)
+- Reduce white-space use in PF library [#182](https://github.com/patternfly/patternfly-design-kit/issues/182)
+  - Large and compact naming convention for sizes of components (spacing is documented explaining the differences)
+  - Accordion spacing updated
+  - Modal has two versions (large and compact)
+  - Popover spacing updated
+  - Tooltip spacing updated
+  - Data list still has two versions (large and compact) but compact has decreased spacing
+  - Tabe still has two versions (large and compact) but compact has decreased spacing
+
+### Symbol library additions:
+- Horizontal and vertical dividers [185](https://github.com/patternfly/patternfly-design-kit/issues/185)
+- Hint [177](https://github.com/patternfly/patternfly-design-kit/issues/177)
+- Banner [183](https://github.com/patternfly/patternfly-design-kit/issues/183)
+
+### Template file additions:
+- Hint [177](https://github.com/patternfly/patternfly-design-kit/issues/177)
+- Inline edit in table [#172](https://github.com/patternfly/patternfly-design-kit/issues/172)
+
+### Template file updates:
+- Login to use white links [#186](https://github.com/patternfly/patternfly-design-kit/issues/186)
+
 ## 2020.03 release notes (2020-03-10)
 
 ### Symbol library updates:
