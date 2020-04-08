@@ -17,12 +17,12 @@ Updates and additions to the symbol library and template file are documented bel
   - Tabe still has two versions (large and compact) but compact has decreased spacing
 
 ### Symbol library additions:
-- Horizontal and vertical dividers [185](https://github.com/patternfly/patternfly-design-kit/issues/185)
-- Hint [177](https://github.com/patternfly/patternfly-design-kit/issues/177)
-- Banner [183](https://github.com/patternfly/patternfly-design-kit/issues/183)
+- Horizontal and vertical dividers [#185](https://github.com/patternfly/patternfly-design-kit/issues/185)
+- Hint [#177](https://github.com/patternfly/patternfly-design-kit/issues/177)
+- Banner [#183](https://github.com/patternfly/patternfly-design-kit/issues/183)
 
 ### Template file additions:
-- Hint [177](https://github.com/patternfly/patternfly-design-kit/issues/177)
+- Hint [#177](https://github.com/patternfly/patternfly-design-kit/issues/177)
 - Inline edit in table [#172](https://github.com/patternfly/patternfly-design-kit/issues/172)
 
 ### Template file updates:
