@@ -9,7 +9,7 @@ Sketch will automatically receive library updates in the top, right corner of an
 
 To update you PatternFly Template file, open the updated template from your local repo and select **File > Save as Template...** This will replace the current template with the updated version and make the latest layouts available using the **New from Template...** feature.
 
-Please check out our [announcements](https://github.com/patternfly/patternfly-design-kit/blob/master/Announcements.md) for important design kit update information!
+Please check out our [announcements](https://github.com/patternfly/patternfly-design-kit/blob/master/Announcements.md) for important design kit release information!
 
 ## Filing bugs
 If something isn't working as expected with the library or template file, please file an issue in this repo and label it with "bug". We should be able to fix it within a couple days! 
