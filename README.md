@@ -1,8 +1,8 @@
 # Patternfly Design Kit
 The PatternFly Design Kit is a collection of [Sketch](https://www.sketchapp.com/) assets that make it easy for designers to create high-fidelity design mockups that accurately represent [PatternFly](http://patternfly.org) components and layouts. It includes:
 
-* A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud here: https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e
-* A template file that provides several starter layouts that will make it easier to construct common PatternFly screens. Hosted on Sketch Cloud here: https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89
+* A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud [here](https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e)
+* A template file that provides several starter layouts that will make it easier to construct common PatternFly screens. Hosted on Sketch Cloud [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89)
 
 ## Updating the kit
 Sketch will automatically receive library updates in the top, right corner of an open Sketch file. You'll want to update the PatternFly library **and** update the symbols within your file (two separate notifications). You'll have to update **all** files that are using PatternFly symbols - it is not a one and done process, unfortunately.
@@ -23,7 +23,7 @@ Please check out our [announcements](https://github.com/patternfly/patternfly-de
 We welcome contributions from our community of PatternFly designers. Please contact Gina Doyle (@gina) on the #patternfly-design-kit channel within the patternfly.slack.com Slack workspace.
 ### Contributing a new or edited symbol
 Follow these steps:
-1. Download the library file from here: https://sketch.cloud/s/7do0P
+1. Download the library file from [here](https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e)
 2. Create new symbols or edit symbols using the styles and elements from "Document"
 **Be sure you take them from "Document" rather than "PatternFly"**
 3. When naming a new symbol, follow the naming mechansim within that same category (ex. Forms / 2. Text Box / Success)
@@ -31,7 +31,7 @@ Follow these steps:
 5. Zip your file and attach it to the github issue you were assigned to. Add a list of the symbols you added/edited. And finally, tag @gdoyle1 in your comment.
 ### Contributing a new or edited template
 Follow these steps:
-1. Download the template file from here: https://sketch.cloud/s/nwY34
+1. Download the template file from [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89)
 2. If the template you are working on fits within an existing page, create a new artboard and add it to that page. If it does not fit into an existing page, create a new page and then add artboards from there.
 3. Be sure to add all padding specific to that example in it's own folder within the layer list called "📐Padding" and hide it.
 4. If the design variation is new and needs a spec, add it to the first artboard, add it's name (use the comment text style) and unhide the "📐Padding" group. (Look in the template file for existing examples of how this is done now)
