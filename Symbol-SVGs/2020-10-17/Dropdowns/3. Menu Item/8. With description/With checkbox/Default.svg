@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="58" viewBox="0 0 118 58">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="118" height="58" fill="#FFF"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="40" y="24">Option</tspan>
+    </text>
+    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="40" y="44">Description</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="15" height="57" x=".5" y=".5" fill="#3F9C35" stroke="#418A38"/>
+      <rect width="85" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(16)"/>
+      <rect width="85" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(16 50)"/>
+      <rect width="15" height="57" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(102)"/>
+    </g>
+    <rect width="15" height="15" x="8.5" y="4.5" fill="#FFF" stroke="#6A6E73" transform="translate(8 8)"/>
+  </g>
+</svg>

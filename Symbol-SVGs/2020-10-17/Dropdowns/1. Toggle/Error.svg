@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="36" viewBox="0 0 140 36">
+  <defs>
+    <rect id="error-a" width="140" height="36" x="0" y="0"/>
+    <filter id="error-b" width="101.4%" height="105.6%" x="-.7%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="-2" in="SourceAlpha" result="shadowOffsetInner4"/>
+      <feComposite in="shadowOffsetInner4" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner4"/>
+      <feColorMatrix in="shadowInnerInner4" result="shadowMatrixInner4" values="0 0 0 0 0.788235294   0 0 0 0 0.0980392157   0 0 0 0 0.0431372549  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+        <feMergeNode in="shadowMatrixInner4"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFF" xlink:href="#error-a"/>
+    <use fill="#000" filter="url(#error-b)" xlink:href="#error-a"/>
+    <path fill="#151515" d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" transform="translate(108 6)"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="8" y="22">Dropdown</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300"/>
+      <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(132)"/>
+      <rect width="123" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8)"/>
+      <rect width="123" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8 30)"/>
+    </g>
+    <path fill="#C9190B" d="M11.7499815,19.499963 C16.0298785,19.499963 19.499963,16.0311298 19.499963,11.7499815 C19.499963,7.47133572 16.0298785,4 11.7499815,4 C7.4700845,4 4,7.47133572 4,11.7499815 C4,16.0311298 7.4700845,19.499963 11.7499815,19.499963 Z M12.5085246,12.7499791 L10.9914384,12.7499791 C10.7922812,12.7499791 10.6278529,12.5942788 10.6170191,12.3954268 L10.3852082,8.14543689 C10.3734894,7.93062417 10.544479,7.74999106 10.7595969,7.74999106 L12.7403356,7.74999106 C12.9554535,7.74999106 13.1264736,7.93062417 13.1147549,8.14543689 L12.8829439,12.3954268 C12.8721102,12.5942788 12.7076819,12.7499791 12.5085246,12.7499791 Z M11.7499815,16.1874709 C10.9560686,16.1874709 10.3124849,15.5438873 10.3124849,14.7499744 C10.3124849,13.9560615 10.9560686,13.3124778 11.7499815,13.3124778 C12.5438944,13.3124778 13.1874781,13.9560615 13.1874781,14.7499744 C13.1874781,15.5438873 12.5438944,16.1874709 11.7499815,16.1874709 Z" transform="translate(84 6)"/>
+  </g>
+</svg>

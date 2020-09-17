@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="75" cy="75" r="70" stroke="#EDEDED" stroke-width="8"/>
+    <path stroke="#D2D2D2" stroke-width="8" d="M75,5 C36.3400675,5 5,36.3400675 5,75 C5,90.6656007 10.1460245,105.129283 18.8398609,116.792834"/>
+    <path stroke="#B8BBBE" stroke-width="8" d="M75,5 C58.9472874,5 44.1566282,10.4034932 32.347667,19.490835"/>
+    <path stroke="#F0AB00" stroke-width="8" d="M21.8989095,54.0504914 C19.3810003,60.5483834 18,67.6129168 18,75 C18,107.032515 43.9674845,133 76,133 L76,133 C108.032515,133 134,107.032515 134,75 C134,42.9674845 108.032515,17 76,17"/>
+    <text fill="#151515" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400">
+      <tspan x="50.496" y="75.8">80%</tspan>
+    </text>
+    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="42.218" y="96">of 100 GBps</tspan>
+    </text>
+    <rect width="3" height="8" x="74" y="1" fill="#FFF"/>
+    <rect width="3" height="9" x="30.692" y="15.106" fill="#FFF" transform="rotate(-38 32.192 19.606)"/>
+    <rect width="9" height="3" x="14.117" y="115.321" fill="#FFF" transform="rotate(-40 18.617 116.821)"/>
+  </g>
+</svg>

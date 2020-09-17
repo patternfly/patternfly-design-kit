@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="36" viewBox="0 0 116 36" style="background:#fff">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="116" height="36" fill="#FFF"/>
+    <text fill="#151515" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400">
+      <tspan x="8" y="22">1 - 10</tspan> <tspan x="44.32" y="22" font-family="RedHatText-Regular, Red Hat Text" font-weight="normal"> of </tspan> <tspan x="66.992" y="22">37</tspan>
+    </text>
+    <path fill="#151515" d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" transform="translate(92 6)"/>
+  </g>
+</svg>

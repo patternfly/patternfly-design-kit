@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="222" viewBox="0 0 223 222">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#06C" stroke-width="8" d="M218,111 C218,51.9055318 170.094468,4 111,4"/>
+    <path stroke="#EDEDED" stroke-width="8" d="M111,4 C51.9055318,4 4,51.9055318 4,111 C4,170.094468 51.9055318,218 111,218 L111,218 C170.094468,218 218,170.094468 218,111"/>
+    <rect width="3" height="8" x="108" fill="#FFF"/>
+    <rect width="8" height="3" x="214" y="110" fill="#FFF"/>
+    <text fill="#151515" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400">
+      <tspan x="87.12" y="109.8">22%</tspan>
+    </text>
+    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="74.171" y="134">of 100 GBps</tspan>
+    </text>
+  </g>
+</svg>

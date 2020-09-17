@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310" height="108" viewBox="0 0 310 108">
+  <defs>
+    <rect id="3.-expanded-panel-a" width="310" height="108" x="0" y="0"/>
+    <filter id="3.-expanded-panel-b" width="100.3%" height="100.9%" x="-.2%" y="-.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFF" xlink:href="#3.-expanded-panel-a"/>
+    <use fill="#000" filter="url(#3.-expanded-panel-b)" xlink:href="#3.-expanded-panel-a"/>
+  </g>
+</svg>

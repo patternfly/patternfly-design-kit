@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="118" viewBox="0 0 171 118">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="171" height="118" fill="#F3FAF2"/>
+    <rect width="171" height="3" fill="#3E8635"/>
+    <path fill="#3E8635" d="M11.7499815,19.499963 C16.0301837,19.499963 19.499963,16.0301837 19.499963,11.7499815 C19.499963,7.46977933 16.0301837,4 11.7499815,4 C7.46977933,4 4,7.46977933 4,11.7499815 C4,16.0301837 7.46977933,19.499963 11.7499815,19.499963 Z M10.1464087,15.8535179 L6.89641643,12.6035256 C6.70119595,12.4082746 6.70119595,12.0916555 6.89641643,11.8964045 L7.60353755,11.1893139 C7.79878855,10.9940629 8.11540767,10.9940629 8.31065867,11.1893139 L10.4999845,13.3786703 L15.1893044,8.68935039 C15.3845859,8.49406888 15.701205,8.49406888 15.8964255,8.68935039 L16.6035466,9.39644099 C16.7987671,9.59169199 16.7987671,9.90831111 16.6035466,10.1035621 L10.8535603,15.8535484 C10.6582788,16.0487689 10.3416902,16.0487689 10.1464087,15.8535179 Z" transform="translate(16 16)"/>
+    <text fill="#06C" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="44" y="95">Action</tspan>
+    </text>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="44" y="58">Description</tspan>
+    </text>
+    <text fill="#1E4F18" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400">
+      <tspan x="44" y="32">Title</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="15" height="117" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="matrix(-1 0 0 1 16 0)"/>
+      <rect width="15" height="117" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="matrix(-1 0 0 1 171 0)"/>
+      <rect width="3" height="48" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="matrix(-1 0 0 1 44 16)"/>
+      <rect width="110" height="3" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(44 40)"/>
+      <rect width="138" height="15" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(16)"/>
+      <rect width="138" height="15" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(16 102)"/>
+      <rect width="138" height="15" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(16 65)"/>
+    </g>
+  </g>
+</svg>

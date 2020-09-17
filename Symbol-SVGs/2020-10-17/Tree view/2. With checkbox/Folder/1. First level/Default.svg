@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="40" viewBox="0 0 268 40" style="background:#fff">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="268" height="40" fill="#FFF"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="56" y="24">First level</tspan>
+    </text>
+    <rect width="15" height="15" x="8.5" y="4.5" fill="#FFF" stroke="#6A6E73" transform="translate(24 8)"/>
+    <g fill="#92D400" fill-opacity=".9" stroke="#7FB300">
+      <rect width="251" height="7" x=".5" y=".5" transform="translate(8)"/>
+      <rect width="251" height="7" x=".5" y=".5" transform="translate(8 32)"/>
+      <rect width="7" height="39" x=".5" y=".5" transform="translate(260)"/>
+      <rect width="7" height="39" x=".5" y=".5"/>
+      <rect width="7" height="39" x=".5" y=".5" transform="translate(24)"/>
+      <rect width="7" height="39" x=".5" y=".5" transform="translate(48)"/>
+    </g>
+    <path fill="#151515" d="M12.1449143,14.6769317 L15.3324067,11.4894393 C15.5527278,11.2714756 15.5527278,10.9152219 15.3324067,10.6949237 L14.8027296,10.1652237 C14.5847659,9.94492544 14.2285122,9.94492544 14.0081911,10.1652237 L11.7488352,12.4246024 L9.48945644,10.1652237 C9.27149279,9.94492544 8.91523906,9.94492544 8.69491793,10.1652237 L8.16524085,10.6949237 C7.94491972,10.9128873 7.94491972,11.269141 8.16524085,11.4894393 L11.3527332,14.6769317 C11.5730544,14.8972528 11.9292852,14.8972528 12.1449143,14.6769317 Z" transform="translate(4 8)"/>
+  </g>
+</svg>

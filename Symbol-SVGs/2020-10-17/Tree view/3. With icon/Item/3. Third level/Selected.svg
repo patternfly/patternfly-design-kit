@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="268" height="40" viewBox="0 0 268 40" style="background:#fff">
+  <defs>
+    <rect id="selected-b" width="80" height="40" x="0" y="0"/>
+    <filter id="selected-a" width="117.5%" height="135%" x="-8.8%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="268" height="40" fill="#FFF"/>
+    <text fill="#06C" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400">
+      <tspan x="104" y="24">Third level </tspan>
+    </text>
+    <rect width="259" height="7" x=".5" y=".5" fill="#92D400" fill-opacity=".9" stroke="#7FB300"/>
+    <rect width="259" height="7" x=".5" y=".5" fill="#92D400" fill-opacity=".9" stroke="#7FB300" transform="translate(0 32)"/>
+    <rect width="7" height="39" x=".5" y=".5" fill="#92D400" fill-opacity=".9" stroke="#7FB300" transform="translate(260)"/>
+    <rect width="7" height="39" x=".5" y=".5" fill="#92D400" fill-opacity=".9" stroke="#7FB300" transform="translate(96)"/>
+    <use fill="#000" filter="url(#selected-a)" xlink:href="#selected-b"/>
+    <rect width="79" height="39" x=".5" y=".5" fill="#B300B3" stroke="#8F008F" stroke-linejoin="square"/>
+    <path fill="#6A6E73" d="M3,16.18891 L5.15865574,12.4883573 C5.69417693,11.5702992 6.68715552,10.9999881 7.74998868,10.9999881 L17.9999642,10.9999881 L17.9999642,9.5 C17.9999642,8.67156345 17.328396,8 16.4999678,8 L11.4999797,8 L9.4999845,6 L4.5,6 C3.67156822,6 3,6.67156822 3,7.5 L3,16.18891 Z M16.9059117,17.9999714 C17.5400044,17.9999714 18.3138978,17.5554534 18.6333856,17.0077252 L20.8966553,13.1278822 C21.1883416,12.6278834 20.8276858,11.9999857 20.2488297,11.9999857 L7.74998868,11.9999857 C7.11586543,11.9999857 6.3419415,12.4445037 6.02242321,12.9922319 L3.75918398,16.8720749 C3.46752818,17.3720737 3.82818406,17.9999714 4.4070401,17.9999714 L16.9059117,17.9999714 Z" transform="translate(75.992 8)"/>
+  </g>
+</svg>

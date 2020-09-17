@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="36" viewBox="0 0 56 36">
+  <defs>
+    <rect id="selected-b" width="56" height="36" x="0" y="0"/>
+    <filter id="selected-a" width="103.6%" height="105.6%" x="-1.8%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="-2" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0   0 0 0 0 0.398569971   0 0 0 0 0.799299061  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#selected-a)" xlink:href="#selected-b"/>
+    <path fill="#151515" d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" transform="translate(32 6)"/>
+    <rect width="15" height="15" x="8.5" y="4.5" fill="#FFF" stroke="#6A6E73" transform="translate(0 6)"/>
+    <g fill="#F3D53C" fill-opacity=".9" stroke="#CBB534">
+      <rect width="55" height="5" x=".5" y=".5"/>
+      <rect width="55" height="5" x=".5" y=".5" transform="translate(0 30)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="37" viewBox="0 0 138 37">
+  <defs>
+    <rect id="dragging-chip-b" width="138" height="37" x="0" y="0" rx="3"/>
+    <filter id="dragging-chip-a" width="120.3%" height="175.7%" x="-10.1%" y="-27%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0"/>
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#dragging-chip-a)" xlink:href="#dragging-chip-b"/>
+    <use fill="#FFF" xlink:href="#dragging-chip-b"/>
+    <rect width="138" height="37" fill="#F0F0F0" rx="3"/>
+    <path fill="#151515" d="M10,9 C10.5521766,9 11,8.55217659 11,8 L11,6 C11,5.44781387 10.5521766,5 10,5 L8,5 C7.44781387,5 7,5.44781387 7,6 L7,8 C7,8.55217659 7.44781387,9 8,9 L10,9 Z M15.9999857,9 C16.5521623,9 16.9999857,8.55217659 16.9999857,8 L16.9999857,6 C16.9999857,5.44781387 16.5521623,5 15.9999857,5 L13.9999857,5 C13.4477996,5 12.9999857,5.44781387 12.9999857,6 L12.9999857,8 C12.9999857,8.55217659 13.4477996,9 13.9999857,9 L15.9999857,9 Z M10,13.9999881 C10.5521766,13.9999881 11,13.5521647 11,12.9999881 L11,10.9999881 C11,10.447802 10.5521766,9.99998808 10,9.99998808 L8,9.99998808 C7.44781387,9.99998808 7,10.447802 7,10.9999881 L7,12.9999881 C7,13.5521647 7.44781387,13.9999881 8,13.9999881 L10,13.9999881 Z M15.9999857,13.9999881 C16.5521623,13.9999881 16.9999857,13.5521647 16.9999857,12.9999881 L16.9999857,10.9999881 C16.9999857,10.447802 16.5521623,9.99998808 15.9999857,9.99998808 L13.9999857,9.99998808 C13.4477996,9.99998808 12.9999857,10.447802 12.9999857,10.9999881 L12.9999857,12.9999881 C12.9999857,13.5521647 13.4477996,13.9999881 13.9999857,13.9999881 L15.9999857,13.9999881 Z M10,18.9999762 C10.5521766,18.9999762 11,18.5521527 11,17.9999762 L11,15.9999762 C11,15.44779 10.5521766,14.9999762 10,14.9999762 L8,14.9999762 C7.44781387,14.9999762 7,15.44779 7,15.9999762 L7,17.9999762 C7,18.5521527 7.44781387,18.9999762 8,18.9999762 L10,18.9999762 Z M15.9999857,18.9999762 C16.5521623,18.9999762 16.9999857,18.5521527 16.9999857,17.9999762 L16.9999857,15.9999762 C16.9999857,15.44779 16.5521623,14.9999762 15.9999857,14.9999762 L13.9999857,14.9999762 C13.4477996,14.9999762 12.9999857,15.44779 12.9999857,15.9999762 L12.9999857,17.9999762 C12.9999857,18.5521527 13.4477996,18.9999762 13.9999857,18.9999762 L15.9999857,18.9999762 Z" transform="translate(9 6)"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="35" y="23">Dragging chip</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="15" height="36" x=".5" y=".5" fill="#3F9C35" stroke="#418A38"/>
+      <rect width="15" height="36" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(122)"/>
+      <rect width="137" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300"/>
+      <rect width="137" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(0 29)"/>
+    </g>
+  </g>
+</svg>

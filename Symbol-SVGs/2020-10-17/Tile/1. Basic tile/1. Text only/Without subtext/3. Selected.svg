@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="72" viewBox="0 0 138 72">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="136" height="70" x="1" y="1" fill="#FFF" stroke="#06C" stroke-width="2" rx="3"/>
+    <text fill="#06C" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="24" y="40">Selected tile</tspan>
+    </text>
+    <g fill="#007A87" fill-opacity=".9" stroke="#09707B">
+      <rect width="23" height="71" x=".5" y=".5"/>
+      <rect width="23" height="71" x=".5" y=".5" transform="translate(114)"/>
+      <rect width="137" height="23" x=".5" y=".5"/>
+      <rect width="137" height="23" x=".5" y=".5" transform="translate(0 48)"/>
+    </g>
+  </g>
+</svg>

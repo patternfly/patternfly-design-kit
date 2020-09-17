@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="37" viewBox="0 0 129 37">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#D2D2D2" d="M0,0 L126,0 C127.656854,7.05355176e-15 129,1.34314575 129,3 L129,34 C129,35.6568542 127.656854,37 126,37 L0,37 L0,37 L0,0 Z"/>
+    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="16" y="22">Disabled - right</tspan>
+    </text>
+  </g>
+</svg>

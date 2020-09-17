@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241" height="40" viewBox="0 0 241 40">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#06C" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400">
+      <tspan x="64" y="32">Substep</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="176" height="15" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(64)"/>
+      <rect width="15" height="23" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(225 16)"/>
+      <rect width="47" height="39" x=".5" y=".5" fill="#582FC0" stroke="#5431A5"/>
+      <rect width="15" height="39" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(48)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="37" viewBox="0 0 143 37">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="143" height="37" fill="#06C"/>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="16" y="22">Selected - center</tspan>
+    </text>
+    <rect width="1" height="36" x=".5" y=".5" fill="#FFF" stroke="#D2D2D2" transform="translate(142)"/>
+  </g>
+</svg>
