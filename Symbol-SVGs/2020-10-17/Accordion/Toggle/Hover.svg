@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="40px" viewBox="0 0 109 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Accordion / Toggle / Hover</title>
+    <g id="Accordion-/-Toggle-/-Hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#F0F0F0" x="0" y="0" width="109" height="40"></rect>
+        <g id="angle-right" transform="translate(66.000000, 8.000000)" fill="#151515">
+            <path d="M10.985919,16.7827983 L15.2359089,12.5328085 C15.5296704,12.239047 15.5296704,11.7640725 15.2327961,11.470311 L10.9828062,7.22032113 C10.692188,6.92655962 10.2171831,6.92655962 9.92342157,7.22032113 L9.22029824,7.93281333 C8.92656725,8.22343153 8.92656725,8.6984365 9.22029824,8.99219801 L12.2328033,12.0046725 L9.22029824,15.0171775 C8.92656725,15.3077957 8.92656725,15.7828007 9.22029824,16.0765622 L9.92656487,16.7827983 C10.2171831,17.0765598 10.692188,17.0765598 10.985919,16.7827983 Z"></path>
+        </g>
+        <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
+            <tspan x="16" y="24">Toggle</tspan>
+        </text>
+        <g id="📐-Padding" fill-opacity="0.9">
+            <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, -0.000000)" fill="#92D400" stroke="#7FB300">
+                <rect id="Rectangle-Copy" x="0.5" y="0.5" width="76" height="7"></rect>
+            </g>
+            <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                <rect id="Rectangle-Copy" x="0.5" y="0.5" width="76" height="7"></rect>
+            </g>
+            <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+            </g>
+            <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(93.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

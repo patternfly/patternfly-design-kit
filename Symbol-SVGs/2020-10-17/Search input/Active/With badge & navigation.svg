@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224" height="36" viewBox="0 0 224 36">
+  <defs>
+    <rect id="with-badge-&amp;-navigation-a" width="224" height="36" x="0" y="0"/>
+    <filter id="with-badge-&amp;-navigation-b" width="100.9%" height="105.6%" x="-.4%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="-2" in="SourceAlpha" result="shadowOffsetInner4"/>
+      <feComposite in="shadowOffsetInner4" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner4"/>
+      <feColorMatrix in="shadowInnerInner4" result="shadowMatrixInner4" values="0 0 0 0 0   0 0 0 0 0.4   0 0 0 0 0.8  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+        <feMergeNode in="shadowMatrixInner4"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFF" xlink:href="#with-badge-&amp;-navigation-a"/>
+    <use fill="#000" filter="url(#with-badge-&amp;-navigation-b)" xlink:href="#with-badge-&amp;-navigation-a"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="36" y="22">Text box</tspan>
+    </text>
+    <path fill="#6A6E73" d="M9.77960353,16.0341281 L12.1249959,13.6887358 L14.4703882,16.0341281 C14.7581836,16.3219463 15.2250556,16.3219463 15.5128739,16.0341281 L16.0341281,15.5128739 C16.3219463,15.2250556 16.3219463,14.7584353 16.0341281,14.4703882 L13.6887358,12.1249959 L16.0341281,9.77960353 C16.3219463,9.4918082 16.3219463,9.02516502 16.0341281,8.73711792 L15.5128739,8.21586367 C15.2250556,7.92804544 14.7584353,7.92804544 14.4703882,8.21586367 L12.1249959,10.561256 L9.77960353,8.21586367 C9.4918082,7.92804544 9.02516502,7.92804544 8.73711792,8.21586367 L8.21586367,8.73711792 C7.92804544,9.02493614 7.92804544,9.49155643 8.21586367,9.77960353 L10.561256,12.1249959 L8.21586367,14.4703882 C7.92804544,14.7581836 7.92804544,15.2248268 8.21586367,15.5128739 L8.73711792,16.0341281 C9.02493614,16.3219463 9.4918082,16.3219463 9.77960353,16.0341281 Z" transform="translate(192 6)"/>
+    <path fill="#6A6E73" d="M9.49179103,14.6789928 L11.7511698,12.4196369 L14.0128832,14.6766582 C14.2308468,14.8969564 14.5871005,14.8969564 14.8074217,14.6766582 L15.3370987,14.1469582 C15.5574199,13.9289945 15.5574199,13.5727408 15.3370987,13.3524426 L12.1496063,10.1649502 C11.9292852,9.94462905 11.5730544,9.94462905 11.3527332,10.1672848 L8.16524085,13.3547772 C7.94491972,13.5727408 7.94491972,13.9289945 8.16524085,14.1493157 L8.69727541,14.6789928 C8.91523906,14.8993139 9.27149279,14.8993139 9.49179103,14.6789928 Z" transform="translate(140 6)"/>
+    <path fill="#6A6E73" d="M12.1449143,14.6769317 L15.3324067,11.4894393 C15.5527278,11.2714756 15.5527278,10.9152219 15.3324067,10.6949237 L14.8027296,10.1652237 C14.5847659,9.94492544 14.2285122,9.94492544 14.0081911,10.1652237 L11.7488352,12.4246024 L9.48945644,10.1652237 C9.27149279,9.94492544 8.91523906,9.94492544 8.69491793,10.1652237 L8.16524085,10.6949237 C7.94491972,10.9128873 7.94491972,11.269141 8.16524085,11.4894393 L11.3527332,14.6769317 C11.5730544,14.8972528 11.9292852,14.8972528 12.1449143,14.6769317 Z" transform="translate(164 6)"/>
+    <path fill="#151515" d="M18.8937023,19.7812124 L19.7780996,18.8968456 C20.0718306,18.6030841 20.0718306,18.1280791 19.7812124,17.8343481 L16.6655887,14.7187244 C16.524964,14.5780998 16.3343517,14.499975 16.13434,14.499975 L15.6249723,14.499975 C16.487458,13.3968587 16.999969,12.0093498 16.999969,10.4999845 C16.999969,6.90935586 14.0906131,4 10.4999845,4 C6.90935586,4 4,6.90935586 4,10.4999845 C4,14.0906131 6.90935586,16.999969 10.4999845,16.999969 C12.0093498,16.999969 13.3968587,16.487458 14.499975,15.6249723 L14.499975,16.13434 C14.499975,16.3343517 14.5780998,16.524964 14.7187244,16.6655887 L17.8343481,19.7812124 C18.1280791,20.0749739 18.6030841,20.0749739 18.8937023,19.7812124 Z M10.499994,14.499975 C8.29060867,14.499975 6.49999404,12.7124731 6.49999404,10.499994 C6.49999404,8.29060867 8.28749588,6.49999404 10.499994,6.49999404 C12.7093603,6.49999404 14.499975,8.28749588 14.499975,10.499994 C14.499975,12.7093603 12.7124731,14.499975 10.499994,14.499975 Z" transform="translate(8 6)"/>
+    <g transform="translate(103 9)">
+      <rect width="33" height="18" fill="#F0F0F0" rx="9"/>
+      <text fill="#151515" font-family="RedHatText-Medium, Red Hat Text" font-size="12" font-weight="400">
+        <tspan x="8.046" y="12">1/2</tspan>
+      </text>
+      <g fill="#92D400" fill-opacity=".9" stroke="#7FB300">
+        <rect width="7" height="17" x=".5" y=".5"/>
+        <rect width="7" height="17" x=".5" y=".5" transform="translate(25)"/>
+      </g>
+    </g>
+    <g fill-opacity=".9">
+      <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300"/>
+      <rect width="7" height="23" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(216 6)"/>
+      <rect width="215" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8 30)"/>
+      <rect width="215" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8)"/>
+      <rect width="3" height="23" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(32 6)"/>
+      <rect width="3" height="23" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(99 6)"/>
+      <rect width="3" height="23" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(136 6)"/>
+      <rect width="3" height="23" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(188 6)"/>
+    </g>
+  </g>
+</svg>

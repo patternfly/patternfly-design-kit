@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="27" viewBox="0 0 62 27">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#C9190B" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="41" y="18">*</tspan>
+    </text>
+    <text fill="#151515" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400">
+      <tspan x="0" y="18">Label</tspan>
+    </text>
+    <g fill="#92D400" fill-opacity=".9" stroke="#7FB300">
+      <rect width="53" height="7" x=".5" y=".5" transform="translate(0 19)"/>
+      <rect width="7" height="26" x=".5" y=".5" transform="translate(54)"/>
+    </g>
+  </g>
+</svg>

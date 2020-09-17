@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="956" height="72" viewBox="0 0 956 72">
+  <defs>
+    <rect id="row-expanded-and-selected-b" width="956" height="72" x="0" y="0"/>
+    <filter id="row-expanded-and-selected-a" width="101.2%" height="115.3%" x="-.6%" y="-4.9%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+    <rect id="row-expanded-and-selected-c" width="956" height="72" x="0" y="0"/>
+    <filter id="row-expanded-and-selected-d" width="100.1%" height="101.4%" x="-.1%" y="-.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#row-expanded-and-selected-a)" xlink:href="#row-expanded-and-selected-b"/>
+    <use fill="#FFF" xlink:href="#row-expanded-and-selected-b"/>
+    <use fill="#FFF" xlink:href="#row-expanded-and-selected-c"/>
+    <use fill="#000" filter="url(#row-expanded-and-selected-d)" xlink:href="#row-expanded-and-selected-c"/>
+    <rect width="3" height="72" fill="#06C"/>
+  </g>
+</svg>

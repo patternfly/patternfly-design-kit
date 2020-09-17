@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="712" height="25" viewBox="0 0 712 25">
+  <defs>
+    <rect id="2.-informational-b" width="712" height="25" x="0" y="0"/>
+    <filter id="2.-informational-a" width="103.9%" height="212%" x="-2%" y="-40%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0"/>
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#2.-informational-a)" xlink:href="#2.-informational-b"/>
+    <use fill="#FFF" xlink:href="#2.-informational-b"/>
+    <rect width="712" height="25" fill="#73BCF7"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="24" y="16">Optional text</tspan>
+    </text>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="343.766" y="16">Text</tspan>
+    </text>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="617.092" y="16">Optional text</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="711" height="3" x=".5" y=".5" fill="#EC7A08" stroke="#C77000"/>
+      <rect width="711" height="3" x=".5" y=".5" fill="#EC7A08" stroke="#C77000" transform="translate(0 21)"/>
+      <rect width="23" height="24" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(688)"/>
+      <rect width="23" height="24" x=".5" y=".5" fill="#007A87" stroke="#09707B"/>
+    </g>
+  </g>
+</svg>

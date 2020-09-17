@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="222" viewBox="0 0 223 222">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#B8BBBE" stroke-width="8" d="M111,4 C83.2900939,4 58.0403587,14.5332433 39.0363275,31.8141965"/>
+    <path stroke="#D2D2D2" stroke-width="8" d="M51.1727842,22.2756074 C22.7120033,41.5044986 4,74.067038 4,111 C4,131.965505 10.0297966,151.522676 20.4497898,168.031912"/>
+    <path stroke="#EDEDED" stroke-width="8" d="M20,167.638697 C38.9056176,197.882221 72.5020298,218 110.797201,218 L110.797201,218 C169.891669,218 217.797201,170.094468 217.797201,111 C217.797201,51.9055318 169.891669,4 110.797201,4"/>
+    <rect width="9" height="3" x="15" y="166" fill="#FFF" transform="rotate(-32 19.5 167.5)"/>
+    <rect width="3" height="8" x="108" fill="#FFF"/>
+    <rect width="3" height="8" x="50" y="18" fill="#FFF" transform="rotate(-34 51.5 22)"/>
+    <path stroke="#F0AB00" stroke-width="8" d="M33.1457077,57.6543954 C22.952282,72.738608 17,90.924189 17,110.5 C17,162.690909 59.3090911,205 111.5,205 L111.5,205 C163.690909,205 206,162.690909 206,110.5 C206,58.3090911 163.690909,16 111.5,16"/>
+    <text fill="#151515" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400">
+      <tspan x="87.496" y="109.8">80%</tspan>
+    </text>
+    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
+      <tspan x="73.671" y="134.2">of 100 GBps</tspan>
+    </text>
+  </g>
+</svg>

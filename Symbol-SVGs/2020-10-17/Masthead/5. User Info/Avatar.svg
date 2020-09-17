@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239" height="76" viewBox="0 0 239 76">
+  <defs>
+    <circle id="avatar-a" cx="18" cy="18" r="18"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(179 20)">
+      <mask id="avatar-b" fill="#fff">
+        <use xlink:href="#avatar-a"/>
+      </mask>
+      <image width="36" height="36" mask="url(#avatar-b)" xlink:href="data:image/png;base64,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"/>
+    </g>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="32" y="42">Ned Username</tspan>
+    </text>
+    <g transform="translate(139 26)">
+      <path fill="#151515" d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"/>
+      <rect width="24" height="24" fill="#FFF"/>
+    </g>
+    <g fill-opacity=".9">
+      <rect width="15" height="75" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(163)"/>
+      <rect width="31" height="75" x=".5" y=".5" fill="#0088CE" stroke="#0479B0"/>
+      <rect width="23" height="75" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(215)"/>
+    </g>
+  </g>
+</svg>

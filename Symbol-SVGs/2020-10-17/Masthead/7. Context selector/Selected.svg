@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="76" viewBox="0 0 123 76">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="123" height="76" fill="#151515"/>
+    <rect width="123" height="2" y="74" fill="#2B9AF3"/>
+    <path fill="#FFF" d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" transform="translate(83 26)"/>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="16" y="42">Context</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="7" height="23" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(75 26)"/>
+      <rect width="15" height="75" x=".5" y=".5" fill="#3F9C35" stroke="#418A38"/>
+      <rect width="15" height="75" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(107)"/>
+    </g>
+  </g>
+</svg>

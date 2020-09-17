@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="36" viewBox="0 0 82 36">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="82" height="36" fill="#7D1007" rx="3"/>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="16.12" y="22">Button</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="15" height="35" x=".5" y=".5" fill="#3F9C35" stroke="#418A38"/>
+      <rect width="15" height="35" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(66)"/>
+      <rect width="49" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(16)"/>
+      <rect width="49" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(16 30)"/>
+    </g>
+  </g>
+</svg>

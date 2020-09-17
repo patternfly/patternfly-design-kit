@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="72" viewBox="0 0 110 72">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(86 24)">
+      <path fill="#151515" d="M11.4894393,15.3370987 L14.6769317,12.1496063 C14.8972528,11.9292852 14.8972528,11.5730544 14.6745971,11.3527332 L11.4871047,8.16524085 C11.269141,7.94491972 10.9128873,7.94491972 10.6925662,8.16524085 L10.1652237,8.69961 C9.94492544,8.91757365 9.94492544,9.27382738 10.1652237,9.49414851 L12.4246024,11.7535044 L10.1652237,14.0128832 C9.94492544,14.2308468 9.94492544,14.5871005 10.1652237,14.8074217 L10.6949237,15.3370987 C10.9128873,15.5574199 11.269141,15.5574199 11.4894393,15.3370987 Z"/>
+      <rect width="24" height="24" fill="#6A6E73"/>
+    </g>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="32" y="40">Default</tspan>
+    </text>
+    <circle cx="12" cy="36" r="12" fill="#06C"/>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="9.544" y="40">1</tspan>
+    </text>
+    <rect width="7" height="74" x=".5" y=".5" fill="#92D400" fill-opacity=".9" stroke="#7FB300" transform="translate(24)"/>
+  </g>
+</svg>

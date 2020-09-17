@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="24" viewBox="0 0 96 24">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="56" y="16">Label</tspan>
+    </text>
+    <rect width="15" height="23" x=".5" y=".5" fill="#3F9C35" fill-opacity=".9" stroke="#418A38" transform="translate(40)"/>
+    <rect width="40" height="24" fill="#06C" rx="12"/>
+    <rect width="13" height="13" x="21" y="6" fill="#FFF" rx="6"/>
+  </g>
+</svg>

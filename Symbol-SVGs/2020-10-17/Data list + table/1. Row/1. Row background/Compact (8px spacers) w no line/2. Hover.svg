@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="956" height="40" viewBox="0 0 956 40">
+  <defs>
+    <rect id="2.-hover-b" width="956" height="40" x="0" y="0"/>
+    <filter id="2.-hover-a" width="101.2%" height="127.5%" x="-.6%" y="-18.8%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+    <rect id="2.-hover-d" width="956" height="40" x="0" y="0"/>
+    <filter id="2.-hover-c" width="101.2%" height="127.5%" x="-.6%" y="-8.8%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="956" height="40" fill="#FFF"/>
+    <use fill="#000" filter="url(#2.-hover-a)" xlink:href="#2.-hover-b"/>
+    <use fill="#FFF" xlink:href="#2.-hover-b"/>
+    <use fill="#000" filter="url(#2.-hover-c)" xlink:href="#2.-hover-d"/>
+    <use fill="#FFF" xlink:href="#2.-hover-d"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="90" viewBox="0 0 185 90">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="184" height="89" x=".5" y=".5" fill="#FFF" stroke="#06C" rx="3"/>
+    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="12">
+      <tspan x="24.304" y="60">Place icon symbol over ‘x’</tspan>
+    </text>
+    <text fill="#06C" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="44.412" y="40">[ x ]Hover tile</tspan>
+    </text>
+    <g fill="#007A87" fill-opacity=".9" stroke="#09707B">
+      <rect width="23" height="89" x=".5" y=".5"/>
+      <rect width="23" height="89" x=".5" y=".5" transform="translate(161)"/>
+      <rect width="184" height="23" x=".5" y=".5"/>
+      <rect width="184" height="23" x=".5" y=".5" transform="translate(0 66)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="249" height="48" viewBox="0 0 249 48" style="background:#fff">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="249" height="48" fill="#FFF"/>
+    <text fill="#06C" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="56" y="40">Step</tspan>
+    </text>
+    <circle cx="36" cy="36" r="12" fill="#06C"/>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="33.544" y="40">1</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="7" height="23" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(48 24)"/>
+      <rect width="248" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B"/>
+      <rect width="23" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(0 24)"/>
+      <rect width="23" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(225 24)"/>
+    </g>
+  </g>
+</svg>

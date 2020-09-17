@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="42" viewBox="0 0 106 42">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#06C" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400">
+      <tspan x="0" y="25">Category</tspan>
+    </text>
+    <g transform="translate(82 9)">
+      <path fill="#151515" d="M12.9711625,18.7803016 L15.6605176,16.090977 C16.1329896,15.618505 15.7983652,14.8106456 15.1301539,14.8106456 L13.6908568,14.8106456 L13.6908568,5.37499911 C13.6908568,5.16790731 13.5229495,5 13.3158577,5 L11.5658619,5 C11.3587701,5 11.1908628,5.16790731 11.1908628,5.37499911 L11.1908628,14.8106456 L9.75153514,14.8106456 C9.08332384,14.8106456 8.74869939,15.6184744 9.22117141,16.090977 L11.9105266,18.7803016 C12.2034336,19.0732086 12.678286,19.0732086 12.9711625,18.7803016 Z"/>
+      <rect width="24" height="24" fill="#06C"/>
+    </g>
+    <g fill-opacity=".9">
+      <rect width="15" height="17" x=".5" y=".5" fill="#3F9C35" stroke="#418A38" transform="translate(66 12)"/>
+      <rect width="105" height="3" x=".5" y=".5" fill="#EC7A08" stroke="#C77000"/>
+      <rect width="105" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(0 4)"/>
+      <rect width="105" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(0 30)"/>
+    </g>
+  </g>
+</svg>

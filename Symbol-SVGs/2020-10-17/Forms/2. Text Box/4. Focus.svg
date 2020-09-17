@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="36" viewBox="0 0 140 36">
+  <defs>
+    <rect id="4.-focus-a" width="140" height="36" x="0" y="0"/>
+    <filter id="4.-focus-b" width="101.4%" height="105.6%" x="-.7%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0"/>
+      <feOffset dy="-2" in="SourceAlpha" result="shadowOffsetInner4"/>
+      <feComposite in="shadowOffsetInner4" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner4"/>
+      <feColorMatrix in="shadowInnerInner4" result="shadowMatrixInner4" values="0 0 0 0 0   0 0 0 0 0.4   0 0 0 0 0.8  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+        <feMergeNode in="shadowMatrixInner4"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="155" height="51" x="-7.5" y="-7.5" fill="#06C" fill-opacity=".2" fill-rule="nonzero" stroke="#06C" rx="3"/>
+    <use fill="#FFF" xlink:href="#4.-focus-a"/>
+    <use fill="#000" filter="url(#4.-focus-b)" xlink:href="#4.-focus-a"/>
+    <text fill="#151515" stroke="#979797" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="8" y="22">Text box</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300"/>
+      <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(132)"/>
+      <rect width="123" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8 30)"/>
+      <rect width="123" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8)"/>
+    </g>
+  </g>
+</svg>

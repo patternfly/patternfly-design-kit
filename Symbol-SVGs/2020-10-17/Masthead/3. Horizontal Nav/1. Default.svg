@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="76" viewBox="0 0 66 76">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#F0F0F0" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="32" y="44">Item</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="31" height="75" x=".5" y=".5" fill="#0088CE" stroke="#0479B0"/>
+      <rect width="33" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(32 52)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="956" height="72" viewBox="0 0 956 72">
+  <defs>
+    <rect id="row-expanded-(selectable-rows-not-supported)-a" width="956" height="72" x="0" y="0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFF" xlink:href="#row-expanded-(selectable-rows-not-supported)-a"/>
+    <use fill="#000" filter="url(#row-expanded-(selectable-rows-not-supported)-b)" xlink:href="#row-expanded-(selectable-rows-not-supported)-a"/>
+    <rect width="3" height="72" fill="#06C"/>
+  </g>
+</svg>

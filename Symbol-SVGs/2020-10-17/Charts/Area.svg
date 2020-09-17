@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="209" viewBox="0 0 452 209">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#06C" fill-opacity=".4" points="1 24.333 79 108.521 152 4.2 226 132.2 299 63 373 181 449 207 1 207"/>
+    <polyline stroke="#06C" stroke-width="2" points="3 25 78.5 108.16 152.5 4.2 226 132.2 299.5 63 373 181 449 206"/>
+    <circle cx="3" cy="25" r="3" fill="#06C"/>
+    <circle cx="79" cy="107" r="3" fill="#06C"/>
+    <circle cx="226" cy="132" r="3" fill="#06C"/>
+    <circle cx="300" cy="63" r="3" fill="#06C"/>
+    <circle cx="152.5" cy="3.5" r="3" fill="#06C"/>
+    <circle cx="373" cy="181" r="3" fill="#06C"/>
+    <circle cx="449" cy="206" r="3" fill="#06C"/>
+  </g>
+</svg>

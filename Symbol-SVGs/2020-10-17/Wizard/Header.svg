@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="966" height="115" viewBox="0 0 966 115" style="background:#fff">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="966" height="115" fill="#FFF"/>
+    <rect width="966" height="115" fill="#151515"/>
+    <g transform="translate(902 24)">
+      <rect width="40" height="36" rx="3"/>
+      <g transform="translate(8 6)">
+        <path fill="#6A6E73" d="M9.37280471,17.7121708 L12.5,14.584981 L15.6271843,17.7121708 C16.0109114,18.0959284 16.6334075,18.0959284 17.0171651,17.7121708 L17.7121708,17.0171651 C18.0959284,16.6334075 18.0959284,16.0112471 17.7121708,15.6271843 L14.584981,12.5 L17.7121708,9.37280471 C18.0959284,8.98907759 18.0959284,8.36688669 17.7121708,7.98282389 L17.0171651,7.28781822 C16.6334075,6.90406059 16.0112471,6.90406059 15.6271843,7.28781822 L12.5,10.415008 L9.37280471,7.28781822 C8.98907759,6.90406059 8.36688669,6.90406059 7.98282389,7.28781822 L7.28781822,7.98282389 C6.90406059,8.36658152 6.90406059,8.9887419 7.28781822,9.37280471 L10.415008,12.5 L7.28781822,15.6271843 C6.90406059,16.0109114 6.90406059,16.6331023 7.28781822,17.0171651 L7.98282389,17.7121708 C8.36658152,18.0959284 8.98907759,18.0959284 9.37280471,17.7121708 Z"/>
+        <rect width="24" height="24" fill="#FFF"/>
+      </g>
+      <g fill-opacity=".9">
+        <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300"/>
+        <rect width="7" height="35" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(32)"/>
+        <rect width="23" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8)"/>
+        <rect width="23" height="5" x=".5" y=".5" fill="#F3D53C" stroke="#CBB534" transform="translate(8 30)"/>
+      </g>
+    </g>
+    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
+      <tspan x="24" y="83">Description</tspan>
+    </text>
+    <g fill-opacity=".9">
+      <rect width="901" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(32)"/>
+      <rect width="901" height="23" x=".5" y=".5" fill="#007A87" stroke="#09707B" transform="translate(32 91)"/>
+      <rect width="901" height="7" x=".5" y=".5" fill="#92D400" stroke="#7FB300" transform="translate(32 61)"/>
+      <rect width="31" height="114" x=".5" y=".5" fill="#0088CE" stroke="#0479B0"/>
+      <rect width="31" height="114" x=".5" y=".5" fill="#0088CE" stroke="#0479B0" transform="translate(934)"/>
+    </g>
+    <text fill="#FFF" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="28" font-weight="400">
+      <tspan x="24" y="53">Title</tspan>
+    </text>
+  </g>
+</svg>
