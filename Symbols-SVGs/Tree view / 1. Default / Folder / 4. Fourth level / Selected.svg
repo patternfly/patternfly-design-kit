@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="40px" viewBox="0 0 268 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Tree-view" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-3.-Menu-Item-/-Default">
+            <text id="✏️-Label" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400" line-spacing="24" fill="#151515">
+                <tspan x="104" y="24">Fourth level</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="259" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="259" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(260.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" fill="#0088CE" stroke="#0479B0">
+                    <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="31" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-6.-pf-global--spacer--2xl-(48px)" transform="translate(32.000000, 0.000000)" fill="#582FC0" stroke="#5431A5">
+                    <rect id="Rectangle-Copy-5" x="0.5" y="0.5" width="47" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(96.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+            </g>
+            <g id="angle-down" transform="translate(76.000000, 8.000000)" fill="#151515">
+                <path d="M12.1449143,14.6769317 L15.3324067,11.4894393 C15.5527278,11.2714756 15.5527278,10.9152219 15.3324067,10.6949237 L14.8027296,10.1652237 C14.5847659,9.94492544 14.2285122,9.94492544 14.0081911,10.1652237 L11.7488352,12.4246024 L9.48945644,10.1652237 C9.27149279,9.94492544 8.91523906,9.94492544 8.69491793,10.1652237 L8.16524085,10.6949237 C7.94491972,10.9128873 7.94491972,11.269141 8.16524085,11.4894393 L11.3527332,14.6769317 C11.5730544,14.8972528 11.9292852,14.8972528 12.1449143,14.6769317 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="20px" viewBox="0 0 800 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Slider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Slider/1.-Base-track" fill="#D2D2D2">
+            <rect id="Track-Grey" x="0" y="8" width="800" height="4" rx="2"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="88px" viewBox="0 0 60 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="88"></rect>
+        <filter x="-0.8%" y="-0.6%" width="101.7%" height="101.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="60" height="56"></rect>
+        <filter x="-0.8%" y="-0.9%" width="101.7%" height="101.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Tabs-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tabs/2.-Vertical/2.-Box/3.-Last-tab/2.-Selected">
+            <g id="Rectangle" transform="translate(30.000000, 44.000000) scale(1, -1) translate(-30.000000, -44.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="56"></rect>
+            <text id="Tab" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="30">Tab</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-5.-pf-global--spacer--xl-(32px)" transform="translate(0.000000, 56.000000)" fill="#0088CE" stroke="#0479B0">
+                    <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="59" height="31"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 40.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(44.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

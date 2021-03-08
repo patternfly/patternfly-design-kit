@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="222px" viewBox="0 0 223 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Donut-/-Default-size-/-Standard-with-sublabel">
+            <path d="M4.01798581,112.98184 C5.07477477,171.161826 52.5675666,218 111,218 C170.094468,218 218,170.094468 218,111 C218,52.5849746 171.18973,5.10307355 113.033835,4.01894268" id="Large-path" stroke="#0066CC" stroke-width="8"></path>
+            <path d="M110.014362,4.00444538 C51.7043656,4.5306072 4.5345092,51.6980869 4.00451055,110.007167" id="Small-path" stroke="#8BC1F7" stroke-width="8"></path>
+            <rect id="Rectangle" fill="#FFFFFF" x="110" y="0" width="3" height="8"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(4.000000, 111.500000) rotate(90.000000) translate(-4.000000, -111.500000) " x="2.5" y="107.5" width="3" height="8"></rect>
+            <text id="💯-Count" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+                <tspan x="92.128" y="109.8">100</tspan>
+            </text>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="97.213" y="134">Pets</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

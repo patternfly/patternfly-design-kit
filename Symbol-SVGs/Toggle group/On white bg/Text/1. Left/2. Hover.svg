@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="37" viewBox="0 0 106 37">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#D2D2D2" d="M3,0 L106,0 L106,0 L106,37 L3,37 C1.34314575,37 2.02906125e-16,35.6568542 0,34 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z"/>
-    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
-      <tspan x="15.303" y="22">Hover - left</tspan>
-    </text>
-    <rect width="1" height="36" x=".5" y=".5" fill="#FFF" stroke="#D2D2D2" transform="translate(105)"/>
-  </g>
-</svg>

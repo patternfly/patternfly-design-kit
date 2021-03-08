@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="36px" viewBox="0 0 140 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms/2.-Text-Box/5.-Disabled">
+            <rect id="Background" fill="#F0F0F0" x="0" y="0" width="140" height="36"></rect>
+            <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="8" y="22">Text box</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

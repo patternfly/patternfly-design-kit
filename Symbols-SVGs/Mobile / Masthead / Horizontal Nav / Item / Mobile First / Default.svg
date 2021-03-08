@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="40px" viewBox="0 0 81 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Masthead-/-Horizontal-Nav-/-Item-/-Mobile-First-/-Default">
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#D2D2D2">
+                <tspan x="16" y="24">Item</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" transform="translate(49.000000, 0.000000)" fill="#0088CE" stroke="#0479B0">
+                    <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="31" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="32" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="32" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

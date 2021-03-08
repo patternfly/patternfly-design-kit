@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="40px" viewBox="0 0 114 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-3.-Menu-Item-/-6.-With-arrow-/-Selected">
+            <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="114" height="40"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="24">Option</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="81" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="81" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(98.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(66.500000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+            </g>
+            <g id="angle-right" transform="translate(74.000000, 8.000000)" fill="#151515">
+                <path d="M11.4894393,15.3370987 L14.6769317,12.1496063 C14.8972528,11.9292852 14.8972528,11.5730544 14.6745971,11.3527332 L11.4871047,8.16524085 C11.269141,7.94491972 10.9128873,7.94491972 10.6925662,8.16524085 L10.1652237,8.69961 C9.94492544,8.91757365 9.94492544,9.27382738 10.1652237,9.49414851 L12.4246024,11.7535044 L10.1652237,14.0128832 C9.94492544,14.2308468 9.94492544,14.5871005 10.1652237,14.8074217 L10.6949237,15.3370987 C10.9128873,15.5574199 11.269141,15.5574199 11.4894393,15.3370987 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

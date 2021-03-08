@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="222px" viewBox="0 0 223 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Donut-/-Default-size-/-Utilization-with-thresholds-/-2.-Warning">
+            <path d="M111,4 C83.2900939,4 58.0403587,14.5332433 39.0363275,31.8141965" id="threshold-3" stroke="#B8BBBE" stroke-width="8"></path>
+            <path d="M51.1727842,22.2756074 C22.7120033,41.5044986 4,74.067038 4,111 C4,131.965505 10.0297966,151.522676 20.4497898,168.031912" id="threshold-2" stroke="#D2D2D2" stroke-width="8"></path>
+            <path d="M20,167.638697 C38.9056176,197.882221 72.5020298,218 110.797201,218 L110.797201,218 C169.891669,218 217.797201,170.094468 217.797201,111 C217.797201,51.9055318 169.891669,4 110.797201,4" id="threshold-1" stroke="#EDEDED" stroke-width="8"></path>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(19.500000, 167.500000) rotate(-32.000000) translate(-19.500000, -167.500000) " x="15" y="166" width="9" height="3"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="108" y="0" width="3" height="8"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(51.500000, 22.000000) rotate(-34.000000) translate(-51.500000, -22.000000) " x="50" y="18" width="3" height="8"></rect>
+            <path d="M33.1457077,57.6543954 C22.952282,72.738608 17,90.924189 17,110.5 C17,162.690909 59.3090911,205 111.5,205 L111.5,205 C163.690909,205 206,162.690909 206,110.5 C206,58.3090911 163.690909,16 111.5,16" id="Path" stroke="#F0AB00" stroke-width="8"></path>
+            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+                <tspan x="87.424" y="109.8">80%</tspan>
+            </text>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="73.671" y="134.200001">of 100 GBps</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

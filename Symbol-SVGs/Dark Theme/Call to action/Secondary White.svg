@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="98" height="56" viewBox="0 0 98 56" style="background:#000">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="98" height="56" fill="#000"/>
-    <rect width="97" height="55" x=".5" y=".5" stroke="#FFF" rx="3"/>
-    <text fill="#FFF" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="16" font-weight="bold">
-      <tspan x="32.184" y="32">CTA</tspan>
-    </text>
-  </g>
-</svg>

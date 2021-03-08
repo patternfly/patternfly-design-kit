@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="40px" viewBox="0 0 115 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Application-launcher" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Application-launcher-/-2.-Menu-Item-/-1.-No-icons-/-2.-With-favoriting-/-1.-Default-/-2.-Unfavorited">
+            <rect fill="#FFFFFF" x="0" y="0" width="115" height="40"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="24">Option</tspan>
+            </text>
+            <g id="Icons-/-Small-/-star" transform="translate(83.000000, 8.000000)" fill="#D2D2D2">
+                <path d="M5.11640325,17.9135414 L8.17968177,16.3033844 L11.2429603,17.9135414 C11.7867136,18.1994828 12.4359125,17.740118 12.330444,17.1236949 L11.7445079,13.7135468 L14.2218503,11.2994901 C14.6671617,10.8658974 14.4210686,10.1088725 13.8070029,10.0198148 L10.3828015,9.5206018 L8.852341,6.41747505 C8.57811832,5.86436052 7.78357981,5.85733387 7.50702255,6.41747505 L5.97656202,9.5206018 L2.55236059,10.0198148 C1.93829498,10.1088725 1.69220182,10.8658974 2.13751325,11.2994901 L4.61485568,13.7135468 L4.02891957,17.1236949 C3.92345107,17.740118 4.57264997,18.2018174 5.11640325,17.9135414 Z" id="star"></path>
+            </g>
+        </g>
+    </g>
+</svg>

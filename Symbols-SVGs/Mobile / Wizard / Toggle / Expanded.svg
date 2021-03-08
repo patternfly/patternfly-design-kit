@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="990px" height="72px" viewBox="0 0 990 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="990" height="72"></rect>
+        <filter x="-0.1%" y="-0.7%" width="100.1%" height="101.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Wizard-/-Toggle-/-Expanded">
+            <g id="background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="caret-down" transform="translate(950.000000, 24.000000)" fill="#151515">
+                <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

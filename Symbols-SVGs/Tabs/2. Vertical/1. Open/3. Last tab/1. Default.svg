@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="80px" viewBox="0 0 60 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="80"></rect>
+        <filter x="-0.8%" y="-0.6%" width="101.7%" height="101.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Tabs-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tabs/2.-Vertical/1.-Open/3.-Last-tab/1.-Default">
+            <g id="Rectangle" transform="translate(30.000000, 40.000000) scale(-1, -1) translate(-30.000000, -40.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <text id="Tab" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                <tspan x="16" y="32">Tab</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(0.000000, 56.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="59" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 40.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(44.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

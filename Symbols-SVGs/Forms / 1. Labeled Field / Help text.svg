@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="88px" viewBox="0 0 140 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="36"></rect>
+        <filter x="-0.4%" y="-1.4%" width="100.7%" height="102.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-/-1.-Labeled-Field-/-Help-text">
+            <text id="✏️-Help-text" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="0" y="81">Help text</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 27.000000)">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                    <tspan x="8" y="22">Text box</tspan>
+                </text>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Field">
+                <text id="✏️-Label" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008" fill="#151515">
+                    <tspan x="0" y="18">Label</tspan>
+                </text>
+                <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                    <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 19.000000)">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="131" height="7"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="26"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="📐-Padding" transform="translate(0.000000, 63.000000)" fill="#EC7A08" fill-opacity="0.9" stroke="#C77000">
+                <g id="Group" transform="translate(0.000000, 0.000000)">
+                    <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" transform="translate(0.000000, 0.000000)">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="139" height="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <circle id="path-1" cx="19.5" cy="19.5" r="18.5"></circle>
+        <filter x="-16.2%" y="-16.2%" width="132.4%" height="132.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.240496337   0 0 0 0 0.540989578  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Datepicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Focus-(selected)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#004080" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                <tspan x="15.202" y="23">11</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

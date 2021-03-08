@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="72px" viewBox="0 0 110 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Wizard-/-Header-/-Step-/-Default">
+            <g id="Icons-/-Framework-/-angle-right" transform="translate(86.000000, 24.000000)">
+                <g id="angle-right" fill="#151515">
+                    <path d="M11.4894393,15.3370987 L14.6769317,12.1496063 C14.8972528,11.9292852 14.8972528,11.5730544 14.6745971,11.3527332 L11.4871047,8.16524085 C11.269141,7.94491972 10.9128873,7.94491972 10.6925662,8.16524085 L10.1652237,8.69961 C9.94492544,8.91757365 9.94492544,9.27382738 10.1652237,9.49414851 L12.4246024,11.7535044 L10.1652237,14.0128832 C9.94492544,14.2308468 9.94492544,14.5871005 10.1652237,14.8074217 L10.6949237,15.3370987 C10.9128873,15.5574199 11.269141,15.5574199 11.4894393,15.3370987 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="32" y="40">Default</tspan>
+            </text>
+            <circle id="Oval" fill="#F0F0F0" cx="12" cy="36" r="12"></circle>
+            <text id="1" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="9.544" y="40">1</tspan>
+            </text>
+            <g id="📐-Padding" transform="translate(24.000000, 0.000000)" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="74"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="45px" viewBox="0 0 73 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns/3.-Menu-Item/9.-Group-title">
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="73" height="45"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Medium, Red Hat Text" font-size="12" font-weight="400" line-spacing="21" fill="#6A6E73">
+                <tspan x="16" y="28">Group</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Group" transform="translate(-0.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(-0.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="44"></rect>
+                    </g>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="40" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 37.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="40" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(57.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="44"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

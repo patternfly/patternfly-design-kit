@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="56px" viewBox="0 0 160 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Jump-links" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jump-links-/-1.-Horizontal-/-1.-First-/-2.-Hover">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="160" height="56"></rect>
+            <text id="Hover-section" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="32" y="32">Hover section</tspan>
+            </text>
+            <g id="Divider-/-Horizontal" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="159" height="1"></rect>
+            </g>
+            <g id="📐-Padding" fill="#3F9C35" fill-opacity="0.9" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 16.000000)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-2.-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 40.000000)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="143" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(144.000000, 16.000000)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-2.-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="143" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="55"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

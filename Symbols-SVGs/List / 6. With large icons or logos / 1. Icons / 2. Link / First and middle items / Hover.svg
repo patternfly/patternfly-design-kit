@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="36px" viewBox="0 0 99 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List-/-6.-With-large-icons-or-logos-/-1.-Icons-/-2.-Link-/-First-and-middle-items-/-Hover">
+            <text id="List-item" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#004080" text-decoration="underline">
+                <tspan x="36" y="16">List item</tspan>
+            </text>
+            <g id="check" fill="#6A6E73">
+                <path d="M9.84847582,20.5456163 L23.6484612,6.74558509 C24.1170728,6.27692776 24.1170728,5.51713343 23.6484612,5.04852188 L21.9514438,3.35145867 C21.4828322,2.88284711 20.7229921,2.88284711 20.2543806,3.35145867 L8.9999671,14.6058721 L3.74553932,9.35144436 C3.27692776,8.88278703 2.51708766,8.88278703 2.0484761,9.35144436 L0.351458665,11.0485076 C-0.117152888,11.5171649 -0.117152888,12.2769592 0.351458665,12.7455708 L8.15145838,20.5455705 C8.62002416,21.0142278 9.37981849,21.0142278 9.84847582,20.5456163 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

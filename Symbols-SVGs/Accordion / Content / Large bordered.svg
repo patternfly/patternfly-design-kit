@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="91px" viewBox="0 0 343 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343" height="91"></rect>
+        <filter x="-1.0%" y="-2.7%" width="102.0%" height="107.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-2.7%" width="102.0%" height="107.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="3" dy="0" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.4   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Accordion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accordion-/-Content-/-Large-bordered">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Button-/-8.-Call-to-action-/-Link" transform="translate(24.000000, 40.000000)" fill="#0066CC">
+                <text id="CTA-Label" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="18" font-weight="bold" line-spacing="27">
+                    <tspan x="0" y="18">Call to action</tspan>
+                </text>
+                <g id="Icons-/-Web-Componenta-/-Arrow-right" transform="translate(124.000000, 6.000000)">
+                    <path d="M15.5300236,7.69658562 L9.93345697,2.10001896 C9.7135163,1.88007828 9.39294577,1.79418166 9.09250122,1.87468554 C8.79205667,1.95518941 8.55738276,2.18986332 8.47687888,2.49030787 C8.39637501,2.79075243 8.48227162,3.11132295 8.70221231,3.33126362 L12.8016974,7.43074871 L0.92298464,7.43074871 C0.689207112,7.43074871 0.465004503,7.52361647 0.299698827,7.68892214 C0.134393152,7.85422782 0.0415253904,8.07843043 0.0415253904,8.31220796 C0.0491667271,8.79355176 0.441580192,9.17973644 0.92298464,9.17967579 L12.8016974,9.17967579 L8.70221231,13.2931523 C8.53460506,13.4540905 8.43986289,13.67641 8.43986289,13.9087746 C8.43986289,14.1411392 8.53460506,14.3634587 8.70221231,14.524397 C9.04461809,14.8585343 9.59105119,14.8585343 9.93345697,14.524397 L15.5300236,8.92783029 C15.6976309,8.76689206 15.792373,8.54457255 15.792373,8.31220796 C15.792373,8.07984337 15.6976309,7.85752385 15.5300236,7.69658562 Z" id="Arrow-right"></path>
+                </g>
+            </g>
+            <text id="Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="24" y="16">Content</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="66"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(327.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="66"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(24.000000, 24.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="302" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 67.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="342" height="23"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

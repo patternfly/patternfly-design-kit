@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="36px" viewBox="0 0 63 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="36"></rect>
+        <filter x="-1.6%" y="-1.4%" width="103.1%" height="102.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="32" height="36"></rect>
+        <filter x="-1.6%" y="-1.4%" width="103.1%" height="102.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-1.-Toggle-/-Split-/-Action-/-Icons">
+            <g id="📐-Padding" fill="#F3D53C" fill-opacity="0.9" stroke="#CBB534">
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="55" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(0.000000, 30.000000)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="55" height="5"></rect>
+                </g>
+            </g>
+            <g id="Forms-/-6.-Icon-Field-/-Default">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="🖼-Icon" transform="translate(4.000000, 6.000000)" fill="#151515">
+                    <path d="M14.1267358,19.3124813 C14.2986104,19.2750058 14.4204668,19.1218689 14.4204668,18.9468815 L14.4204668,17.4093791 C15.1142213,17.1624925 15.757988,16.7906367 16.3204867,16.3124884 L17.6517213,17.0812549 C17.8048582,17.1687486 17.9954705,17.1406114 18.1142141,17.0093862 C18.8860934,16.175007 19.4767292,15.1687533 19.8235911,14.0531249 C19.870466,13.8812503 19.8017101,13.7000068 19.6486038,13.6125132 L18.3173386,12.8437467 C18.4517072,12.1187728 18.4517072,11.3750002 18.3173386,10.6500263 L19.6486038,9.88125984 C19.8017101,9.79376615 19.870466,9.61252269 19.8204784,9.44376088 C19.4735859,8.33127574 18.8829806,7.32502204 18.1111013,6.48753014 C17.9923577,6.35938713 17.7986021,6.32813721 17.6486085,6.41566141 L16.3173434,7.18439737 C15.757988,6.70313631 15.1142213,6.33128051 14.417354,6.0875372 L14.417354,4.55314754 C14.417354,4.37816017 14.2954671,4.22502333 14.1235925,4.18751731 C12.9767447,3.93129234 11.8017292,3.943774 10.7111251,4.18751731 C10.5392505,4.22502333 10.4173636,4.37816017 10.4173636,4.55314754 L10.4173636,6.09064998 C9.72360911,6.3375366 9.07987286,6.7093924 8.5173742,7.18751016 L7.18925236,6.4187742 C7.03611552,6.33128051 6.84550318,6.35938713 6.72675957,6.49064293 C5.95488031,7.32502204 5.36424451,8.33127574 5.01738254,9.44690419 C4.96425156,9.61563547 5.03612029,9.79687894 5.18925713,9.88440314 L6.52049175,10.6531391 C6.38612317,11.3781435 6.38612317,12.1218856 6.52049175,12.84689 L5.18925713,13.6156259 C5.03612029,13.7031196 4.96736435,13.8843936 5.01738254,14.0531249 C5.36424451,15.1656406 5.95488031,16.1718637 6.72675957,17.0093862 C6.84550318,17.1374986 7.03925882,17.1687486 7.18925236,17.0812549 L8.52048698,16.3124884 C9.07987286,16.7937495 9.72360911,17.1656358 10.4204763,17.4093791 L10.4204763,18.9468815 C10.4204763,19.1218689 10.5423633,19.2750058 10.7142379,19.3124813 C11.8611162,19.5687367 13.0361012,19.5562551 14.1267358,19.3124813 Z M12.4173648,14.2468805 C11.0392493,14.2468805 9.91736475,13.124996 9.91736475,11.7468925 C9.91736475,10.368777 11.0392493,9.24689246 12.4173648,9.24689246 C13.7954683,9.24689246 14.9173528,10.368777 14.9173528,11.7468925 C14.9173528,13.124996 13.7954683,14.2468805 12.4173648,14.2468805 Z" id="cog"></path>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Forms-/-6.-Icon-Field-/-Default" transform="translate(31.000000, 0.000000)">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <g id="caret-down" transform="translate(4.000000, 6.000000)" fill="#151515">
+                    <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"></path>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

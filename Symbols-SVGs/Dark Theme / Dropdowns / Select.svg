@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="36px" viewBox="0 0 150 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="1.13686838e-13" y="0" width="150" height="36"></rect>
+        <filter x="-0.7%" y="-2.8%" width="101.3%" height="105.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.168627451   0 0 0 0 0.603921569   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dark-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dark-Theme-/-Dropdowns-/-Select">
+            <g id="Background">
+                <use fill="#393F44" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Icons-/-Small-/-caret-down" transform="translate(118.000000, 6.000000)" fill="#FFFFFF">
+                <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" id="caret-down"></path>
+            </g>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="8" y="22">Dark dropdown</tspan>
+            </text>
+            <g id="📐-Padding" transform="translate(0.000000, 0.000000)" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(142.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="133" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="133" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

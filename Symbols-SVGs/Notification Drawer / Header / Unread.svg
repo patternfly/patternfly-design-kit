@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="67px" viewBox="0 0 540 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="540" height="68"></rect>
+        <filter x="-1.0%" y="-5.1%" width="102.0%" height="116.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Notification-Drawer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notification-Drawer-/-Header-/-Unread">
+            <g id="Background">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Kebab" transform="translate(444.000000, 16.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="ellipsis-v" fill="#151515">
+                        <path d="M12.2499946,8.49998927 C13.4937356,8.49998927 14.4999893,7.49373557 14.4999893,6.24999464 C14.4999893,5.0062537 13.4937356,4 12.2499946,4 C11.0062537,4 10,5.0062537 10,6.24999464 C10,7.49373557 11.0062537,8.49998927 12.2499946,8.49998927 Z M12.2499946,13.9999762 C13.4937356,13.9999762 14.4999893,12.9937225 14.4999893,11.7499815 C14.4999893,10.5062406 13.4937356,9.49998689 12.2499946,9.49998689 C11.0062537,9.49998689 10,10.5062406 10,11.7499815 C10,12.9937225 11.0062537,13.9999762 12.2499946,13.9999762 Z M12.2499946,19.499963 C13.4937356,19.499963 14.4999893,18.4937093 14.4999893,17.2499684 C14.4999893,16.0062275 13.4937356,14.9999738 12.2499946,14.9999738 C11.0062537,14.9999738 10,16.0062275 10,17.2499684 C10,18.4937093 11.0062537,19.499963 12.2499946,19.499963 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="times" transform="translate(492.000000, 22.000000)" fill="#6A6E73">
+                <path d="M9.37280471,17.7121708 L12.5,14.584981 L15.6271843,17.7121708 C16.0109114,18.0959284 16.6334075,18.0959284 17.0171651,17.7121708 L17.7121708,17.0171651 C18.0959284,16.6334075 18.0959284,16.0112471 17.7121708,15.6271843 L14.584981,12.5 L17.7121708,9.37280471 C18.0959284,8.98907759 18.0959284,8.36688669 17.7121708,7.98282389 L17.0171651,7.28781822 C16.6334075,6.90406059 16.0112471,6.90406059 15.6271843,7.28781822 L12.5,10.415008 L9.37280471,7.28781822 C8.98907759,6.90406059 8.36688669,6.90406059 7.98282389,7.28781822 L7.28781822,7.98282389 C6.90406059,8.36658152 6.90406059,8.9887419 7.28781822,9.37280471 L10.415008,12.5 L7.28781822,15.6271843 C6.90406059,16.0109114 6.90406059,16.6331023 7.28781822,17.0171651 L7.98282389,17.7121708 C8.36658152,18.0959284 8.98907759,18.0959284 9.37280471,17.7121708 Z"></path>
+            </g>
+            <text id="Notifications" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30" fill="#151515">
+                <tspan x="16" y="39">Notifications</tspan>
+            </text>
+            <text id="Unread-count" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="152" y="38">10+ unread</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

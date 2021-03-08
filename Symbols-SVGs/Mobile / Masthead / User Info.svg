@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="52px" viewBox="0 0 207 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <circle id="path-1" cx="18" cy="18" r="18"></circle>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Masthead-/-User-Info">
+            <g id="Avatar" transform="translate(155.000000, 8.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <image mask="url(#mask-2)" x="0" y="0" width="36" height="36" xlink:href="data:image/png;base64,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"></image>
+            </g>
+            <text id="✏️-User-Name" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="8" y="30">Ned Username</tspan>
+            </text>
+            <g id="Icons-/-Small-/-angle-down" transform="translate(115.000000, 14.000000)">
+                <g id="caret-down" fill="#151515">
+                    <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(139.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="51"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(191.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="51"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="51"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
