@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="789px" height="571px" viewBox="0 0 789 571" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Code-editor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Code-editor/Code-block/2.-Editable/4.-Drag-file">
+            <rect id="Rectangle" stroke="#0066CC" fill-opacity="0.2" fill="#0066CC" fill-rule="nonzero" x="0.5" y="36.5" width="788" height="534"></rect>
+            <g id="Group" transform="translate(705.000000, 0.062327)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="84" height="36"></rect>
+                <line x1="0.5" y1="0.5" x2="0.5" y2="35.5" id="Line" stroke="#D2D2D2" stroke-linecap="square"></line>
+                <line x1="83.5" y1="0.5" x2="83.5" y2="35.5" id="Line" stroke="#D2D2D2" stroke-linecap="square"></line>
+                <line x1="83.5" y1="0.5" x2="0.5" y2="0.5" id="Line" stroke="#D2D2D2" stroke-linecap="square"></line>
+                <text id="HTML" font-family="LiberationMono, Liberation Mono" font-size="16" font-weight="normal" fill="#6A6E73">
+                    <tspan x="37" y="22">HTML</tspan>
+                </text>
+                <g transform="translate(8.000000, 6.062327)" fill="#6A6E73" id="Icons/1.-Size-md-(16px)/Object/code">
+                    <path d="M11.1820002,19.726918 L15.447615,5.03319688 C15.5038588,4.83321567 15.3913713,4.62383507 15.1913595,4.56759131 L13.2851141,4.01446152 C13.0851329,3.95821776 12.8757523,4.07070528 12.8195085,4.27071701 L8.55389368,18.9644381 C8.49764991,19.1644193 8.61013744,19.3737999 8.81014917,19.4300437 L10.7163946,19.9831734 C10.9163758,20.0425605 11.1226437,19.9269297 11.1820002,19.726918 Z M7.15390312,16.4769257 L8.51327488,15.0269475 C8.65701233,14.8738106 8.64764345,14.6300673 8.48825052,14.4894426 L5.65701948,11.9988175 L8.48825052,9.50819232 C8.64764345,9.36756765 8.66012511,9.12382434 8.51327488,8.9706875 L7.15390312,7.52070926 C7.01327845,7.37071573 6.77576071,7.36131633 6.62265438,7.5050843 L2.11952181,11.7238242 C1.9601594,11.870705 1.9601594,12.1238172 2.11952181,12.2706979 L6.62265438,16.4925507 C6.77576071,16.6363186 7.01327845,16.6300625 7.15390312,16.4769257 Z M17.3788543,16.495694 L21.8819869,12.2738107 C22.0413493,12.12693 22.0413493,11.8738178 21.8819869,11.726937 L17.3788543,7.501941 C17.2288608,7.36131633 16.9913736,7.36757242 16.8476056,7.51756596 L15.4882338,8.96757471 C15.3444964,9.12071155 15.3538653,9.36445487 15.5132582,9.50507953 L18.3444892,11.9988175 L15.5132582,14.4894426 C15.3538653,14.6300673 15.3413836,14.8738106 15.4882338,15.0269475 L16.8476056,16.4769257 C16.9882303,16.6300625 17.225748,16.6363186 17.3788543,16.495694 Z" id="code"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(267.000000, 165.000000)">
+                <g transform="translate(94.000000, 0.000000)" fill="#6A6E73" id="Icons/4.-Size-xl-(54px)/Object/code">
+                    <path d="M30.9892507,54.0783481 L45.3857007,4.48703949 C45.5755234,3.81210289 45.195878,3.10544335 44.5208384,2.91562066 L38.08726,1.04880763 C37.4123234,0.858984934 36.7056639,1.23863033 36.5158412,1.91366992 L22.1193912,51.5049785 C21.9295685,52.1799151 22.3092139,52.8865747 22.9842534,53.0763974 L29.4178319,54.9432104 C30.0927684,55.1436417 30.7889223,54.7533877 30.9892507,54.0783481 Z M51.9036333,43.1729671 L67.1017058,28.9241112 C67.6395539,28.4283887 67.6395539,27.574135 67.1017058,27.0784125 L51.9036333,12.8190509 C51.3974052,12.3444426 50.5958858,12.3655569 50.1106689,12.8717851 L45.5227892,17.7655647 C45.0376753,18.2824015 45.0692952,19.1050352 45.6072464,19.5796434 L55.1626512,27.996009 L45.6072464,36.4018689 C45.0692952,36.8764772 45.0271696,37.6991109 45.5227892,38.2159477 L50.1106689,43.1096243 C50.5852771,43.6264611 51.3868995,43.6475754 51.9036333,43.1729671 Z M17.394423,43.1096243 L21.9823027,38.2159477 C22.4674166,37.6991109 22.4357967,36.8764772 21.8978455,36.4018689 L12.3424407,27.996009 L21.8978455,19.5901491 C22.4357967,19.1155408 22.4779223,18.2929071 21.9823027,17.7760703 L17.394423,12.8823938 C16.9198148,12.3761656 16.1181924,12.3444426 15.6014585,12.8296595 L0.403386108,27.0679068 C-0.134462036,27.5636294 -0.134462036,28.417883 0.403386108,28.9136055 L15.6014585,43.1623585 C16.1181924,43.6475754 16.9198148,43.6264611 17.394423,43.1096243 Z" id="code"></path>
+                </g>
+                <text id="Start-editing" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30" fill="#151515">
+                    <tspan x="71.22" y="99">Start editing</tspan>
+                </text>
+                <text id="Drag-a-file-here-or" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                    <tspan x="0" y="141">Drag a file here or browse to upload</tspan>
+                </text>
+                <g transform="translate(85.000000, 181.000000)" id="Button-/-1.-Primary-/-Default">
+                    <rect id="Background" fill="#0066CC" x="0" y="0" width="85" height="36" rx="3"></rect>
+                    <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                        <tspan x="16.028" y="22">Browse</tspan>
+                    </text>
+                </g>
+                <g transform="translate(46.000000, 225.000000)" id="Button-/-5.-Link-button-/-Default">
+                    <rect id="Background" x="0" y="0" width="163" height="36" rx="3"></rect>
+                    <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
+                        <tspan x="16" y="22">Start from scratch</tspan>
+                    </text>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                            <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(147.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                            <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="130" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="130" height="5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

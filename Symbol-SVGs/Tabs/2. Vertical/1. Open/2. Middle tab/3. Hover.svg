@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="60" height="56" viewBox="0 0 60 56">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="60" height="56" fill="#FFF"/>
-    <text fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="16">
-      <tspan x="16" y="32">Tab</tspan>
-    </text>
-    <rect width="3" height="56" fill="#B8BBBE"/>
-  </g>
-</svg>

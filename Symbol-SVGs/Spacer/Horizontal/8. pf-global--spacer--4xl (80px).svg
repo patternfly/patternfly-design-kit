@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="32" viewBox="0 0 80 32">
-  <defs>
-    <rect id="8.-pf-global--spacer--4xl-(80px)-a" width="80" height="32" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <use fill="#000" filter="url(#8.-pf-global--spacer--4xl-(80px)-a)" xlink:href="#8.-pf-global--spacer--4xl-(80px)-a"/>
-    <rect width="79" height="31" x=".5" y=".5" fill="#B300B3" stroke="#8F008F" stroke-linejoin="square"/>
-  </g>
-</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/2.-Size-sm-(12px)/Actions/filter" fill="#6A6E73">
+            <path d="M13.499981,17.437015 L13.499981,11.2954891 L17.8346723,6.96024857 C18.1879734,6.60694741 17.9375773,6 17.4368995,6 L6.56316134,6 C6.06351349,6 5.81140075,6.60623787 6.16541144,6.96024857 L10.4999882,11.2954891 L10.4999882,16.1249759 C10.4999882,16.3085158 10.5895494,16.4805201 10.7399245,16.5858054 L12.61492,17.8978217 C12.984815,18.156778 13.499981,17.8943427 13.499981,17.437015 Z" id="filter"></path>
+        </g>
+    </g>
+</svg>

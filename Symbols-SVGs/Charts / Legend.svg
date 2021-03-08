@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="21px" viewBox="0 0 94 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Legend">
+            <rect id="Rectangle" fill="#0066CC" x="0" y="6" width="10" height="10"></rect>
+            <text id="Variable:-20" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="18" y="14">Variable: 20</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

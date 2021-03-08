@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="37px" viewBox="0 0 106 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toggle-group-/-On-grey-bg-/-Text-/-1.-Left-/-2.-Hover">
+            <path d="M3,0 L106,0 L106,0 L106,37 L3,37 C1.34314575,37 2.02906125e-16,35.6568542 0,34 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
+            <text id="Hover---left" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="15.303" y="22">Hover - left</tspan>
+            </text>
+            <g id="Divider-/-Vertical" transform="translate(105.000000, 0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="36"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

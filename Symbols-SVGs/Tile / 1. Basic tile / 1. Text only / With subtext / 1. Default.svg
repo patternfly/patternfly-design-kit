@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="90px" viewBox="0 0 147 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tile-/-1.-Basic-tile-/-1.-Text-only-/-With-subtext-/-1.-Default">
+            <rect id="Rectangle" stroke="#D2D2D2" fill="#FFFFFF" x="0.5" y="0.5" width="146" height="89" rx="3"></rect>
+            <text id="Subtext-goes-here" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                <tspan x="24.216" y="60">Subtext goes here</tspan>
+            </text>
+            <text id="Default-tile" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="33.916" y="40">Default tile</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="94" height="21" viewBox="0 0 94 21">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="10" height="10" y="6" fill="#06C"/>
-    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
-      <tspan x="18" y="14">Variable: 20</tspan>
-    </text>
-  </g>
-</svg>

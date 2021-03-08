@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="34px" viewBox="0 0 79 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Chips" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chips-/-Chip-Group-/-Group-/-Default">
+            <rect id="Background" fill="#F0F0F0" x="0" y="0" width="79" height="34" rx="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="8" y="21">Category</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 4.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="25"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="78" height="3"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(75.000000, 4.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="3" height="25"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 30.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="78" height="3"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(67.000000, 4.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="25"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

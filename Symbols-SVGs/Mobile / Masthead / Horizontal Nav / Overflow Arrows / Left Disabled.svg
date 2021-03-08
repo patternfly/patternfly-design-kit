@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="40px" viewBox="0 0 32 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Masthead-/-Horizontal-Nav-/-Overflow-Arrows-/-Left-Disabled">
+            <rect id="Background" fill="#242424" x="0" y="0" width="32" height="40"></rect>
+            <g id="Icons-/-Framework-/-angle-left" transform="translate(4.000000, 8.000000)">
+                <g id="angle-left" fill="#151515">
+                    <path d="M14.1493157,15.3370987 L14.6789928,14.8050642 C14.8993139,14.5871005 14.8993139,14.2308468 14.6789928,14.0105486 L12.4196369,11.7511698 L14.6766582,9.48945644 C14.8969564,9.27149279 14.8969564,8.91523906 14.6766582,8.69491793 L14.1469582,8.16524085 C13.9289945,7.94491972 13.5727408,7.94491972 13.3524426,8.16524085 L10.1649502,11.3527332 C9.94462905,11.5730544 9.94462905,11.9292852 10.1672848,12.1496063 L13.3547772,15.3370987 C13.5727408,15.5574199 13.9289945,15.5574199 14.1493157,15.3370987 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#6A6E73" fill="#FFFFFF" x="31.5" y="0.5" width="1" height="39"></rect>
+        </g>
+    </g>
+</svg>

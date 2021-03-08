@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="8px" viewBox="0 0 268 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Splitter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splitter-/-Horizontal">
+            <polygon id="Divider" fill="#FFFFFF" transform="translate(134.000000, 4.000000) scale(-1, -1) rotate(90.000000) translate(-134.000000, -4.000000) " points="130 -130.001866 138 -130.001866 138 138 130 138"></polygon>
+            <g id="Icon" transform="translate(130.000000, 1.000000)" fill="#6A6E73">
+                <rect id="Rectangle" x="0" y="0.5" width="12" height="1"></rect>
+                <rect id="Rectangle-Copy" x="0" y="3.5" width="12" height="1"></rect>
+            </g>
+            <g id="Divider" transform="translate(0.000000, 7.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect x="0.5" y="0.5" width="267" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

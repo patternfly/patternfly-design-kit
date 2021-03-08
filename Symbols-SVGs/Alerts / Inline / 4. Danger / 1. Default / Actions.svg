@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="171px" height="93px" viewBox="0 0 171 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Alerts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Alerts-/-Inline-/-4.-Danger-/-1.-Default-/-Actions">
+            <rect id="Background" fill="#FAEAE8" x="0" y="0" width="171" height="93"></rect>
+            <rect id="Status-Color" fill="#C9190B" x="0" y="0" width="171" height="3"></rect>
+            <g id="exclamation-circle" transform="translate(16.000000, 16.000000)" fill="#C9190B">
+                <path d="M11.7499815,19.499963 C16.0298785,19.499963 19.499963,16.0311298 19.499963,11.7499815 C19.499963,7.47133572 16.0298785,4 11.7499815,4 C7.4700845,4 4,7.47133572 4,11.7499815 C4,16.0311298 7.4700845,19.499963 11.7499815,19.499963 Z M12.5085246,12.7499791 L10.9914384,12.7499791 C10.7922812,12.7499791 10.6278529,12.5942788 10.6170191,12.3954268 L10.3852082,8.14543689 C10.3734894,7.93062417 10.544479,7.74999106 10.7595969,7.74999106 L12.7403356,7.74999106 C12.9554535,7.74999106 13.1264736,7.93062417 13.1147549,8.14543689 L12.8829439,12.3954268 C12.8721102,12.5942788 12.7076819,12.7499791 12.5085246,12.7499791 Z M11.7499815,16.1874709 C10.9560686,16.1874709 10.3124849,15.5438873 10.3124849,14.7499744 C10.3124849,13.9560615 10.9560686,13.3124778 11.7499815,13.3124778 C12.5438944,13.3124778 13.1874781,13.9560615 13.1874781,14.7499744 C13.1874781,15.5438873 12.5438944,16.1874709 11.7499815,16.1874709 Z"></path>
+            </g>
+            <text id="Action" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#0066CC">
+                <tspan x="44" y="70">Action</tspan>
+            </text>
+            <text id="Title" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="21" fill="#7D1007">
+                <tspan x="44" y="32">Title</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38" transform="translate(8.000000, 46.500000) scale(-1, 1) translate(-8.000000, -46.500000) ">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="92"></rect>
+                </g>
+                <g id="Group" transform="translate(155.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(8.000000, 46.500000) scale(-1, 1) translate(-8.000000, -46.500000) ">
+                        <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="92"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(40.000000, 16.000000)" fill="#EC7A08" stroke="#C77000">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(2.000000, 12.000000) scale(-1, 1) translate(-2.000000, -12.000000) ">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="3" height="23"></rect>
+                    </g>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="138" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 40.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="138" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 77.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="138" height="15"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

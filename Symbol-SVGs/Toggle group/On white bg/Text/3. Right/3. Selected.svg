@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="37" viewBox="0 0 130 37">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#06C" d="M0,0 L127,0 C128.656854,-3.04359188e-16 130,1.34314575 130,3 L130,34 C130,35.6568542 128.656854,37 127,37 L0,37 L0,37 L0,0 Z"/>
-    <text fill="#FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
-      <tspan x="16" y="22">Selected - right</tspan>
-    </text>
-  </g>
-</svg>

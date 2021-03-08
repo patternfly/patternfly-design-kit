@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="40px" viewBox="0 0 44 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation/5.-Tertiary-Nav/Overflow-Arrows/Left-Hover">
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="44" height="40"></rect>
+            <g id="Icons-/-🖼-Dynamic-Icon" transform="translate(10.000000, 8.000000)">
+                <g id="angle-left" fill="#151515">
+                    <path d="M14.5324209,16.7827983 L15.238657,16.0734189 C15.5324185,15.7828007 15.5324185,15.3077957 15.238657,15.0140648 L12.2261825,12.0015597 L15.2355442,8.98594192 C15.5292752,8.69532372 15.5292752,8.22031875 15.2355442,7.92655724 L14.5292776,7.22032113 C14.2386594,6.92655962 13.7636544,6.92655962 13.4699234,7.22032113 L9.21993357,11.470311 C8.92617206,11.7640725 8.92617206,12.239047 9.22304636,12.5328085 L13.4730362,16.7827983 C13.7636544,17.0765598 14.2386594,17.0765598 14.5324209,16.7827983 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#0066CC" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#F0F0F0" fill="#FFFFFF" x="43.5" y="0.5" width="1" height="39"></rect>
+        </g>
+    </g>
+</svg>

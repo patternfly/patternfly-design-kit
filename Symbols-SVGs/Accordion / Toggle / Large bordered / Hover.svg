@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="62px" viewBox="0 0 343 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343" height="62"></rect>
+        <filter x="-0.1%" y="-0.8%" width="100.3%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Accordion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accordion-/-Toggle-/-Large-bordered-/-Hover">
+            <g id="Rectangle">
+                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="angle-right" transform="translate(303.000000, 19.000000)" fill="#151515">
+                <path d="M9.97887855,18.6741975 L16.3538633,12.2992127 C16.7945056,11.8585704 16.7945056,11.1461088 16.3491942,10.7054665 L9.97420937,4.33048169 C9.53828206,3.88983944 8.82577461,3.88983944 8.38513235,4.33048169 L7.33044736,5.39921999 C6.88985088,5.8351473 6.88985088,6.54765475 7.33044736,6.98829701 L11.8492049,11.5070088 L7.33044736,16.0257663 C6.88985088,16.4616936 6.88985088,17.1742011 7.33044736,17.6148433 L8.3898473,18.6741975 C8.82577461,19.1148398 9.53828206,19.1148398 9.97887855,18.6741975 Z"></path>
+            </g>
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30" fill="#151515">
+                <tspan x="24" y="36">Heading</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 46.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="342" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="342" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 16.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="29"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(327.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="29"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(295.000000, 16.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="29"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

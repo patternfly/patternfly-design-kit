@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="80px" viewBox="0 0 244 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Bar-/-Horizontal-/-2.-Nested">
+            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="138" height="16"></rect>
+            <rect id="Rectangle" fill="#8BC1F7" x="0" y="16" width="175" height="16"></rect>
+            <rect id="Rectangle" fill="#002F5D" x="0" y="32" width="182" height="16"></rect>
+            <rect id="Rectangle" fill="#519DE9" x="0" y="48" width="205" height="16"></rect>
+            <rect id="Rectangle" fill="#004B95" x="0" y="64" width="244" height="16"></rect>
+        </g>
+    </g>
+</svg>

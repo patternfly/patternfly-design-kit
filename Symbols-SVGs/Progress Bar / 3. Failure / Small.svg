@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="43px" viewBox="0 0 560 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Progress-Bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Progress-Bar-/-3.-Failure-/-Small">
+            <rect id="Track" fill-opacity="0.2" fill="#C9190B" x="0" y="35" width="560" height="8"></rect>
+            <rect id="Indicator" fill="#C9190B" x="0" y="35" width="196" height="8"></rect>
+            <g id="Icons-/-Status-/-exclamation-circle" transform="translate(536.000000, 0.000000)" fill="#C9190B">
+                <path d="M11.7499815,17.0520502 C16.0298785,17.0520502 19.499963,13.5832169 19.499963,9.30206871 C19.499963,5.0234229 16.0298785,1.55208718 11.7499815,1.55208718 C7.4700845,1.55208718 4,5.0234229 4,9.30206871 C4,13.5832169 7.4700845,17.0520502 11.7499815,17.0520502 Z M12.5085246,10.3020663 L10.9914384,10.3020663 C10.7922812,10.3020663 10.6278529,10.146366 10.6170191,9.94751394 L10.3852082,5.69752408 C10.3734894,5.48271136 10.544479,5.30207824 10.7595969,5.30207824 L12.7403356,5.30207824 C12.9554535,5.30207824 13.1264736,5.48271136 13.1147549,5.69752408 L12.8829439,9.94751394 C12.8721102,10.146366 12.7076819,10.3020663 12.5085246,10.3020663 Z M11.7499815,13.7395581 C10.9560686,13.7395581 10.3124849,13.0959745 10.3124849,12.3020616 C10.3124849,11.5081487 10.9560686,10.864565 11.7499815,10.864565 C12.5438944,10.864565 13.1874781,11.5081487 13.1874781,12.3020616 C13.1874781,13.0959745 12.5438944,13.7395581 11.7499815,13.7395581 Z" id="exclamation-circle"></path>
+            </g>
+            <text id="💯-Value" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="509" y="13">35%</tspan>
+            </text>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="0" y="14">Title</tspan>
+            </text>
+            <g id="📐-Padding" transform="translate(0.000000, 19.000000)" fill="#3F9C35" fill-opacity="0.9" stroke="#418A38">
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="559" height="15"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

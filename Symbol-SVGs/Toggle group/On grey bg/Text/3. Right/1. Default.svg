@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="121" height="37" viewBox="0 0 121 37">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#FFF" d="M0,0 L118,0 C119.656854,-3.04359188e-16 121,1.34314575 121,3 L121,34 C121,35.6568542 119.656854,37 118,37 L0,37 L0,37 L0,0 Z"/>
-    <text fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14">
-      <tspan x="16" y="22">Default - right</tspan>
-    </text>
-  </g>
-</svg>

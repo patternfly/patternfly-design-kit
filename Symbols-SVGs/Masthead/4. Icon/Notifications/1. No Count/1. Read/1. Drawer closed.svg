@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="76px" viewBox="0 0 48 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-6.-Icon-button-/-Default" transform="translate(0.000000, 20.000000)">
+            <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+            <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                <g id="bell" transform="translate(4.000000, 0.000000)" fill="#73C5C5">
+                    <path d="M17.9968777,16.999969 C18.5943494,16.999969 18.9968753,16.5124824 19,15.9999714 C19.0015445,15.7640406 18.9184148,15.5227997 18.7309152,15.3215367 C18.1271874,14.6727956 16.9974904,13.6968458 16.9974904,10.4999845 C16.9974904,8.07185919 15.2950103,6.12810772 12.999392,5.65124118 L12.999392,5 C12.999392,4.44781387 12.5518833,4 12,4 C11.4481262,4 11.0006175,4.44781387 11.0006175,5 L11.0006175,5.65124118 C8.70499918,6.12810772 7.0025191,8.07185919 7.0025191,10.4999845 C7.0025191,13.6968458 5.87282209,14.6727956 5.26909428,15.3215367 C5.08159473,15.5231049 4.99846504,15.7640406 5,15.9999714 C5.00346992,16.5124824 5.40566012,16.999969 6.00313184,16.999969 L17.9968777,16.999969 Z M12.0000047,19.9999666 C13.1037619,19.9999666 13.9990539,19.1046393 13.9990539,17.9999666 L10.0009556,17.9999666 C10.0009556,19.1046393 10.8962476,19.9999666 12.0000047,19.9999666 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#F0F0F0" x="0" y="0" width="32" height="24"></rect>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

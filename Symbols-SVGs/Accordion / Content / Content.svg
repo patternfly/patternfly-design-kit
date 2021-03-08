@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="145px" viewBox="0 0 106 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Accordion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accordion-/-Content-/-Content">
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="106" height="145"></rect>
+            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="145"></rect>
+            <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="16" y="22">ctrl+enter </tspan>
+                <tspan x="16" y="43">to add lines </tspan>
+                <tspan x="16" y="64">in override.</tspan>
+                <tspan x="16" y="85">Default </tspan>
+                <tspan x="16" y="106">height is </tspan>
+                <tspan x="16" y="127">“fixed”</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="73" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 137.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="73" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="144"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(90.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="144"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

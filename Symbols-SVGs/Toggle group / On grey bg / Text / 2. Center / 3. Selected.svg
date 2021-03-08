@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="37px" viewBox="0 0 143 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toggle-group-/-On-grey-bg-/-Text-/-2.-Center-/-3.-Selected">
+            <rect id="Rectangle-Copy" fill="#0066CC" x="0" y="0" width="143" height="37"></rect>
+            <text id="Selected---center" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                <tspan x="16" y="22">Selected - center</tspan>
+            </text>
+            <g id="Divider-/-Vertical" transform="translate(142.000000, 0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="36"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

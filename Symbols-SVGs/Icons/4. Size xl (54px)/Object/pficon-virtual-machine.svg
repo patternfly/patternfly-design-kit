@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="45px" viewBox="0 0 54 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/4.-Size-xl-(54px)/Object/pficon-virtual-machine" fill="#151515">
+            <path d="M54,39 L54,9 L39,9 L39,6 L36,6 L36,9 L9,9 L9,24 L6,24 L6,27 L9,27 L9,39 L27,39 L27,41.8125 L18,41.8125 L18,45 L45,45 L45,41.8125 L36,41.8125 L36,39 L54,39 Z M15,33 L15,15 L48,15 L48,33 L15,33 Z M36,3 L39,3 L39,0 L36,0 L36,3 Z M30,3 L33,3 L33,0 L30,0 L30,3 Z M24,3 L27,3 L27,0 L24,0 L24,3 Z M18,3 L21,3 L21,0 L18,0 L18,3 Z M12,3 L15,3 L15,0 L12,0 L12,3 Z M6,3 L9,3 L9,0 L6,0 L6,3 Z M0,3 L3,3 L3,0 L0,0 L0,3 Z M0,9 L3,9 L3,6 L0,6 L0,9 Z M0,15 L3,15 L3,12 L0,12 L0,15 Z M36,21 L39,21 L39,18 L36,18 L36,21 Z M0,21 L3,21 L3,18 L0,18 L0,21 Z M36,27 L39,27 L39,24 L36,24 L36,27 Z M30,27 L33,27 L33,24 L30,24 L30,27 Z M24,27 L27,27 L27,24 L24,24 L24,27 Z M18,27 L21,27 L21,24 L18,24 L18,27 Z M0,27 L3,27 L3,24 L0,24 L0,27 Z" id="pficon-virtual-machine"></path>
+        </g>
+    </g>
+</svg>

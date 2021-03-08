@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="95px" viewBox="0 0 310 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="310" height="95"></rect>
+        <filter x="-1.1%" y="-3.7%" width="102.3%" height="107.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Table-/-1.-Compact-(8px)-/-3.-Expanded">
+            <g id="Background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Kebab" transform="translate(254.000000, 15.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="ellipsis-v" fill="#151515">
+                        <path d="M12.2499946,8.49998927 C13.4937356,8.49998927 14.4999893,7.49373557 14.4999893,6.24999464 C14.4999893,5.0062537 13.4937356,4 12.2499946,4 C11.0062537,4 10,5.0062537 10,6.24999464 C10,7.49373557 11.0062537,8.49998927 12.2499946,8.49998927 Z M12.2499946,13.9999762 C13.4937356,13.9999762 14.4999893,12.9937225 14.4999893,11.7499815 C14.4999893,10.5062406 13.4937356,9.49998689 12.2499946,9.49998689 C11.0062537,9.49998689 10,10.5062406 10,11.7499815 C10,12.9937225 11.0062537,13.9999762 12.2499946,13.9999762 Z M12.2499946,19.499963 C13.4937356,19.499963 14.4999893,18.4937093 14.4999893,17.2499684 C14.4999893,16.0062275 13.4937356,14.9999738 12.2499946,14.9999738 C11.0062537,14.9999738 10,16.0062275 10,17.2499684 C10,18.4937093 11.0062537,19.499963 12.2499946,19.499963 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Kebab" transform="translate(254.000000, 51.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="angle-up" fill="#151515">
+                        <path d="M8.98905471,15.238657 L12.0015597,12.2261825 L15.0171775,15.2355442 C15.3077957,15.5292752 15.7828007,15.5292752 16.0765622,15.2355442 L16.7827983,14.5292776 C17.0765598,14.2386594 17.0765598,13.7636544 16.7827983,13.4699234 L12.5328085,9.21993357 C12.239047,8.92617206 11.7640725,8.92617206 11.470311,9.22304636 L7.22032113,13.4730362 C6.92655962,13.7636544 6.92655962,14.2386594 7.22032113,14.5324209 L7.92970054,15.238657 C8.22031875,15.5324185 8.69532372,15.5324185 8.98905471,15.238657 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Rectangle" transform="translate(222.000000, 21.000000)" fill="#FFFFFF" stroke="#6A6E73">
+                <rect x="8.5" y="4.5" width="15" height="15"></rect>
+            </g>
+            <g id="📐-Padding" transform="translate(0.000000, 7.000000)" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(294.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="87"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="87"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)-Copy-2" transform="translate(222.000000, 0.000000)" fill="#0088CE" stroke="#0479B0">
+                    <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="31" height="79"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="277" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(16.000000, 80.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="277" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

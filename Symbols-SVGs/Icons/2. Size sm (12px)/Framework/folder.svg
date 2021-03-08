@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/2.-Size-sm-(12px)/Framework/folder" fill="#151515">
+            <path d="M16.8749741,16.9999785 C17.4962952,16.9999785 17.9999714,16.4963024 17.9999714,15.8749812 L17.9999714,10.6249937 C17.9999714,10.0036726 17.4962952,9.5 16.8749741,9.5 L12.3749848,9.5 L10.8749884,8 L7.12499732,8 C6.50367617,8 6,8.50367617 6,9.12499732 L6,15.8749812 C6,16.4963024 6.50367617,16.9999785 7.12499732,16.9999785 L16.8749741,16.9999785 Z" id="folder"></path>
+        </g>
+    </g>
+</svg>
