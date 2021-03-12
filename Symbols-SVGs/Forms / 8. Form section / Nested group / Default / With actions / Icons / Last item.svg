@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="469px" height="72px" viewBox="0 0 469 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-/-8.-Form-section-/-Nested-group-/-Default-/-With-actions-/-Icons-/-Last-item">
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="76" y="40">Nested group title</tspan>
+            </text>
+            <g id="Button-/-6.-Icon-button-/-Default" transform="translate(429.000000, 18.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="ellipsis-v" fill="#151515">
+                        <path d="M12.2499946,8.49998927 C13.4937356,8.49998927 14.4999893,7.49373557 14.4999893,6.24999464 C14.4999893,5.0062537 13.4937356,4 12.2499946,4 C11.0062537,4 10,5.0062537 10,6.24999464 C10,7.49373557 11.0062537,8.49998927 12.2499946,8.49998927 Z M12.2499946,13.9999762 C13.4937356,13.9999762 14.4999893,12.9937225 14.4999893,11.7499815 C14.4999893,10.5062406 13.4937356,9.49998689 12.2499946,9.49998689 C11.0062537,9.49998689 10,10.5062406 10,11.7499815 C10,12.9937225 11.0062537,13.9999762 12.2499946,13.9999762 Z M12.2499946,19.499963 C13.4937356,19.499963 14.4999893,18.4937093 14.4999893,17.2499684 C14.4999893,16.0062275 13.4937356,14.9999738 12.2499946,14.9999738 C11.0062537,14.9999738 10,16.0062275 10,17.2499684 C10,18.4937093 11.0062537,19.499963 12.2499946,19.499963 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Button-/-6.-Icon-button-/-Default" transform="translate(373.000000, 18.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="ellipsis-v" fill="#151515">
+                        <path d="M12.2499946,8.49998927 C13.4937356,8.49998927 14.4999893,7.49373557 14.4999893,6.24999464 C14.4999893,5.0062537 13.4937356,4 12.2499946,4 C11.0062537,4 10,5.0062537 10,6.24999464 C10,7.49373557 11.0062537,8.49998927 12.2499946,8.49998927 Z M12.2499946,13.9999762 C13.4937356,13.9999762 14.4999893,12.9937225 14.4999893,11.7499815 C14.4999893,10.5062406 13.4937356,9.49998689 12.2499946,9.49998689 C11.0062537,9.49998689 10,10.5062406 10,11.7499815 C10,12.9937225 11.0062537,13.9999762 12.2499946,13.9999762 Z M12.2499946,19.499963 C13.4937356,19.499963 14.4999893,18.4937093 14.4999893,17.2499684 C14.4999893,16.0062275 13.4937356,14.9999738 12.2499946,14.9999738 C11.0062537,14.9999738 10,16.0062275 10,17.2499684 C10,18.4937093 11.0062537,19.499963 12.2499946,19.499963 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Button-/-6.-Icon-button-/-Default" transform="translate(32.000000, 18.000000)">
+                <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="angle-right" fill="#151515">
+                        <path d="M10.985919,16.7827983 L15.2359089,12.5328085 C15.5296704,12.239047 15.5296704,11.7640725 15.2327961,11.470311 L10.9828062,7.22032113 C10.692188,6.92655962 10.2171831,6.92655962 9.92342157,7.22032113 L9.22029824,7.93281333 C8.92656725,8.22343153 8.92656725,8.6984365 9.22029824,8.99219801 L12.2328033,12.0046725 L9.22029824,15.0171775 C8.92656725,15.3077957 8.92656725,15.7828007 9.22029824,16.0765622 L9.92656487,16.7827983 C10.2171831,17.0765598 10.692188,17.0765598 10.985919,16.7827983 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Labels-/-2.-Blue-/-Filled-/-With-icon-/-Default" transform="translate(0.000000, 71.142857)">
+                <rect id="Rectangle" fill="#E7F1FA" x="0" y="0" width="95" height="24" rx="12"></rect>
+                <g id="Tag-icon">
+                    <g id="star" fill="#151515">
+                        <path d="M9.20624413,17.9135414 L12.2695227,16.3033844 L15.3328012,17.9135414 C15.8765545,18.1994828 16.5257534,17.740118 16.4202849,17.1236949 L15.8343488,13.7135468 L18.3116912,11.2994901 C18.7570026,10.8658974 18.5109094,10.1088725 17.8968438,10.0198148 L14.4726424,9.5206018 L12.9421819,6.41747505 C12.6679592,5.86436052 11.8734207,5.85733387 11.5968634,6.41747505 L10.0664029,9.5206018 L6.64220148,10.0198148 C6.02813587,10.1088725 5.7820427,10.8658974 6.22735414,11.2994901 L8.70469656,13.7135468 L8.11876046,17.1236949 C8.01329196,17.740118 8.66249085,18.2018174 9.20624413,17.9135414 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#0066CC" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
