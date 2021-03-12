@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="42px" viewBox="0 0 62 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-+-table-/-2.-Table-header-/-Compact-(8px-spacers)-/-3.-Default">
+            <text id="✏️-Category" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008" fill="#151515">
+                <tspan x="0" y="26">Category</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="61" height="3"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 4.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="61" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 30.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="61" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
