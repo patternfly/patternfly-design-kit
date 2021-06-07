@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/4.-Size-xl-(54px)/Framework/caret-down" fill="#151515">
-            <path d="M17.1707498,17.170251 L30.7340606,3.5964346 C32.0629224,2.26757272 31.1243146,0 29.2468929,0 L2.10986885,0 C0.232550179,0 -0.706160657,2.26757272 0.622804223,3.5964346 L14.1860119,17.170251 C15.0086456,17.9928847 16.3481162,17.9928847 17.1707498,17.170251 Z" id="caret-down"></path>
-        </g>
-    </g>
-</svg>

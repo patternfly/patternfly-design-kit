@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="114px" height="37px" viewBox="0 0 114 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="113px" height="29px" viewBox="0 0 113 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-white-bg-/-Text-/-3.-Right-/-2.-Hover">
-            <path d="M0,0 L111,0 C112.656854,-3.04359188e-16 114,1.34314575 114,3 L114,34 C114,35.6568542 112.656854,37 111,37 L0,37 L0,37 L0,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
+            <path d="M110,0.5 C110.690356,0.5 111.315356,0.779822031 111.767767,1.23223305 C112.220178,1.68464406 112.5,2.30964406 112.5,3 L112.5,3 L112.5,26 C112.5,26.6903559 112.220178,27.3153559 111.767767,27.767767 C111.315356,28.220178 110.690356,28.5 110,28.5 L110,28.5 L0.5,28.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#8A8D90" fill="#F0F0F0"></path>
             <text id="Hover---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                <tspan x="15.39" y="22">Hover - right</tspan>
+                <tspan x="16" y="18">Hover - right</tspan>
             </text>
         </g>
     </g>

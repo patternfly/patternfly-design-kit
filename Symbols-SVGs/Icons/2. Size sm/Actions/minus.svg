@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/2.-Size-sm/Actions/minus" fill="#6A6E73">
+            <path d="M16.7499768,13.2499946 C17.1641146,13.2499946 17.499975,12.9141342 17.499975,12.5 L17.499975,11.7499982 C17.499975,11.3358604 17.1641146,11 16.7499768,11 L7.74999821,11 C7.33586041,11 7,11.3358604 7,11.7499982 L7,12.5 C7,12.9141342 7.33586041,13.2499946 7.74999821,13.2499946 L16.7499768,13.2499946 Z" id="minus"></path>
+        </g>
+    </g>
+</svg>

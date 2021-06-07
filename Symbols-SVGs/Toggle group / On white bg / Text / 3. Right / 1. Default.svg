@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="121px" height="37px" viewBox="0 0 121 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="121px" height="29px" viewBox="0 0 121 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-white-bg-/-Text-/-3.-Right-/-1.-Default">
-            <path d="M0,0 L118,0 C119.656854,-3.04359188e-16 121,1.34314575 121,3 L121,34 C121,35.6568542 119.656854,37 118,37 L0,37 L0,37 L0,0 Z" id="Rectangle-Copy" fill="#F0F0F0"></path>
+            <path d="M0.5,0.5 L118,0.5 C118.690356,0.5 119.315356,0.779822031 119.767767,1.23223305 C120.220178,1.68464406 120.5,2.30964406 120.5,3 L120.5,3 L120.5,26 C120.5,26.6903559 120.220178,27.3153559 119.767767,27.767767 C119.315356,28.220178 118.690356,28.5 118,28.5 L118,28.5 L0.5,28.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#D2D2D2" fill="#FFFFFF"></path>
             <text id="Default---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                <tspan x="16" y="22">Default - right</tspan>
+                <tspan x="16" y="18">Default - right</tspan>
             </text>
         </g>
     </g>

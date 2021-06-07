@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="88px" height="37px" viewBox="0 0 88 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="88px" height="29px" viewBox="0 0 88 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-grey-bg-/-Text-/-4.-Single-item-/-3.-Selected">
-            <rect id="Rectangle-Copy" fill="#0066CC" x="0" y="0" width="88" height="37" rx="3"></rect>
-            <text id="Selected" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
-                <tspan x="16" y="22">Selected</tspan>
+            <rect id="Rectangle-Copy" stroke="#0066CC" fill="#E7F1FA" x="0.5" y="0.5" width="87" height="28" rx="3"></rect>
+            <text id="Selected" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="16" y="18">Selected</tspan>
             </text>
         </g>
     </g>

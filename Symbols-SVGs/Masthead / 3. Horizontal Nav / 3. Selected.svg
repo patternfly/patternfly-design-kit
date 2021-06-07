@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="69px" height="76px" viewBox="0 0 69 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="65px" height="76px" viewBox="0 0 65 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Masthead-/-3.-Horizontal-Nav-/-3.-Selected">
-            <rect id="underline" fill="#2B9AF3" x="32" y="73" width="37" height="3"></rect>
-            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#2B9AF3">
-                <tspan x="32" y="44">Item</tspan>
+            <rect id="underline" fill="#73BCF7" x="1" y="65" width="63" height="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#73BCF7">
+                <tspan x="16" y="44">Item</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">
-                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" fill="#0088CE" stroke="#0479B0">
-                    <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="31" height="75"></rect>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
                 </g>
-                <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(32.000000, 52.000000)" fill="#007A87" stroke="#09707B">
-                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="36" height="23"></rect>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(49.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
+                </g>
+                <g id="Rectangle-Copy-3" transform="translate(16.000000, 52.000000)" fill="#007A87" stroke="#09707B">
+                    <rect x="0.5" y="0.5" width="32" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 68.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="32" height="7"></rect>
                 </g>
             </g>
         </g>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="37px" viewBox="0 0 330 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dual-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dual-list-/-2.-Multi-level-folder-/-Default-/-Second-level">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="330" height="37"></rect>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="329" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 29.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="329" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(315.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="36"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(24.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="36"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-5.-pf-global--spacer--xl-(32px)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="36"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(48.000000, 7.500000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="20.5"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(72.000000, 7.500000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="20.5"></rect>
+                </g>
+            </g>
+            <g id="angle-down" transform="translate(32.000000, 6.500000)" fill="#151515">
+                <path d="M12.1449143,14.6769317 L15.3324067,11.4894393 C15.5527278,11.2714756 15.5527278,10.9152219 15.3324067,10.6949237 L14.8027296,10.1652237 C14.5847659,9.94492544 14.2285122,9.94492544 14.0081911,10.1652237 L11.7488352,12.4246024 L9.48945644,10.1652237 C9.27149279,9.94492544 8.91523906,9.94492544 8.69491793,10.1652237 L8.16524085,10.6949237 C7.94491972,10.9128873 7.94491972,11.269141 8.16524085,11.4894393 L11.3527332,14.6769317 C11.5730544,14.8972528 11.9292852,14.8972528 12.1449143,14.6769317 Z"></path>
+            </g>
+            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="18.2000008" fill="#151515">
+                <tspan x="80" y="23.3999996">Type something</tspan>
+            </text>
+            <g id="Rectangle" transform="translate(48.000000, 6.500000)" fill="#FFFFFF" stroke="#6A6E73">
+                <rect x="8.5" y="4.5" width="15" height="15"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

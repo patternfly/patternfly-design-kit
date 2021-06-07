@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="130px" height="37px" viewBox="0 0 130 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="130px" height="29px" viewBox="0 0 130 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-grey-bg-/-Text-/-3.-Right-/-3.-Selected">
-            <path d="M0,0 L127,0 C128.656854,-3.04359188e-16 130,1.34314575 130,3 L130,34 C130,35.6568542 128.656854,37 127,37 L0,37 L0,37 L0,0 Z" id="Rectangle-Copy" fill="#0066CC"></path>
-            <text id="Selected---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
-                <tspan x="16" y="22">Selected - right</tspan>
+            <path d="M127,0.5 C127.690356,0.5 128.315356,0.779822031 128.767767,1.23223305 C129.220178,1.68464406 129.5,2.30964406 129.5,3 L129.5,3 L129.5,26 C129.5,26.6903559 129.220178,27.3153559 128.767767,27.767767 C128.315356,28.220178 127.690356,28.5 127,28.5 L127,28.5 L0.5,28.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#0066CC" fill="#E7F1FA"></path>
+            <text id="Selected---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="16" y="18">Selected - right</tspan>
             </text>
         </g>
     </g>

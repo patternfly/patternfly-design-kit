@@ -69,10 +69,8 @@
                 </g>
             </g>
             <g id="📐-Padding" transform="translate(0.000000, 63.000000)" fill="#EC7A08" fill-opacity="0.9" stroke="#C77000">
-                <g id="Group" transform="translate(0.000000, 0.000000)">
-                    <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" transform="translate(0.000000, 0.000000)">
-                        <rect id="Rectangle" x="0.5" y="0.5" width="139" height="3"></rect>
-                    </g>
+                <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" transform="translate(0.000000, 0.000000)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="139" height="3"></rect>
                 </g>
             </g>
         </g>

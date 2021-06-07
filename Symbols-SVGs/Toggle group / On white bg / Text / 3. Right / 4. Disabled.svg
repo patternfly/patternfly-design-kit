@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="129px" height="37px" viewBox="0 0 129 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="129px" height="29px" viewBox="0 0 129 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-white-bg-/-Text-/-3.-Right-/-4.-Disabled">
-            <path d="M0,0 L126,0 C127.656854,7.05355176e-15 129,1.34314575 129,3 L129,34 C129,35.6568542 127.656854,37 126,37 L0,37 L0,37 L0,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
+            <path d="M0,0 L126,0 C127.656854,-3.04359188e-16 129,1.34314575 129,3 L129,26 C129,27.6568542 127.656854,29 126,29 L0,29 L0,29 L0,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
             <text id="Disabled---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
-                <tspan x="16" y="22">Disabled - right</tspan>
+                <tspan x="16" y="18">Disabled - right</tspan>
             </text>
         </g>
     </g>

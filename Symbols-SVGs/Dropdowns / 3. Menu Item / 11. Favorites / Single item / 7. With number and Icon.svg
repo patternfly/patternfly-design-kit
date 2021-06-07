@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="40px" viewBox="0 0 147 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-3.-Menu-Item-/-11.-Favorites-/-Single-item-/-7.-With-number-and-Icon">
+            <rect fill="#FFFFFF" x="0" y="0" width="147" height="40"></rect>
+            <rect id="Background" fill="#FFFFFF" x="0" y="-3.55271368e-15" width="147" height="40"></rect>
+            <text id="Option" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="24">Option</tspan>
+            </text>
+            <g id="Icons/1.-Size-md-(16px)/Actions/flag" transform="translate(107.000000, 8.000000)" fill="#D2D2D2">
+                <path d="M8.27499218,19.8847219 L12.3593635,17.7378459 L16.4437349,19.8847219 C17.1687393,20.265977 18.0343378,19.6534907 17.8937131,18.8315933 L17.112465,14.2847291 L20.4155882,11.0659868 C21.0093368,10.4878632 20.6812126,9.47849666 19.8624584,9.35975305 L15.2968565,8.69413574 L13.2562425,4.5566334 C12.8906123,3.81914736 11.8312276,3.80977849 11.4624846,4.5566334 L9.42187055,8.69413574 L4.85626864,9.35975305 C4.03751449,9.47849666 3.70939027,10.4878632 4.30313885,11.0659868 L7.60626208,14.2847291 L6.82501394,18.8315933 C6.68438928,19.6534907 7.5499878,20.2690898 8.27499218,19.8847219 Z" id="star"></path>
+            </g>
+            <text id="Number" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="83.328" y="24">2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

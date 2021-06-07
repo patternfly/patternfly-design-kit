@@ -3,8 +3,8 @@
     <title></title>
     <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Mobile-/-Masthead-/-Horizontal-Nav-/-Item-/-Mobile-First-/-Selected">
-            <rect id="underline" fill="#2B9AF3" x="16" y="37" width="37" height="3"></rect>
-            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#2B9AF3">
+            <rect id="underline" fill="#73BCF7" x="16" y="37" width="37" height="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#73BCF7">
                 <tspan x="16" y="24">Item</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">
