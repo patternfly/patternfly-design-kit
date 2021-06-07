@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="194px" viewBox="0 0 1000 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1000" height="194"></rect>
+        <filter x="-0.8%" y="-2.3%" width="101.5%" height="107.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Expandable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Expandable-/-3.-Disclosure-/-3.-Expanded-with-heading-(full-example)">
+            <g id="Expandable-/-3.-Disclosure-/-Background">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#D2D2D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="999" height="193"></rect>
+                </g>
+                <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="194"></rect>
+            </g>
+            <g id="angle-down" transform="translate(8.000000, 16.000000)" fill="#151515">
+                <path d="M12.5265524,15.2359089 L16.7765422,10.985919 C17.0703037,10.6953008 17.0703037,10.2202959 16.7765422,9.92656487 L16.0703061,9.22029824 C15.7796879,8.92656725 15.304683,8.92656725 15.0109215,9.22029824 L11.9984469,12.2328033 L8.98594192,9.22029824 C8.69532372,8.92656725 8.22031875,8.92656725 7.92655724,9.22029824 L7.22032113,9.92656487 C6.92655962,10.2171831 6.92655962,10.692188 7.22032113,10.985919 L11.470311,15.2359089 C11.7640725,15.5296704 12.239047,15.5296704 12.5265524,15.2359089 Z"></path>
+            </g>
+            <text id="Expandable-/-Disclosure-width-ver" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="40" y="32">Disclosure width version</tspan>
+            </text>
+            <text id="Content-goes-here." font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="24" y="119">Content goes here.</tspan>
+            </text>
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+                <tspan x="24" y="80">Optional heading in content area</tspan>
+            </text>
+            <g id="Group" transform="translate(24.000000, 143.000000)" fill="#0066CC">
+                <text id="CTA-Label" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="18" font-weight="bold" line-spacing="27">
+                    <tspan x="0" y="18">Call to action</tspan>
+                </text>
+                <g transform="translate(120.000000, 6.000000)" id="Icons-/-Web-Componenta-/-Arrow-right">
+                    <path d="M15.5300236,7.69658562 L9.93345697,2.10001896 C9.7135163,1.88007828 9.39294577,1.79418166 9.09250122,1.87468554 C8.79205667,1.95518941 8.55738276,2.18986332 8.47687888,2.49030787 C8.39637501,2.79075243 8.48227162,3.11132295 8.70221231,3.33126362 L12.8016974,7.43074871 L0.92298464,7.43074871 C0.689207112,7.43074871 0.465004503,7.52361647 0.299698827,7.68892214 C0.134393152,7.85422782 0.0415253904,8.07843043 0.0415253904,8.31220796 C0.0491667271,8.79355176 0.441580192,9.17973644 0.92298464,9.17967579 L12.8016974,9.17967579 L8.70221231,13.2931523 C8.53460506,13.4540905 8.43986289,13.67641 8.43986289,13.9087746 C8.43986289,14.1411392 8.53460506,14.3634587 8.70221231,14.524397 C9.04461809,14.8585343 9.59105119,14.8585343 9.93345697,14.524397 L15.5300236,8.92783029 C15.6976309,8.76689206 15.792373,8.54457255 15.792373,8.31220796 C15.792373,8.07984337 15.6976309,7.85752385 15.5300236,7.69658562 Z" id="Arrow-right"></path>
+                </g>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(23.000000, 131.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="952" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(24.047253, 87.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="950.952747" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 56.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="137"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(976.000000, 56.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="90"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 16.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 16.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 40.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="999" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(983.263598, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="999" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(4.000000, 170.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="995" height="23"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

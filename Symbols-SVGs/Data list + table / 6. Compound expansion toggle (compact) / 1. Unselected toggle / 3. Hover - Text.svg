@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="40px" viewBox="0 0 83 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-+-table-/-6.-Compound-expansion-toggle-(compact)-/-1.-Unselected-toggle-/-3.-Hover---Text">
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#004080">
+                <tspan x="16" y="24">Toggle</tspan>
+            </text>
+            <rect id="Rectangle-Copy" fill="#D2D2D2" x="0" y="0" width="1" height="39"></rect>
+            <rect id="Rectangle-Copy-2" fill="#D2D2D2" x="82" y="0" width="1" height="39"></rect>
+            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="83" height="3"></rect>
+            <rect id="Rectangle-Copy" fill="#D2D2D2" x="0" y="39" width="83" height="1"></rect>
+        </g>
+    </g>
+</svg>

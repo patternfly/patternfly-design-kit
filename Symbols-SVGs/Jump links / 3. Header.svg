@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128px" height="37px" viewBox="0 0 128 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="102px" height="37px" viewBox="0 0 102 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Jump-links" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Jump-links-/-3.-Header">
@@ -8,8 +8,8 @@
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="127" height="15"></rect>
                 </g>
             </g>
-            <text id="JUMP-TO-SECTION" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                <tspan x="0" y="14">JUMP TO SECTION</tspan>
+            <text id="Jump-to-section" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="0" y="14">Jump to section</tspan>
             </text>
         </g>
     </g>

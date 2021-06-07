@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="133px" height="37px" viewBox="0 0 133 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="133px" height="29px" viewBox="0 0 133 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-grey-bg-/-Text-/-2.-Center-/-1.-Default">
-            <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="133" height="37"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="133" height="29"></rect>
             <text id="Default---center" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                <tspan x="16" y="22">Default - center</tspan>
+                <tspan x="16" y="18">Default - center</tspan>
             </text>
-            <g id="Divider-/-Vertical" transform="translate(132.000000, 0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
-                <rect id="Divider" x="0.5" y="0.5" width="1" height="36"></rect>
+            <g id="Divider-/-Vertical" transform="translate(132.000000, -0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="28"></rect>
             </g>
         </g>
     </g>
