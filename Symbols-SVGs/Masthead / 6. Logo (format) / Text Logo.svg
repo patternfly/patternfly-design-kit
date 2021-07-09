@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="92px" height="44px" viewBox="0 0 92 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
-    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30">
+    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="500" line-spacing="30">
         <g id="Masthead-/-6.-Logo-(format)-/-Text-Logo" fill="#FFFFFF">
             <text id="✏️-Logo">
                 <tspan x="0" y="27">patternfly</tspan>

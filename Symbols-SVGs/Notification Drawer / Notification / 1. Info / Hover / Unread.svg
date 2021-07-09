@@ -60,7 +60,7 @@
             <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
                 <tspan x="16" y="68">Content</tspan>
             </text>
-            <text id="✏️-Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="16" font-weight="400" line-spacing="24" fill="#151515">
+            <text id="✏️-Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="16" font-weight="500" line-spacing="24" fill="#151515">
                 <tspan x="48" y="32">Title</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">

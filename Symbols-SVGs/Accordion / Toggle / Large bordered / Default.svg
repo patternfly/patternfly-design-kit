@@ -22,7 +22,7 @@
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             </g>
-            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30" fill="#151515">
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="500" line-spacing="30" fill="#151515">
                 <tspan x="24" y="36">Heading</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">

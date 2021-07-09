@@ -28,7 +28,7 @@
             <text id="Content-goes-here." font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
                 <tspan x="24" y="119">Content goes here.</tspan>
             </text>
-            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="24" y="80">Optional heading in content area</tspan>
             </text>
             <g id="Group" transform="translate(24.000000, 143.000000)" fill="#0066CC">

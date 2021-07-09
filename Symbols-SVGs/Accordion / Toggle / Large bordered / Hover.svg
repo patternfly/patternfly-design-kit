@@ -25,7 +25,7 @@
             <g id="angle-right" transform="translate(303.000000, 19.000000)" fill="#151515">
                 <path d="M9.97887855,18.6741975 L16.3538633,12.2992127 C16.7945056,11.8585704 16.7945056,11.1461088 16.3491942,10.7054665 L9.97420937,4.33048169 C9.53828206,3.88983944 8.82577461,3.88983944 8.38513235,4.33048169 L7.33044736,5.39921999 C6.88985088,5.8351473 6.88985088,6.54765475 7.33044736,6.98829701 L11.8492049,11.5070088 L7.33044736,16.0257663 C6.88985088,16.4616936 6.88985088,17.1742011 7.33044736,17.6148433 L8.3898473,18.6741975 C8.82577461,19.1148398 9.53828206,19.1148398 9.97887855,18.6741975 Z"></path>
             </g>
-            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="400" line-spacing="30" fill="#151515">
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="500" line-spacing="30" fill="#151515">
                 <tspan x="24" y="36">Heading</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">
