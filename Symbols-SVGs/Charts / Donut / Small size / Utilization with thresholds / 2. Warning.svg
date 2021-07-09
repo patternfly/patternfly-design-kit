@@ -7,7 +7,7 @@
             <path d="M75,5 C36.3400675,5 5,36.3400675 5,75 C5,90.6656007 10.1460245,105.129283 18.8398609,116.792834" id="threshold-2" stroke="#D2D2D2" stroke-width="8"></path>
             <path d="M75,5 C58.9472874,5 44.1566282,10.4034932 32.347667,19.490835" id="threshold-3" stroke="#B8BBBE" stroke-width="8"></path>
             <path d="M21.8989095,54.0504914 C19.3810003,60.5483834 18,67.6129168 18,75 C18,107.032515 43.9674845,133 76,133 L76,133 C108.032515,133 134,107.032515 134,75 C134,42.9674845 108.032515,17 76,17" id="utilization" stroke="#F0AB00" stroke-width="8"></path>
-            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="50.424" y="75.8">80%</tspan>
             </text>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">

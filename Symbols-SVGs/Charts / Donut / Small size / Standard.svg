@@ -7,7 +7,7 @@
             <path d="M75,5 C36.3400675,5 5,36.3400675 5,75" id="Small-path" stroke="#8BC1F7" stroke-width="8"></path>
             <rect id="Rectangle" fill="#FFFFFF" x="1" y="74" width="8" height="3"></rect>
             <rect id="Rectangle" fill="#FFFFFF" x="72" y="1" width="3" height="8"></rect>
-            <text id="💯-Count" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="💯-Count" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="55.128" y="83.8">100</tspan>
             </text>
         </g>

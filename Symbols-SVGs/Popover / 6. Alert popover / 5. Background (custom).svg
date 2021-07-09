@@ -2,8 +2,8 @@
 <svg width="450px" height="164px" viewBox="0 0 450 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <defs>
-        <path d="M18,17.5 L432,17.5 L432,146 L18,146 L18,17.5 Z M450,82 L432,64 L432,100 L450,82 Z M0,82 L18,64 L18,100 L0,82 Z M225,164 L243,146 L207,146 L225,164 Z M225,-0.5 L243,17.5 L207,17.5 L225,-0.5 Z" id="path-1"></path>
-        <filter x="-6.2%" y="-12.2%" width="112.4%" height="134.0%" filterUnits="objectBoundingBox" id="filter-2">
+        <path d="M18,17.5 L432,17.5 L432,146 L18,146 L18,17.5 Z M225,-0.5 L243,17.5 L207,17.5 L225,-0.5 Z" id="path-1"></path>
+        <filter x="-2.2%" y="-12.2%" width="104.4%" height="123.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>

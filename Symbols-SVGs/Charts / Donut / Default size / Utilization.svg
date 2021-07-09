@@ -7,7 +7,7 @@
             <path d="M111,4 C51.9055318,4 4,51.9055318 4,111 C4,170.094468 51.9055318,218 111,218 L111,218 C170.094468,218 218,170.094468 218,111" id="unused" stroke="#EDEDED" stroke-width="8"></path>
             <rect id="Rectangle" fill="#FFFFFF" x="108" y="0" width="3" height="8"></rect>
             <rect id="Rectangle" fill="#FFFFFF" x="214" y="110" width="8" height="3"></rect>
-            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="87.048" y="109.8">22%</tspan>
             </text>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">

@@ -68,7 +68,7 @@
                     </g>
                 </g>
             </g>
-            <text id="✏️-Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="✏️-Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="24" y="48">Modal title</tspan>
             </text>
             <g id="📐-Padding" transform="translate(0.000000, 0.000000)" fill-opacity="0.9">

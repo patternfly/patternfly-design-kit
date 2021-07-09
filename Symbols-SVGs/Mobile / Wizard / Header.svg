@@ -41,7 +41,7 @@
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="83"></rect>
                 </g>
             </g>
-            <text id="Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="28" font-weight="400" line-spacing="36.4" fill="#FFFFFF">
+            <text id="Title" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="28" font-weight="500" line-spacing="36.4" fill="#FFFFFF">
                 <tspan x="16" y="53">Title</tspan>
             </text>
         </g>

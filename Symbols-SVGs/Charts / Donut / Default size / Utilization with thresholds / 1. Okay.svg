@@ -10,7 +10,7 @@
             <rect id="Rectangle" fill="#FFFFFF" x="108" y="0" width="3" height="8"></rect>
             <rect id="Rectangle" fill="#FFFFFF" transform="translate(51.500000, 22.000000) rotate(-34.000000) translate(-51.500000, -22.000000) " x="50" y="18" width="3" height="8"></rect>
             <path d="M59.1816977,189.208056 C74.1615992,199.1853 92.1517517,205 111.5,205 L111.5,205 C133.773316,205 154.246863,197.294271 170.400176,184.403276 C192.09736,167.08805 206,140.417593 206,110.5 C206,58.3090911 163.690909,16 111.5,16" id="Path" stroke="#0066CC" stroke-width="8"></path>
-            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="400" line-spacing="31.2" fill="#151515">
+            <text id="％-Percentage" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="24" font-weight="500" line-spacing="31.2" fill="#151515">
                 <tspan x="87.14" y="109.8">55%</tspan>
             </text>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">

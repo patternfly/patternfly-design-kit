@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="98px" height="32px" viewBox="0 0 98 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="93px" height="36px" viewBox="0 0 93 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-white-bg-/-Text-+-Icon-on-right-/-4.-Single-item-/-2.-Hover">
-            <rect id="Rectangle-Copy" stroke="#8A8D90" fill="#F0F0F0" opacity="0.789999962" x="0.5" y="0.5" width="97" height="31" rx="3"></rect>
+            <rect id="Rectangle-Copy" stroke="#8A8D90" fill="#F0F0F0" opacity="0.789999962" x="0.5" y="0.5" width="92" height="35" rx="3"></rect>
             <text id="Hover" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                <tspan x="16.446" y="20">Hover</tspan>
+                <tspan x="16.446" y="22">Hover</tspan>
             </text>
-            <g id="Icons/1.-Size-md/Actions/copy" transform="translate(63.000000, 8.000000)" fill="#151515">
+            <g id="Icons/1.-Size-md/Actions/copy" transform="translate(63.000000, 10.000000)" fill="#151515">
                 <path d="M13.2499587,12.9999563 C13.6641728,12.9999563 13.9999569,12.6641722 13.9999569,12.2499581 L13.9999569,3.99998728 L10.7499646,3.99998728 C10.3374595,3.99998728 9.99996642,3.66248466 9.99996642,3.24997954 L9.99996642,-1.27156272e-05 L4.74997894,-1.27156272e-05 C4.33576484,-1.27156272e-05 3.99998073,0.335771396 3.99998073,0.749985496 L3.99998073,12.2499581 C3.99998073,12.6641722 4.33576484,12.9999563 4.74997894,12.9999563 L13.2499587,12.9999563 Z M13.999964,2.99998728 L13.999964,2.81064953 C13.999964,2.63917167 13.9015379,2.40159289 13.7802919,2.28031632 L11.7196279,0.219652288 C11.5983513,0.0984062392 11.3607725,-1.27156272e-05 11.1892946,-1.27156272e-05 L10.999964,-1.27156272e-05 L10.999964,2.99998728 L13.999964,2.99998728 Z M9.24996821,15.9999491 C9.66418231,15.9999491 9.99996642,15.664165 9.99996642,15.2499509 L9.99996642,13.9999539 L4.74997894,13.9999539 C3.78501542,13.9999539 2.99999026,13.2149216 2.99999026,12.2499581 L2.99999026,2.99998013 L0.749988476,2.99998013 C0.335774376,2.99998013 -9.7354021e-06,3.33576424 -9.7354021e-06,3.74997834 L-9.7354021e-06,15.2499509 C-9.7354021e-06,15.664165 0.335774376,15.9999491 0.749988476,15.9999491 L9.24996821,15.9999491 Z" id="copy"></path>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
