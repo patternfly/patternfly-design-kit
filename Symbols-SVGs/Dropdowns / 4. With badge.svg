@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="18px" viewBox="0 0 49 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-4.-With-badge">
+            <rect id="Background" fill="#F0F0F0" x="0" y="0" width="49" height="18" rx="9"></rect>
+            <g id="caret-down" transform="translate(25.000000, -2.000000)" fill="#151515">
+                <path d="M12.8157222,13.8156113 L15.8297912,10.7992077 C16.1250939,10.503905 15.9165144,10 15.4993095,10 L9.46885975,10 C9.05167782,10 8.84307541,10.503905 9.13840094,10.7992077 L12.1524471,13.8156113 C12.3352546,13.9984188 12.6329147,13.9984188 12.8157222,13.8156113 Z"></path>
+            </g>
+            <text id="💯-Count" font-family="RedHatText-Medium, Red Hat Text" font-size="12" font-weight="400" line-spacing="18" fill="#151515">
+                <tspan x="8" y="12">00</tspan>
+            </text>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(25.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

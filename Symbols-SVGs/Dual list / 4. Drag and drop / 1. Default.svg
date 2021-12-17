@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="37px" viewBox="0 0 330 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dual-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dual-list-/-4.-Drag-and-drop-/-1.-Default">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="330" height="37"></rect>
+            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="44" y="22">Type something</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="297" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 29.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="297" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="36"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(314.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="36"></rect>
+                </g>
+            </g>
+            <g id="Button-/-10.-Icon-button-/-Default">
+                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                    <g id="🖼-Icon" fill="#151515">
+                        <path d="M10,9 C10.5521766,9 11,8.55217659 11,8 L11,6 C11,5.44781387 10.5521766,5 10,5 L8,5 C7.44781387,5 7,5.44781387 7,6 L7,8 C7,8.55217659 7.44781387,9 8,9 L10,9 Z M15.9999857,9 C16.5521623,9 16.9999857,8.55217659 16.9999857,8 L16.9999857,6 C16.9999857,5.44781387 16.5521623,5 15.9999857,5 L13.9999857,5 C13.4477996,5 12.9999857,5.44781387 12.9999857,6 L12.9999857,8 C12.9999857,8.55217659 13.4477996,9 13.9999857,9 L15.9999857,9 Z M10,13.9999881 C10.5521766,13.9999881 11,13.5521647 11,12.9999881 L11,10.9999881 C11,10.447802 10.5521766,9.99998808 10,9.99998808 L8,9.99998808 C7.44781387,9.99998808 7,10.447802 7,10.9999881 L7,12.9999881 C7,13.5521647 7.44781387,13.9999881 8,13.9999881 L10,13.9999881 Z M15.9999857,13.9999881 C16.5521623,13.9999881 16.9999857,13.5521647 16.9999857,12.9999881 L16.9999857,10.9999881 C16.9999857,10.447802 16.5521623,9.99998808 15.9999857,9.99998808 L13.9999857,9.99998808 C13.4477996,9.99998808 12.9999857,10.447802 12.9999857,10.9999881 L12.9999857,12.9999881 C12.9999857,13.5521647 13.4477996,13.9999881 13.9999857,13.9999881 L15.9999857,13.9999881 Z M10,18.9999762 C10.5521766,18.9999762 11,18.5521527 11,17.9999762 L11,15.9999762 C11,15.44779 10.5521766,14.9999762 10,14.9999762 L8,14.9999762 C7.44781387,14.9999762 7,15.44779 7,15.9999762 L7,17.9999762 C7,18.5521527 7.44781387,18.9999762 8,18.9999762 L10,18.9999762 Z M15.9999857,18.9999762 C16.5521623,18.9999762 16.9999857,18.5521527 16.9999857,17.9999762 L16.9999857,15.9999762 C16.9999857,15.44779 16.5521623,14.9999762 15.9999857,14.9999762 L13.9999857,14.9999762 C13.4477996,14.9999762 12.9999857,15.44779 12.9999857,15.9999762 L12.9999857,17.9999762 C12.9999857,18.5521527 13.4477996,18.9999762 13.9999857,18.9999762 L15.9999857,18.9999762 Z" id="grip-vertical"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

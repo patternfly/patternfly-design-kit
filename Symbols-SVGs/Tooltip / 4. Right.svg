@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="77px" height="50px" viewBox="0 0 77 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="72px" height="37px" viewBox="0 0 72 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Tooltips-and-Popovers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tooltip-/-4.-Right">
-            <path d="M-11,25.6055303 L0,15 L0,0 L77,0 L77,50 L0,50 L0,36 L-11,25.6055303 Z" id="Background" fill="#151515"></path>
+            <path d="M0,18.6055303 L11,8 L11,0 L72,0 L72,37 L11,37 L11,29 L0,18.6055303 Z" id="Background" fill="#151515"></path>
             <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
-                <tspan x="16.198" y="30">Tooltip</tspan>
+                <tspan x="19.198" y="22">Tooltip</tspan>
             </text>
-            <g id="📐-Padding" fill-opacity="0.9">
+            <g id="📐-Padding" transform="translate(-5.000000, 0.000000)" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="49"></rect>
                 </g>
@@ -15,9 +15,6 @@
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="49"></rect>
                 </g>
                 <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
-                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="44" height="7"></rect>
-                </g>
-                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 42.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="44" height="7"></rect>
                 </g>
             </g>

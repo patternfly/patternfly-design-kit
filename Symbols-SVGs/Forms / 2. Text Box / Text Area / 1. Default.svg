@@ -26,13 +26,15 @@
     </defs>
     <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Forms-/-2.-Text-Box-/-Text-Area-/-1.-Default">
-            <g id="Background">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            </g>
-            <g id="Handle" transform="translate(131.000000, 27.000000)" stroke="#BBBBBB">
-                <line x1="4" y1="7" x2="7" y2="4" id="Line"></line>
-                <line x1="-1.77635684e-15" y1="7" x2="7" y2="-2.22044605e-15" id="Line"></line>
+            <g id="Group">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Handle" transform="translate(131.000000, 27.000000)" stroke="#BBBBBB">
+                    <line x1="4" y1="7" x2="7" y2="4" id="Line"></line>
+                    <line x1="-1.77635684e-15" y1="7" x2="7" y2="-2.22044605e-15" id="Line"></line>
+                </g>
             </g>
             <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
                 <tspan x="8" y="22">Text box</tspan>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="85px" viewBox="0 0 83 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Progress-stepper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Progress-stepper-/-1.-Horizontal-items-/-Pending-/-3.-Centered">
+            <text id="Description-2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="0.067" y="78">Description 2</tspan>
+            </text>
+            <text id="Description" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                <tspan x="1.328" y="52">Description</tspan>
+            </text>
+            <g id="Progress-steps-/-Item-/-1.-Default" transform="translate(28.000000, 0.000000)" fill="#FAFAFA" stroke="#D2D2D2" stroke-width="2">
+                <circle id="Oval" cx="14" cy="14" r="13"></circle>
+            </g>
+            <g id="📐-Padding" transform="translate(0.000000, 27.000000)" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.277777778" width="84" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(0.000000, 30.222222)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.388888889" width="84" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="60px" viewBox="0 0 82 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Progress-stepper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Progress-stepper-/-1.-Horizontal-items--/-Completed-/-1.-Default">
+            <text id="Description" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="0" y="52">Description</tspan>
+            </text>
+            <g id="📐-Padding" transform="translate(0.000000, 28.000000)" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="81" height="7"></rect>
+                </g>
+            </g>
+            <g id="Progress-stepper-/-Item-/-1.-Default">
+                <circle id="Oval" stroke="#D2D2D2" stroke-width="2" fill="#FAFAFA" cx="14" cy="14" r="13"></circle>
+                <g id="check-circle" transform="translate(2.000000, 2.000000)" fill="#3E8635">
+                    <path d="M11.7499815,19.499963 C16.0301837,19.499963 19.499963,16.0301837 19.499963,11.7499815 C19.499963,7.46977933 16.0301837,4 11.7499815,4 C7.46977933,4 4,7.46977933 4,11.7499815 C4,16.0301837 7.46977933,19.499963 11.7499815,19.499963 Z M10.1464087,15.8535179 L6.89641643,12.6035256 C6.70119595,12.4082746 6.70119595,12.0916555 6.89641643,11.8964045 L7.60353755,11.1893139 C7.79878855,10.9940629 8.11540767,10.9940629 8.31065867,11.1893139 L10.4999845,13.3786703 L15.1893044,8.68935039 C15.3845859,8.49406888 15.701205,8.49406888 15.8964255,8.68935039 L16.6035466,9.39644099 C16.7987671,9.59169199 16.7987671,9.90831111 16.6035466,10.1035621 L10.8535603,15.8535484 C10.6582788,16.0487689 10.3416902,16.0487689 10.1464087,15.8535179 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

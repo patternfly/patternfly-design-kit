@@ -4,7 +4,7 @@
     <g id="Tree-view" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tree-view-/-3.-With-icon-/-Folder-/-2.-Second-level-/-Selected">
             <g id="Dropdowns-/-3.-Menu-Item-/-Default">
-                <text id="✏️-Label" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400" line-spacing="24" fill="#151515">
+                <text id="✏️-Label" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="16" font-weight="500" line-spacing="24" fill="#151515">
                     <tspan x="80" y="24">Second level </tspan>
                 </text>
                 <g id="📐-Padding" fill-opacity="0.9">

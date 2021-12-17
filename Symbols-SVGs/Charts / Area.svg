@@ -2,16 +2,16 @@
 <svg width="452px" height="209px" viewBox="0 0 452 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Chart">
-            <polygon id="fill" fill-opacity="0.4" fill="#0066CC" points="1 24.3333333 79 108.520846 152 4.2 226 132.2 299 63 373 181 449 207 1 207"></polygon>
-            <polyline id="stroke" stroke="#0066CC" stroke-width="2" points="3 25 78.5 108.160144 152.5 4.2 226 132.2 299.5 63 373 181 449 206"></polyline>
-            <circle id="data-point" fill="#0066CC" cx="3" cy="25" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="79" cy="107" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="226" cy="132" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="300" cy="63" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="152.5" cy="3.5" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="373" cy="181" r="3"></circle>
-            <circle id="data-point" fill="#0066CC" cx="449" cy="206" r="3"></circle>
+        <g id="Chart" transform="translate(0.000000, 0.500000)">
+            <polygon id="fill" fill-opacity="0.4" fill="#0066CC" points="1 23.8333333 79 108.020846 152 3.7 226 131.7 299 62.5 373 180.5 449 206.5 1 206.5"></polygon>
+            <polyline id="stroke" stroke="#0066CC" stroke-width="2" stroke-linecap="round" points="3 24.5 78.5 107.660144 152.5 3.7 226 131.7 299.5 62.5 373 180.5 449 205.5"></polyline>
+            <circle id="data-point" fill="#0066CC" cx="3" cy="24.5" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="79" cy="106.5" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="226" cy="131.5" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="300" cy="62.5" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="152.5" cy="3" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="373" cy="180.5" r="3"></circle>
+            <circle id="data-point" fill="#0066CC" cx="449" cy="205.5" r="3"></circle>
         </g>
     </g>
 </svg>

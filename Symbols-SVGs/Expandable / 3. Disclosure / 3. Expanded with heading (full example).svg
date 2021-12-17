@@ -3,11 +3,11 @@
     <title></title>
     <defs>
         <rect id="path-1" x="0" y="0" width="1000" height="194"></rect>
-        <filter x="-0.8%" y="-2.3%" width="101.5%" height="107.7%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-0.6%" y="-3.9%" width="101.1%" height="105.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Expandable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -15,7 +15,7 @@
             <g id="Expandable-/-3.-Disclosure-/-Background">
                 <g id="Rectangle">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                    <rect stroke="#D2D2D2" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="999" height="193"></rect>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
                 </g>
                 <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="194"></rect>
             </g>

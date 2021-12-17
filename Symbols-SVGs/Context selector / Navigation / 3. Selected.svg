@@ -3,7 +3,7 @@
     <title></title>
     <defs>
         <rect id="path-1" x="0" y="0" width="242" height="36"></rect>
-        <filter x="-0.4%" y="-2.8%" width="100.8%" height="105.6%" filterUnits="objectBoundingBox" id="filter-2">
+        <filter x="-0.2%" y="-1.4%" width="100.4%" height="102.8%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0.235294118   0 0 0 0 0.247058824   0 0 0 0 0.258823529  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
@@ -13,9 +13,9 @@
             <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
             <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
             <feColorMatrix values="0 0 0 0 0.235294118   0 0 0 0 0.247058824   0 0 0 0 0.258823529  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
-            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
             <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.168627451   0 0 0 0 0.603921569   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixInner1"></feMergeNode>
                 <feMergeNode in="shadowMatrixInner2"></feMergeNode>
