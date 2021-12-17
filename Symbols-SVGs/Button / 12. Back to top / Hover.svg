@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="26px" viewBox="0 0 102 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-12.-Back-to-top-/-Hover">
+            <rect id="Background" fill="#004080" x="0" y="0" width="102" height="26" rx="13"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                <tspan x="8" y="16">Back to top</tspan>
+            </text>
+            <g id="Icons/2.-Size-sm/Framework/angle-down" transform="translate(70.000000, 1.000000)" fill="#FFFFFF">
+                <path d="M8.98905471,15.238657 L12.0015597,12.2261825 L15.0171775,15.2355442 C15.3077957,15.5292752 15.7828007,15.5292752 16.0765622,15.2355442 L16.7827983,14.5292776 C17.0765598,14.2386594 17.0765598,13.7636544 16.7827983,13.4699234 L12.5328085,9.21993357 C12.239047,8.92617206 11.7640725,8.92617206 11.470311,9.22304636 L7.22032113,13.4730362 C6.92655962,13.7636544 6.92655962,14.2386594 7.22032113,14.5324209 L7.92970054,15.238657 C8.22031875,15.5324185 8.69532372,15.5324185 8.98905471,15.238657 Z" id="angle-up"></path>
+            </g>
+        </g>
+    </g>
+</svg>

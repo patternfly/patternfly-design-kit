@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="36px" viewBox="0 0 50 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-7.-Link-button-/-5.-No-padding-/-Default">
+            <rect id="Background" x="0" y="0" width="50" height="36" rx="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
+                <tspan x="0" y="22">Button</tspan>
+            </text>
+            <g id="📐-Padding" fill="#F3D53C" fill-opacity="0.9" stroke="#CBB534">
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(0.000000, 30.000000)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

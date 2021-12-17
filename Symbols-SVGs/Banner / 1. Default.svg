@@ -26,19 +26,19 @@
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
                 </g>
             </g>
-            <g id="Rectangle">
+            <g id="Shadow">
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
             </g>
-            <rect id="Rectangle-Copy" fill="#4F5255" x="0" y="0" width="712" height="25"></rect>
-            <text id="Optional-text" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
-                <tspan x="24" y="16">Optional text</tspan>
+            <rect id="Background" fill="#4F5255" x="0" y="0" width="712" height="25"></rect>
+            <text id="Optional-text-right" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                <tspan x="617.092" y="16">Optional text</tspan>
             </text>
             <text id="Text" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
                 <tspan x="343.766" y="16">Text</tspan>
             </text>
-            <text id="Optional-text" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
-                <tspan x="617.092" y="16">Optional text</tspan>
+            <text id="Optional-text-left" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                <tspan x="24" y="16">Optional text</tspan>
             </text>
         </g>
     </g>

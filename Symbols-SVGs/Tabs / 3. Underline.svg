@@ -11,8 +11,9 @@
     </defs>
     <g id="Tabs-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tabs-/-3.-Underline">
-            <g id="Rectangle" fill="black" fill-opacity="1">
-                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">

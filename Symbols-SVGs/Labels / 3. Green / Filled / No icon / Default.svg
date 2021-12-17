@@ -3,7 +3,7 @@
     <title></title>
     <g id="Labels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group">
-            <rect id="Rectangle-Copy" stroke="#BDE5B8" fill="#F3FAF2" x="0" y="0" width="71" height="28" rx="14"></rect>
+            <rect id="Rectangle-Copy" stroke="#BDE5B8" fill="#F3FAF2" x="0.5" y="0.5" width="70" height="27" rx="13.5"></rect>
             <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#0F280D">
                 <tspan x="8" y="17">Label</tspan>
             </text>

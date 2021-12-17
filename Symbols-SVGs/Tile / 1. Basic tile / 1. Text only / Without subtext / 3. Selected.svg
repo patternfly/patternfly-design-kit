@@ -3,7 +3,7 @@
     <title></title>
     <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tile-/-1.-Basic-tile-/-1.-Text-only-/-Without-subtext-/-3.-Selected">
-            <rect id="Rectangle" stroke="#0066CC" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="136" height="70" rx="3"></rect>
+            <rect id="Rectangle" stroke="#0066CC" stroke-width="2" x="1" y="1" width="136" height="70" rx="3"></rect>
             <text id="Selected-tile" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
                 <tspan x="24" y="40">Selected tile</tspan>
             </text>

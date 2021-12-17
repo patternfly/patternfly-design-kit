@@ -26,13 +26,15 @@
     </defs>
     <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Forms-/-2.-Text-Box-/-Text-Area-/-8.-Success">
-            <g id="Background">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            </g>
-            <g id="Handle" transform="translate(131.000000, 26.000000)" stroke="#BBBBBB">
-                <line x1="4" y1="7" x2="7" y2="4" id="Line"></line>
-                <line x1="-1.77635684e-15" y1="7" x2="7" y2="-2.22044605e-15" id="Line"></line>
+            <g id="Group">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Handle" transform="translate(131.000000, 26.000000)" stroke="#BBBBBB">
+                    <line x1="4" y1="7" x2="7" y2="4" id="Line"></line>
+                    <line x1="-1.77635684e-15" y1="7" x2="7" y2="-2.22044605e-15" id="Line"></line>
+                </g>
             </g>
             <g id="check-circle" transform="translate(108.000000, 6.000000)" fill="#3E8635">
                 <path d="M11.7499815,19.499963 C16.0301837,19.499963 19.499963,16.0301837 19.499963,11.7499815 C19.499963,7.46977933 16.0301837,4 11.7499815,4 C7.46977933,4 4,7.46977933 4,11.7499815 C4,16.0301837 7.46977933,19.499963 11.7499815,19.499963 Z M10.1464087,15.8535179 L6.89641643,12.6035256 C6.70119595,12.4082746 6.70119595,12.0916555 6.89641643,11.8964045 L7.60353755,11.1893139 C7.79878855,10.9940629 8.11540767,10.9940629 8.31065867,11.1893139 L10.4999845,13.3786703 L15.1893044,8.68935039 C15.3845859,8.49406888 15.701205,8.49406888 15.8964255,8.68935039 L16.6035466,9.39644099 C16.7987671,9.59169199 16.7987671,9.90831111 16.6035466,10.1035621 L10.8535603,15.8535484 C10.6582788,16.0487689 10.3416902,16.0487689 10.1464087,15.8535179 Z"></path>

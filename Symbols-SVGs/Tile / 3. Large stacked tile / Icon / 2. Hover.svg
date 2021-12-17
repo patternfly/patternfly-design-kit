@@ -3,7 +3,7 @@
     <title></title>
     <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tile-/-3.-Large-stacked-tile-/-Icon-/-2.-Hover">
-            <rect id="Rectangle" stroke="#0066CC" fill="#FFFFFF" x="0.5" y="0.5" width="146" height="144" rx="3"></rect>
+            <rect id="Rectangle" stroke="#0066CC" x="0.5" y="0.5" width="146" height="144" rx="3"></rect>
             <text id="Subtext-goes-here" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
                 <tspan x="24.216" y="115">Subtext goes here</tspan>
             </text>

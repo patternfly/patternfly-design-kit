@@ -5,7 +5,7 @@
         <g id="Button-/-2.-Secondary-/-Hover">
             <rect id="Background" stroke="#0066CC" stroke-width="2" x="1" y="1" width="80" height="34" rx="3"></rect>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
-                <tspan x="16" y="22">Button</tspan>
+                <tspan x="16.12" y="22">Button</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">

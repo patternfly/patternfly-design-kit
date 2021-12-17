@@ -3,7 +3,7 @@
     <title></title>
     <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tile-/-1.-Basic-tile-/-2.-Text-with-icon-/-Without-subtext-/-2.-Hover">
-            <rect id="Rectangle" stroke="#0066CC" fill="#FFFFFF" x="0.5" y="0.5" width="133" height="71" rx="3"></rect>
+            <rect id="Rectangle" stroke="#0066CC" x="0.5" y="0.5" width="133" height="71" rx="3"></rect>
             <text id="Hover-tile" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
                 <tspan x="40" y="40">Hover tile</tspan>
             </text>
