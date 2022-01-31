@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="34px" viewBox="0 0 290 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-/-7.-Third-level-expandable-/-4.-Leaf-items-/-Default">
+            <rect fill="#212427" x="0" y="0" width="290" height="34"></rect>
+            <rect id="Background" fill="#212427" x="0" y="0" width="290" height="34"></rect>
+            <rect id="Rectangle" fill="#4F5255" x="0" y="0" width="1" height="34"></rect>
+            <text id="Third-level-item" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                <tspan x="16" y="20">Third level item</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="37px" viewBox="0 0 290 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-/-7.-Third-level-expandable-/-1.-Default-(expanded)">
+            <rect fill="#212427" x="0" y="0" width="290" height="37"></rect>
+            <rect id="Background" fill="#212427" x="0" y="0" width="290" height="37"></rect>
+            <text id="Third-Level" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                <tspan x="24" y="22">Third level item </tspan>
+            </text>
+            <g id="Icons/2.-Size-sm/Framework/angle-down" transform="translate(242.000000, 7.000000)" fill="#FFFFFF">
+                <path d="M12.1449143,14.6769317 L15.3324067,11.4894393 C15.5527278,11.2714756 15.5527278,10.9152219 15.3324067,10.6949237 L14.8027296,10.1652237 C14.5847659,9.94492544 14.2285122,9.94492544 14.0081911,10.1652237 L11.7488352,12.4246024 L9.48945644,10.1652237 C9.27149279,9.94492544 8.91523906,9.94492544 8.69491793,10.1652237 L8.16524085,10.6949237 C7.94491972,10.9128873 7.94491972,11.269141 8.16524085,11.4894393 L11.3527332,14.6769317 C11.5730544,14.8972528 11.9292852,14.8972528 12.1449143,14.6769317 Z" id="angle-down"></path>
+            </g>
+        </g>
+    </g>
+</svg>
