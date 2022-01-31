@@ -4,6 +4,7 @@
     <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Navigation-/-2.-Primary-Nav-/-Selected">
             <rect fill="#4F5255" x="0" y="0" width="290" height="56"></rect>
+            <rect id="bg" fill="#4F5255" x="0" y="0" width="290" height="56"></rect>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
                 <tspan x="24" y="32">Page title</tspan>
             </text>

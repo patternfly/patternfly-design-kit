@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="147px" height="145px" viewBox="0 0 147 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="147" height="145" rx="3"></rect>
+        <filter x="-19.0%" y="-13.8%" width="138.1%" height="138.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-13.6%" y="-8.3%" width="127.2%" height="127.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-8" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
     <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tile-/-3.-Large-stacked-tile-/-Icon-/-4.-Disabled">
-            <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="147" height="145" rx="3"></rect>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
             <text id="Subtext-goes-here" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
                 <tspan x="24.216" y="115">Subtext goes here</tspan>
             </text>

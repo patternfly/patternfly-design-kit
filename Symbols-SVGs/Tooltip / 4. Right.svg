@@ -3,7 +3,7 @@
     <title></title>
     <g id="Tooltips-and-Popovers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Tooltip-/-4.-Right">
-            <path d="M0,18.6055303 L11,8 L11,0 L72,0 L72,37 L11,37 L11,29 L0,18.6055303 Z" id="Background" fill="#151515"></path>
+            <path d="M11,0 L72,0 L72,37 L11,37 L11,0 Z M11,8 L0,18.6055303 L11,29 L11,8 Z" id="Background" fill="#151515"></path>
             <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
                 <tspan x="19.198" y="22">Tooltip</tspan>
             </text>

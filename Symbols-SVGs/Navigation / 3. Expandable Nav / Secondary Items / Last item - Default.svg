@@ -4,6 +4,7 @@
     <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Navigation-/-3.-Expandable-Nav-/-Secondary-Items-/-Last-item---Default">
             <rect fill="#212427" x="0" y="0" width="290" height="53"></rect>
+            <rect id="bg" fill="#212427" x="0" y="0" width="290" height="53"></rect>
             <rect id="Bottom-border" fill="#3C3F42" x="0" y="52" width="290" height="1"></rect>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
                 <tspan x="48" y="22">Page title</tspan>
