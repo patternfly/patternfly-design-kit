@@ -6,8 +6,8 @@
             <text id="Description-2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
                 <tspan x="0.067" y="78">Description 2</tspan>
             </text>
-            <text id="Description" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
-                <tspan x="1.328" y="52">Description</tspan>
+            <text id="Description" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                <tspan x="0.896" y="52">Description</tspan>
             </text>
             <g id="Progress-steps-/-Item-/-1.-Default" transform="translate(28.000000, 0.000000)" fill="#FAFAFA" stroke="#D2D2D2" stroke-width="2">
                 <circle id="Oval" cx="14" cy="14" r="13"></circle>

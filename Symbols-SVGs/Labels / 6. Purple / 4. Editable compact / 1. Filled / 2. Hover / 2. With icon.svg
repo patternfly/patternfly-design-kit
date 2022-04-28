@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="18px" viewBox="0 0 62 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Labels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Labels-/-6.-Purple-/-4.-Editable-compact-/-1.-Filled-/-2.-Hover-/-2.-With-icon">
+            <rect id="Rectangle" stroke="#CBC1FF" fill="#F2F0FC" x="0" y="0" width="62" height="18" rx="9"></rect>
+            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#1F0066">
+                <tspan x="24" y="12">Label</tspan>
+            </text>
+            <g id="Icons/2.-Size-sm/Framework/clock" transform="translate(2.000000, -3.000000)" fill="#6753AC">
+                <path d="M11.8124861,17.6249723 C15.0224089,17.6249723 17.6249723,15.0233473 17.6249723,11.8124861 C17.6249723,8.60350179 15.0224089,6 11.8124861,6 C8.60256338,6 6,8.60350179 6,11.8124861 C6,15.0233473 8.60256338,17.6249723 11.8124861,17.6249723 Z M11.8124861,10.5468642 C11.2688244,10.5468642 10.8281135,10.1061532 10.8281135,9.56249151 C10.8281135,9.01882978 11.2688244,8.57811885 11.8124861,8.57811885 C12.3561479,8.57811885 12.7968588,9.01882978 12.7968588,9.56249151 C12.7968588,10.1061532 12.3561479,10.5468642 11.8124861,10.5468642 Z M12.8437337,14.812479 L10.7812386,14.812479 C10.6259198,14.812479 10.4999893,14.6865485 10.4999893,14.5312297 L10.4999893,13.968731 C10.4999893,13.8134122 10.6259198,13.6874817 10.7812386,13.6874817 L11.0624879,13.6874817 L11.0624879,12.1874852 L10.7812386,12.1874852 C10.6259198,12.1874852 10.4999893,12.0615548 10.4999893,11.9062359 L10.4999893,11.3437373 C10.4999893,11.1884184 10.6259198,11.0624879 10.7812386,11.0624879 L12.281235,11.0624879 C12.4365539,11.0624879 12.5624844,11.1884184 12.5624844,11.3437373 L12.5624844,13.6874817 L12.8437337,13.6874817 C12.9990525,13.6874817 13.124983,13.8134122 13.124983,13.968731 L13.124983,14.5312297 C13.124983,14.6865485 12.9990525,14.812479 12.8437337,14.812479 Z" id="info-circle"></path>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(54.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-1.-pf-global--spacer--xs-(4px)" transform="translate(20.000000, 0.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="3" height="17"></rect>
+                </g>
+            </g>
+            <line x1="25" y1="14.9981015" x2="53" y2="14.9981015" id="Path-2" stroke="#151515" stroke-dasharray="4,2"></line>
+        </g>
+    </g>
+</svg>

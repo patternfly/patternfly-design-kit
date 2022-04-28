@@ -3,7 +3,7 @@
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-grey-bg-/-Text-+-Icon-on-left-/-1.-Left-/-1.-Default">
-            <path d="M3,0 L135,0 L135,0 L135,36 L3,36 C1.34314575,36 2.02906125e-16,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+            <path d="M3,0 L135,0 L135,0 L135,36 L3,36 C1.34314575,36 4.64379822e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
             <text id="Default---left" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
                 <tspan x="38" y="22.0625">Default - left</tspan>
             </text>
