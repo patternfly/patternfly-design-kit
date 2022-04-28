@@ -3,7 +3,7 @@
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-white-bg-/-Text-+-Icon-on-right-/-3.-Right-/-3.-Selected">
-            <path d="M0.5,0.5 L149,0.5 C149.690356,0.5 150.315356,0.779822031 150.767767,1.23223305 C151.220178,1.68464406 151.5,2.30964406 151.5,3 L151.5,3 L151.5,33 C151.5,33.6903559 151.220178,34.3153559 150.767767,34.767767 C150.315356,35.220178 149.690356,35.5 149,35.5 L149,35.5 L0.5,35.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#0066CC" fill="#E7F1FA"></path>
+            <path d="M149,0.5 C149.690356,0.5 150.315356,0.779822031 150.767767,1.23223305 C151.220178,1.68464406 151.5,2.30964406 151.5,3 L151.5,3 L151.5,33 C151.5,33.6903559 151.220178,34.3153559 150.767767,34.767767 C150.315356,35.220178 149.690356,35.5 149,35.5 L149,35.5 L0.5,35.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#0066CC" fill="#E7F1FA"></path>
             <text id="Selected---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
                 <tspan x="16" y="22">Selected - right</tspan>
             </text>

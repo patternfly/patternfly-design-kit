@@ -5,7 +5,7 @@
         <g id="Button-/-7.-Link-button-/-5.-No-padding-/-Disabled-">
             <rect id="Background" x="0" y="0" width="50" height="36" rx="3"></rect>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
-                <tspan x="0" y="22">Button</tspan>
+                <tspan x="0.12" y="22">Button</tspan>
             </text>
             <g id="📐-Padding" fill="#F3D53C" fill-opacity="0.9" stroke="#CBB534">
                 <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)">

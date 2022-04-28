@@ -2,7 +2,7 @@
 <svg width="170px" height="56px" viewBox="0 0 170 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <defs>
-        <path d="M0,0 L170,0 L170,56 L0,56 L0,0 Z M85,74 L103,56 L67,56 L85,74 Z" id="path-1"></path>
+        <path d="M0,56 L0,0 L170,0 L170,56 L103,56 L85,74 L67,56 L0,56 Z" id="path-1"></path>
         <filter x="-16.5%" y="-27.0%" width="132.9%" height="175.7%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="305px" height="360px" viewBox="0 0 305 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <circle id="path-1" cx="19.5" cy="19.5" r="18.5"></circle>
+        <filter x="-16.2%" y="-16.2%" width="132.4%" height="132.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.240496337   0 0 0 0 0.540989578  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="140" height="36"></rect>
+        <filter x="-0.4%" y="-1.4%" width="100.7%" height="102.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="69" height="36"></rect>
+        <filter x="-0.7%" y="-1.4%" width="101.4%" height="102.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Datepicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Datepicker-/-3.-Date-range-picker">
+            <g id="Calendar" transform="translate(16.000000, 67.000000)">
+                <g id="Group" transform="translate(0.000000, 43.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">29</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 43.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">30</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(78.000000, 43.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="17.351" y="23">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(117.000000, 43.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.664" y="23">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(156.000000, 43.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.398" y="23">3</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 43.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.174" y="23">4</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(234.000000, 43.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#004080" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="15.51" y="23">5</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(0.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.167" y="23">6</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.594" y="23">7</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(78.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.202" y="23">8</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(117.000000, 82.500000)">
+                    <circle id="Oval" fill="#F0F0F0" cx="19.5" cy="19.5" r="18.5"></circle>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="15.167" y="23">9</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(156.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="12.731" y="23">10</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15.202" y="23">11</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(234.000000, 82.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.515" y="23">12</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.249" y="23">13</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.025" y="23">14</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(78.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.361" y="23">15</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(117.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.018" y="23">16</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(156.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.445" y="23">17</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.053" y="23">18</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(234.000000, 121.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.018" y="23">19</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(0.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="19" y="1" width="20" height="37"></rect>
+                    <circle id="Oval" fill="#0066CC" cx="19.5" cy="19.5" r="18.5"></circle>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="11.044" y="23">20</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(39.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="39" height="37"></rect>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="13.515" y="23">21</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(78.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="39" height="37"></rect>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="11.828" y="23">22</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(117.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="39" height="37"></rect>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="11.562" y="23">23</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(156.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="39" height="37"></rect>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="11.338" y="23">24</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(195.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="39" height="37"></rect>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="11.674" y="23">25</tspan>
+                    </text>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(234.000000, 160.500000)">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="1" width="20" height="37"></rect>
+                    <circle id="Oval" fill="#BEE1F4" cx="19.5" cy="19.5" r="18.5"></circle>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="11.331" y="23">26</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(0.000000, 199.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="11.758" y="23">27</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 199.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="11.366" y="23">28</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(78.000000, 199.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="11.331" y="23">29</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default" transform="translate(117.000000, 199.500000)">
+                    <circle id="Oval" stroke="#0066CC" stroke-width="2" fill-opacity="0.5" fill="#BEE1F4" cx="19.5" cy="19.5" r="18.5"></circle>
+                    <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="10.778" y="23">30</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(156.000000, 199.500000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="13.249" y="23">31</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 199.500000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(234.000000, 199.500000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">3</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(39.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">4</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(78.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">5</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(117.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">6</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(156.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">7</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(195.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">8</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(234.000000, 238.000000)" fill="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <g id="Datepicker-/-3.-Pieces-/-1.-Day-/-Default">
+                        <text id="11">
+                            <tspan x="15" y="23">9</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Divider-/-Horizontal" transform="translate(2.000000, 34.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                    <rect id="Divider" x="0.5" y="0.5" width="268" height="1"></rect>
+                </g>
+                <text id="S" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="17.5" y="12">S</tspan>
+                </text>
+                <text id="M" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="57" y="12">M</tspan>
+                </text>
+                <text id="T" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="92.5" y="12">T</tspan>
+                </text>
+                <text id="W" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="129.5" y="12">W</tspan>
+                </text>
+                <text id="T" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="170.5" y="12">T</tspan>
+                </text>
+                <text id="F" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="210.5" y="12">F</tspan>
+                </text>
+                <text id="S" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                    <tspan x="249" y="12">S</tspan>
+                </text>
+            </g>
+            <g id="header" transform="translate(16.000000, 16.000000)">
+                <g id="Group" transform="translate(0.000000, 8.000000)" fill="#6A6E73">
+                    <g id="Icons/1.-Size-md-(16px)/Framework/angle-left" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) ">
+                        <path d="M12.7796646,17.0698956 L17.3359129,12.5136702 C17.556234,12.2956836 17.556234,11.9394528 17.3359129,11.7191317 L12.7796646,7.16524085 C12.5617009,6.94491972 12.2054472,6.94491972 11.9851489,7.16524085 L11.4648331,7.68555668 C11.2398428,7.9082124 11.244512,8.27149279 11.4742172,8.48945644 L14.2984293,11.1800704 L7.56249866,11.1800704 C7.25078523,11.1800704 7,11.4308557 7,11.7425691 L7,12.4925673 C7,12.8042807 7.25078523,13.055066 7.56249866,13.055066 L14.2984293,13.055066 L11.4742172,15.74568 C11.2468695,15.9636436 11.2421774,16.326924 11.4648331,16.5495797 L11.9851489,17.0698956 C12.2031126,17.2902167 12.5593663,17.2902167 12.7796646,17.0698956 Z" id="arrow-right"></path>
+                    </g>
+                </g>
+                <g id="Icons/1.-Size-md-(16px)/Framework/angle-left" transform="translate(249.000000, 5.000000)" fill="#6A6E73">
+                    <path d="M12.7796646,17.0698956 L17.3359129,12.5136702 C17.556234,12.2956836 17.556234,11.9394528 17.3359129,11.7191317 L12.7796646,7.16524085 C12.5617009,6.94491972 12.2054472,6.94491972 11.9851489,7.16524085 L11.4648331,7.68555668 C11.2398428,7.9082124 11.244512,8.27149279 11.4742172,8.48945644 L14.2984293,11.1800704 L7.56249866,11.1800704 C7.25078523,11.1800704 7,11.4308557 7,11.7425691 L7,12.4925673 C7,12.8042807 7.25078523,13.055066 7.56249866,13.055066 L14.2984293,13.055066 L11.4742172,15.74568 C11.2468695,15.9636436 11.2421774,16.326924 11.4648331,16.5495797 L11.9851489,17.0698956 C12.2031126,17.2902167 12.5593663,17.2902167 12.7796646,17.0698956 Z" id="arrow-right"></path>
+                </g>
+                <g id="Dropdowns-/-1.-Toggle-/-Default" transform="translate(32.000000, 0.000000)">
+                    <g id="Background">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="caret-down" transform="translate(108.000000, 6.000000)" fill="#151515">
+                        <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"></path>
+                    </g>
+                    <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                        <tspan x="8" y="22">March</tspan>
+                    </text>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(100.000000, 6.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Forms/2.-Text-Box/1.-Default" transform="translate(187.500000, 16.000000)">
+                <g id="Background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                    <tspan x="8" y="22">2022</tspan>
+                </text>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(61.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="52" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="52" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

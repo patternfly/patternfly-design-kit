@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <circle id="path-1" cx="36" cy="36" r="36"></circle>
+        <circle id="path-3" cx="36" cy="36" r="36"></circle>
+    </defs>
+    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Light-bordered-avatar">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#F0F0F0" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="img_avatar-light" mask="url(#mask-2)">
+                <g transform="translate(11.000000, 14.600000)" id="Path">
+                    <path d="M24.6,25.6 C17.6,25.6 11.8,19.8 11.8,12.8 C11.8,5.8 17.6,0 24.6,0 C31.6,0 37.4,5.8 37.4,12.8 C37.4,19.8 31.8,25.6 24.6,25.6 Z" fill="#D2D2D2" fill-rule="evenodd"></path>
+                    <path d="M15.8,57.4 L15.8,44 C11.8,44.8 10,46.8 9.6,51 L9.4,57.4 L15.8,57.4 Z" fill="#B8BBBE" fill-rule="nonzero"></path>
+                    <path d="M9.4,57.4 L9.6,51 C10,46.8 11.8,44.8 15.8,44 L15.8,57.4 L34.6,57.4 L34.6,44 C38.6,44.8 40.4,46.8 40.8,51 L41,57.4 L50.4,57.4 C49.6,49.6 47.8,39.4 44.6,35.4 C42.4,32.6 40,31 37.6,30.2 C35.2,29.4 34,29 25,29 C16,29 12.8,30.4 12.8,30.4 C10.4,31.2 8,32.8 6,35.6 C2.6,39.4 0.8,49.8 0,57.4 L9.4,57.4 Z" fill="#D2D2D2" fill-rule="nonzero"></path>
+                    <path d="M41,57.4 L40.8,51 C40.4,46.8 38.6,44.8 34.6,44 L34.6,57.4 L41,57.4 Z" fill="#B8BBBE" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Oval" stroke="#D2D2D2" fill-rule="nonzero" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="56px" viewBox="0 0 106 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-1.-Table-header-/-Large-(16px-spacers)-/-5.-Sort-down">
+            <text id="✏️-Category" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008" fill="#0066CC">
+                <tspan x="0" y="33">Category</tspan>
+            </text>
+            <g id="Icons-/-Framework-/-long-arrow-alt-up" transform="translate(82.000000, 16.000000)">
+                <g id="long-arrow-alt-down" fill="#151515">
+                    <path d="M12.9711625,18.7803016 L15.6605176,16.090977 C16.1329896,15.618505 15.7983652,14.8106456 15.1301539,14.8106456 L13.6908568,14.8106456 L13.6908568,5.37499911 C13.6908568,5.16790731 13.5229495,5 13.3158577,5 L11.5658619,5 C11.3587701,5 11.1908628,5.16790731 11.1908628,5.37499911 L11.1908628,14.8106456 L9.75153514,14.8106456 C9.08332384,14.8106456 8.74869939,15.6184744 9.22117141,16.090977 L11.9105266,18.7803016 C12.2034336,19.0732086 12.678286,19.0732086 12.9711625,18.7803016 Z"></path>
+                </g>
+                <rect id="🎨-Color" fill="#0066CC" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="📐-Padding" transform="translate(66.000000, 0.000000)" fill="#3F9C35" fill-opacity="0.9" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="55"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

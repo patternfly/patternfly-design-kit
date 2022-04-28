@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="956px" height="40px" viewBox="0 0 956 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="956" height="40"></rect>
+        <filter x="-0.1%" y="-1.2%" width="100.1%" height="102.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-3.-Compact-size-row-/-1.-With-checkbox-/-3.-Checked-disabled">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Data-list-+-table-/-1.-Row-/-2.-Row-features-/-Compact-(8px-spacers)-/-1.-Not-expandable">
+                <g id="Kebab" transform="translate(902.000000, 2.000000)">
+                    <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
+                        <g id="🖼-Icon" fill="#151515">
+                            <path d="M12.2499946,8.49998927 C13.4937356,8.49998927 14.4999893,7.49373557 14.4999893,6.24999464 C14.4999893,5.0062537 13.4937356,4 12.2499946,4 C11.0062537,4 10,5.0062537 10,6.24999464 C10,7.49373557 11.0062537,8.49998927 12.2499946,8.49998927 Z M12.2499946,13.9999762 C13.4937356,13.9999762 14.4999893,12.9937225 14.4999893,11.7499815 C14.4999893,10.5062406 13.4937356,9.49998689 12.2499946,9.49998689 C11.0062537,9.49998689 10,10.5062406 10,11.7499815 C10,12.9937225 11.0062537,13.9999762 12.2499946,13.9999762 Z M12.2499946,19.499963 C13.4937356,19.499963 14.4999893,18.4937093 14.4999893,17.2499684 C14.4999893,16.0062275 13.4937356,14.9999738 12.2499946,14.9999738 C11.0062537,14.9999738 10,16.0062275 10,17.2499684 C10,18.4937093 11.0062537,19.499963 12.2499946,19.499963 Z" id="ellipsis-v"></path>
+                        </g>
+                        <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(16.000000, 8.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="8" y="4" width="16" height="16"></rect>
+                    <g transform="translate(4.000000, 0.000000)" fill="#6A6E73" id="Icons-/-Small-/-check">
+                        <g id="check">
+                            <path d="M10.9242379,16.7728081 L17.8242306,9.87279255 C18.0585364,9.63846388 18.0585364,9.25856672 17.8242306,9.02426094 L16.9757219,8.17572933 C16.7414161,7.94142356 16.3614961,7.94142356 16.1271903,8.17572933 L10.4999835,13.8029361 L7.87276966,11.1757222 C7.63846388,10.9413935 7.25854383,10.9413935 7.02423805,11.1757222 L6.17572933,12.0242538 C5.94142356,12.2585825 5.94142356,12.6384796 6.17572933,12.8727854 L10.0757292,16.7727853 C10.3100121,17.0071139 10.6899092,17.0071139 10.9242379,16.7728081 Z"></path>
+                        </g>
+                        <rect id="🎨-Color" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#007A87" stroke="#09707B">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(932.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="907" height="7"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="907" height="7"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

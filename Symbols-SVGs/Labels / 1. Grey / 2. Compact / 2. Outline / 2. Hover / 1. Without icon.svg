@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="18px" viewBox="0 0 46 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Labels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Labels-/-1.-Grey-/-2.-Compact-/-2.-Outline-/-2.-Hover-/-1.-Without-icon">
+            <rect id="Rectangle" stroke="#D2D2D2" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="43" height="16" rx="8"></rect>
+            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#151515">
+                <tspan x="8" y="12">Label</tspan>
+            </text>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(38.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
