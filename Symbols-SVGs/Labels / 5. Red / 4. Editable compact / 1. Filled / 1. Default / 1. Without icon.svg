@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="18px" viewBox="0 0 45 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Labels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Labels-/-5.-Red-/-4.-Editable-compact-/-1.-Filled-/-1.-Default-/-1.-Without-icon">
+            <rect id="Rectangle" stroke="#C9190B" fill="#FAEAE8" x="0" y="0" width="45" height="18" rx="9"></rect>
+            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#7D1007">
+                <tspan x="8" y="12">Label</tspan>
+            </text>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(38.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="17"></rect>
+                </g>
+            </g>
+            <line x1="9" y1="14.9981015" x2="37" y2="14.9981015" id="Path-2" stroke="#8A8D90" stroke-dasharray="4,2"></line>
+        </g>
+    </g>
+</svg>

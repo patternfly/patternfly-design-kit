@@ -7,7 +7,7 @@
             <text id="Default---center" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
                 <tspan x="16" y="22">Default - center</tspan>
             </text>
-            <g id="Divider-/-Vertical" transform="translate(132.000000, -0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+            <g id="Divider-/-Vertical-Copy" transform="translate(132.000000, -0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
                 <rect id="Divider" x="0.5" y="0.5" width="1" height="35"></rect>
             </g>
         </g>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="56px" viewBox="0 0 158 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="158" height="56"></rect>
+        <filter x="-2.2%" y="-4.5%" width="104.4%" height="112.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Jump-links" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jump-links-/-5.-Mobile-/-2.-Expanded">
+            <g id="Background">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Jump-to-section" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="40" y="32">Jump to section</tspan>
+            </text>
+            <g id="Icons/1.-Size-md/Framework/angle-right" transform="translate(23.000000, 25.000000)" fill="#151515">
+                <path d="M5.52655238,6.2359089 L9.77654224,1.98591903 C10.0703037,1.69530083 10.0703037,1.22029586 9.77654224,0.926564869 L9.07030613,0.220298242 C8.77968793,-0.0734327473 8.30468296,-0.0734327473 8.01092145,0.220298242 L4.99844695,3.23280327 L1.98594192,0.220298242 C1.69532372,-0.0734327473 1.22031875,-0.0734327473 0.926557239,0.220298242 L0.22032113,0.926564869 C-0.0734403767,1.21718307 -0.0734403767,1.69218804 0.22032113,1.98591903 L4.470311,6.2359089 C4.7640725,6.52967041 5.23904696,6.52967041 5.52655238,6.2359089 Z" id="angle-down"></path>
+            </g>
+        </g>
+    </g>
+</svg>

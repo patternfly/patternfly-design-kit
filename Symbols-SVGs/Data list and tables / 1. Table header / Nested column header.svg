@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="37px" viewBox="0 0 98 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-1.-Table-header-/-Nested-column-header">
+            <text id="✏️-Second-category" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008" fill="#6A6E73">
+                <tspan x="0" y="14">Category</tspan>
+            </text>
+            <g id="Icons-/-Framework-/-long-arrow-alt-up" transform="translate(91.000000, 1.000000)">
+                <g id="🖼-Icon" fill="#151515">
+                    <path d="M3.97116247,15.7803121 L6.66051763,13.0909875 C7.13302017,12.6185154 6.79839572,11.810656 6.13018442,11.810656 L4.6908568,11.810656 L4.6908568,4.18933633 L6.13018442,4.18933633 C6.79839572,4.18933633 7.13302017,3.38150744 6.66054815,2.90900491 L3.97119299,0.219680262 C3.67828597,-0.0732267541 3.20346411,-0.0732267541 2.91055709,0.219680262 L0.221201929,2.90900491 C-0.251270089,3.38147692 0.0833543572,4.18933633 0.751565655,4.18933633 L2.19086276,4.18933633 L2.19086276,11.810656 L0.751535137,11.810656 C0.0833238396,11.810656 -0.251300607,12.6184849 0.221171411,13.0909875 L2.91052657,15.7803121 C3.20343359,16.0732191 3.67825545,16.0732191 3.97116247,15.7803121 Z" id="arrows-alt-v"></path>
+                </g>
+                <rect id="🎨-Color" fill="#D2D2D2" x="-9" y="-4" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

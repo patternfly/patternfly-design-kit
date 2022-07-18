@@ -3,7 +3,7 @@
     <title></title>
     <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Toggle-group-/-On-grey-bg-/-Text-/-1.-Left-/-4.-Disabled">
-            <path d="M3,0 L121,0 L121,0 L121,36 L3,36 C1.34314575,36 2.02906125e-16,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
+            <path d="M3,0 L121,0 L121,0 L121,36 L3,36 C1.34314575,36 3.7556198e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" id="Rectangle-Copy" fill="#D2D2D2"></path>
             <text id="Disabled---left" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
                 <tspan x="16" y="22">Disabled - left</tspan>
             </text>

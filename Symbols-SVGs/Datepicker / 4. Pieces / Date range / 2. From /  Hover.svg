@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Datepicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Datepicker-/-4.-Pieces-/-Date-range-/-2.-From-/--Hover">
+            <rect id="Rectangle" fill="#E7F1FA" x="19" y="1" width="20" height="37"></rect>
+            <circle id="Oval" fill="#BEE1F4" cx="19.5" cy="19.5" r="18.5"></circle>
+            <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="15.202" y="23">11</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

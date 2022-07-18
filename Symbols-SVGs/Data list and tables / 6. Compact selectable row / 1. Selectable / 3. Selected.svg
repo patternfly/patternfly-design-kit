@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="956px" height="40px" viewBox="0 0 956 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="956" height="40"></rect>
+        <filter x="-0.6%" y="-18.8%" width="101.2%" height="127.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="956" height="40"></rect>
+        <filter x="-0.6%" y="-8.8%" width="101.2%" height="127.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="956" height="40"></rect>
+        <filter x="-0.1%" y="-1.2%" width="100.1%" height="102.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-6.-Compact-selectable-row-/-1.-Selectable-/-3.-Selected">
+            <g id="Data-list-+-table-/-1.-Row-/-1.-Row-background-/-Compact-(8px-spacers)-w-no-line-/-1.-Default">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="40"></rect>
+            </g>
+            <g id="Data-list-+-table-/-1.-Row-/-2.-Row-features-/-Compact-(8px-spacers)-/-1.-Not-expandable">
+                <g id="Kebab" transform="translate(902.000000, 2.000000)">
+                    <g id="🖼-Icon" transform="translate(18.000000, 10.000000)">
+                        <g fill="#151515" id="ellipsis-v">
+                            <path d="M2.24999464,4.49998927 C3.49373557,4.49998927 4.49998927,3.49373557 4.49998927,2.24999464 C4.49998927,1.0062537 3.49373557,-8.8817842e-16 2.24999464,-8.8817842e-16 C1.0062537,-8.8817842e-16 0,1.0062537 0,2.24999464 C0,3.49373557 1.0062537,4.49998927 2.24999464,4.49998927 Z M2.24999464,9.99997616 C3.49373557,9.99997616 4.49998927,8.99372245 4.49998927,7.74998152 C4.49998927,6.50624059 3.49373557,5.49998689 2.24999464,5.49998689 C1.0062537,5.49998689 0,6.50624059 0,7.74998152 C0,8.99372245 1.0062537,9.99997616 2.24999464,9.99997616 Z M2.24999464,15.499963 C3.49373557,15.499963 4.49998927,14.4937093 4.49998927,13.2499684 C4.49998927,12.0062275 3.49373557,10.9999738 2.24999464,10.9999738 C1.0062537,10.9999738 0,12.0062275 0,13.2499684 C0,14.4937093 1.0062537,15.499963 2.24999464,15.499963 Z"></path>
+                        </g>
+                        <rect id="🎨-Color" fill="#6A6E73" x="-10" y="-4" width="24" height="24"></rect>
+                    </g>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#007A87" stroke="#09707B">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(932.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="907" height="7"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)-Copy" transform="translate(24.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="907" height="7"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

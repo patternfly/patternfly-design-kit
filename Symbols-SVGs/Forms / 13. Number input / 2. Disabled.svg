@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="36px" viewBox="0 0 208 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-/-13.-Number-input-/-2.-Disabled">
+            <g id="Forms-/-6.-Icon-Field-/-Disabled-(no-border)">
+                <rect id="Background" fill="#F0F0F0" x="0" y="0" width="40" height="36"></rect>
+                <g id="🖼-Icon" transform="translate(13.000000, 17.000000)" fill="#6A6E73">
+                    <path d="M12.999969,3 C13.5521527,3 13.9999666,2.55217897 13.9999666,2 L13.9999666,1 C13.9999666,0.447813874 13.5521527,0 12.999969,0 L1,0 C0.447813874,0 1.77635684e-15,0.447813874 1.77635684e-15,1 L1.77635684e-15,2 C1.77635684e-15,2.55217897 0.447813874,3 1,3 L12.999969,3 Z" id="minus"></path>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Forms-/-6.-Icon-Field-/-1.-Default" transform="translate(168.000000, 0.000000)">
+                <rect id="Background" fill="#F0F0F0" x="0" y="0" width="40" height="36"></rect>
+                <g id="🖼-Icon" transform="translate(13.000000, 11.000000)" fill="#6A6E73">
+                    <path d="M7.49998212,13.9999666 C8.05216586,13.9999666 8.49997973,13.5521527 8.49997973,12.999969 L8.49997973,8.49997973 L12.999969,8.49997973 C13.5521527,8.49997973 13.9999666,8.05216586 13.9999666,7.49998212 L13.9999666,6.4999845 C13.9999666,5.94780076 13.5521527,5.49998689 12.999969,5.49998689 L8.49997973,5.49998689 L8.49997973,1 C8.49997973,0.447813874 8.05216586,1.77635684e-15 7.49998212,1.77635684e-15 L6.4999845,1.77635684e-15 C5.94780076,1.77635684e-15 5.49998689,0.447813874 5.49998689,1 L5.49998689,5.49998689 L1,5.49998689 C0.447813874,5.49998689 1.77635684e-15,5.94780076 1.77635684e-15,6.4999845 L1.77635684e-15,7.49998212 C1.77635684e-15,8.05216586 0.447813874,8.49997973 1,8.49997973 L5.49998689,8.49997973 L5.49998689,12.999969 C5.49998689,13.5521527 5.94780076,13.9999666 6.4999845,13.9999666 L7.49998212,13.9999666 Z" id="plus"></path>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Forms-/-2.-Text-Box-/-1.-Default" transform="translate(39.000000, 0.000000)">
+                <rect id="Background" fill="#F0F0F0" x="0" y="0" width="130" height="36"></rect>
+                <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                    <tspan x="59.232" y="22">Text box</tspan>
+                </text>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(122.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="113" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="113" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

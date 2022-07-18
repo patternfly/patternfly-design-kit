@@ -8,8 +8,8 @@
                 <rect id="Rectangle" x="0" y="0.5" width="12" height="1"></rect>
                 <rect id="Rectangle-Copy" x="0" y="3.5" width="12" height="1"></rect>
             </g>
-            <g id="Divider" transform="translate(0.000000, 7.000000)" fill="#FFFFFF" stroke="#D2D2D2">
-                <rect x="0.5" y="0.5" width="267" height="1"></rect>
+            <g id="Divider-/-Horizontal" transform="translate(0.000000, 7.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="267" height="1"></rect>
             </g>
         </g>
     </g>

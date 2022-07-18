@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="56px" viewBox="0 0 158 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="158" height="56"></rect>
+        <filter x="-2.2%" y="-4.5%" width="104.4%" height="112.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Jump-links" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jump-links-/-5.-Mobile-/-1.-Collapsed">
+            <g id="Background">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Jump-to-section" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="40" y="32">Jump to section</tspan>
+            </text>
+            <g id="Icons/1.-Size-md/Framework/angle-right" transform="translate(25.000000, 23.000000)" fill="#151515">
+                <path d="M1.98591903,9.78279833 L6.2359089,5.53280846 C6.52967041,5.23904696 6.52967041,4.7640725 6.23279611,4.470311 L1.98280625,0.22032113 C1.69218804,-0.0734403767 1.21718307,-0.0734403767 0.923421565,0.22032113 L0.220298242,0.932813328 C-0.0734327473,1.22343153 -0.0734327473,1.6984365 0.220298242,1.99219801 L3.23280327,5.00467252 L0.220298242,8.01717754 C-0.0734327473,8.30779574 -0.0734327473,8.78280072 0.220298242,9.07656222 L0.926564869,9.78279833 C1.21718307,10.0765598 1.69218804,10.0765598 1.98591903,9.78279833 Z" id="angle-right"></path>
+            </g>
+        </g>
+    </g>
+</svg>

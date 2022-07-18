@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="956px" height="72px" viewBox="0 0 956 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="956" height="72"></rect>
+        <filter x="-0.1%" y="-0.7%" width="100.1%" height="101.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-2.-Default-size-row-/-4.-Favoritable-/-3.-Selected">
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Table-/-2.-Row-/-1.-Default-size-/-1.-Standard-/-1.-Default">
+                <g id="Kebab" transform="translate(902.000000, 18.000000)">
+                    <g id="🖼-Icon" transform="translate(18.000000, 10.000000)" fill="#6A6E73">
+                        <path d="M2.24999464,4.49998927 C3.49373557,4.49998927 4.49998927,3.49373557 4.49998927,2.24999464 C4.49998927,1.0062537 3.49373557,0 2.24999464,0 C1.0062537,0 0,1.0062537 0,2.24999464 C0,3.49373557 1.0062537,4.49998927 2.24999464,4.49998927 Z M2.24999464,9.99997616 C3.49373557,9.99997616 4.49998927,8.99372245 4.49998927,7.74998152 C4.49998927,6.50624059 3.49373557,5.49998689 2.24999464,5.49998689 C1.0062537,5.49998689 0,6.50624059 0,7.74998152 C0,8.99372245 1.0062537,9.99997616 2.24999464,9.99997616 Z M2.24999464,15.499963 C3.49373557,15.499963 4.49998927,14.4937093 4.49998927,13.2499684 C4.49998927,12.0062275 3.49373557,10.9999738 2.24999464,10.9999738 C1.0062537,10.9999738 0,12.0062275 0,13.2499684 C0,14.4937093 1.0062537,15.499963 2.24999464,15.499963 Z" id="ellipsis-v"></path>
+                    </g>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Checkbox" transform="translate(24.119788, 28.000000)" fill="#F0AB00">
+                    <path d="M4.27499218,15.8847219 L8.35936354,13.7378459 L12.4437349,15.8847219 C13.1687393,16.265977 14.0343378,15.6534907 13.8937131,14.8315933 L13.112465,10.2847291 L16.4155882,7.06598677 C17.0093368,6.48786315 16.6812126,5.47849666 15.8624584,5.35975305 L11.2968565,4.69413574 L9.25624251,0.556633398 C8.89061228,-0.180852637 7.83122759,-0.190221511 7.46248458,0.556633398 L5.42187055,4.69413574 L0.856268638,5.35975305 C0.0375144868,5.47849666 -0.290609731,6.48786315 0.303138854,7.06598677 L3.60626208,10.2847291 L2.82501394,14.8315933 C2.68438928,15.6534907 3.5499878,16.2690898 4.27499218,15.8847219 Z" id="star"></path>
+                </g>
+                <g id="📐-Padding" fill="#007A87" fill-opacity="0.9" stroke="#09707B">
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="71"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(932.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="71"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="907" height="23"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)-Copy" transform="translate(24.000000, 48.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="907" height="23"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

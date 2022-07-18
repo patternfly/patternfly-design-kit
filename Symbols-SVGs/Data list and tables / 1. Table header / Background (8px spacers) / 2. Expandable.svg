@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="412px" height="41px" viewBox="0 0 412 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="412" height="42"></rect>
+        <filter x="-0.1%" y="-1.2%" width="100.2%" height="102.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-1.-Table-header-/-Background-(8px-spacers)-/-2.-Expandable">
+            <g id="Background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Checkbox" transform="translate(56.000000, 13.000000)" fill="#FFFFFF" stroke="#6A6E73">
+                <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15"></rect>
+            </g>
+            <g id="Icons/1.-Size-md-(16px)/Framework/angle-right" transform="translate(33.000000, 16.000000)" fill="#6A6E73">
+                <path d="M1.98591903,9.78279833 L6.2359089,5.53280846 C6.52967041,5.23904696 6.52967041,4.7640725 6.23279611,4.470311 L1.98280625,0.22032113 C1.69218804,-0.0734403767 1.21718307,-0.0734403767 0.923421565,0.22032113 L0.220298242,0.932813328 C-0.0734327473,1.22343153 -0.0734327473,1.6984365 0.220298242,1.99219801 L3.23280327,5.00467252 L0.220298242,8.01717754 C-0.0734327473,8.30779574 -0.0734327473,8.78280072 0.220298242,9.07656222 L0.926564869,9.78279833 C1.21718307,10.0765598 1.69218804,10.0765598 1.98591903,9.78279833 Z" id="angle-right"></path>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-6.-pf-global--spacer--2xl-(48px)" fill="#582FC0" stroke="#5431A5">
+                    <rect id="Rectangle-Copy-5" x="0.5" y="0.5" width="47" height="41"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(48.000000, 4.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="340" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" transform="translate(48.000000, 0.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="340" height="3"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(48.000000, 34.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="340" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(389.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="41"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

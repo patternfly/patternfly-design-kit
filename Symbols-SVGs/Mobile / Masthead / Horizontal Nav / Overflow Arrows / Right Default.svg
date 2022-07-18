@@ -5,17 +5,17 @@
         <g id="Mobile-/-Masthead-/-Horizontal-Nav-/-Overflow-Arrows-/-Right-Default">
             <rect fill="#212427" x="0" y="0" width="32" height="40"></rect>
             <rect id="Background" fill="#212427" x="0" y="0" width="32" height="40"></rect>
-            <g id="Icons-/-Framework-/-angle-left" transform="translate(4.000000, 8.000000)">
-                <g id="angle-right" fill="#151515">
-                    <path d="M11.4894393,15.3370987 L14.6769317,12.1496063 C14.8972528,11.9292852 14.8972528,11.5730544 14.6745971,11.3527332 L11.4871047,8.16524085 C11.269141,7.94491972 10.9128873,7.94491972 10.6925662,8.16524085 L10.1652237,8.69961 C9.94492544,8.91757365 9.94492544,9.27382738 10.1652237,9.49414851 L12.4246024,11.7535044 L10.1652237,14.0128832 C9.94492544,14.2308468 9.94492544,14.5871005 10.1652237,14.8074217 L10.6949237,15.3370987 C10.9128873,15.5574199 11.269141,15.5574199 11.4894393,15.3370987 Z"></path>
+            <g id="Icons-/-Framework-/-angle-left" transform="translate(14.000000, 16.000000)">
+                <g id="🖼-Icon" fill="#151515">
+                    <path d="M1.48943927,7.33709875 L4.67693167,4.14960635 C4.8972528,3.92928522 4.8972528,3.57305438 4.67459709,3.35273325 L1.48710469,0.165240847 C1.26914103,-0.0550802825 0.912887304,-0.0550802825 0.692566174,0.165240847 L0.165223681,0.699609996 C-0.0550745605,0.917573649 -0.0550745605,1.27382738 0.165223681,1.49414851 L2.42460245,3.75350439 L0.165223681,6.01288316 C-0.0550745605,6.23084681 -0.0550745605,6.58710054 0.165223681,6.80742167 L0.694923651,7.33709875 C0.912887304,7.55741988 1.26914103,7.55741988 1.48943927,7.33709875 Z" id="angle-right"></path>
                 </g>
-                <rect id="🎨-Color" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <rect id="🎨-Color" fill="#FFFFFF" x="-10" y="-8" width="24" height="24"></rect>
             </g>
             <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
-                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(24.000000, 0.000000)">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
                 </g>
             </g>

@@ -19,16 +19,16 @@
                 <tspan x="16" y="32">Tab</tspan>
             </text>
             <g id="📐-Padding" fill="#3F9C35" fill-opacity="0.9" stroke="#418A38">
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 16.000000)">
+                <g id="Spacer--/--Horizontal--/--3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 16.000000)">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
                 </g>
                 <g id="Spacer--/--Vertical--/--3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 40.000000)">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(44.000000, 16.000000)">
+                <g id="Spacer--/--Horizontal--/--3.-pf-global--spacer--md-(16px)" transform="translate(44.000000, 16.000000)">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
                 </g>
-                <g id="Spacer--/--Vertical--/--3.-pf-global--spacer--md-(16px)">
+                <g id="Spacer--/--Vertical--/--3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 0.000000)">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="59" height="15"></rect>
                 </g>
             </g>
