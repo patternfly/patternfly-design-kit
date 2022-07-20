@@ -6,17 +6,17 @@
             <rect fill="#FFFFFF" x="0" y="0" width="120" height="58"></rect>
             <rect id="Background" fill="#F0F0F0" x="0" y="0" width="120" height="58"></rect>
             <g id="Button-/-6.-Icon-button-/-Default" transform="translate(78.000000, 0.000000)">
-                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
-                    <g id="🖼-Icon" transform="translate(1.000000, 2.000000)" fill="#151515">
-                        <path d="M9.20624413,17.9135414 L12.2695227,16.3033844 L15.3328012,17.9135414 C15.8765545,18.1994828 16.5257534,17.740118 16.4202849,17.1236949 L15.8343488,13.7135468 L18.3116912,11.2994901 C18.7570026,10.8658974 18.5109094,10.1088725 17.8968438,10.0198148 L14.4726424,9.5206018 L12.9421819,6.41747505 C12.6679592,5.86436052 11.8734207,5.85733387 11.5968634,6.41747505 L10.0664029,9.5206018 L6.64220148,10.0198148 C6.02813587,10.1088725 5.7820427,10.8658974 6.22735414,11.2994901 L8.70469656,13.7135468 L8.11876046,17.1236949 C8.01329196,17.740118 8.66249085,18.2018174 9.20624413,17.9135414 Z" id="star"></path>
+                <g id="🖼-Icon" transform="translate(15.000000, 14.000000)">
+                    <g fill="#151515" id="star">
+                        <path d="M3.20624413,11.9135414 L6.26952266,10.3033844 L9.33280118,11.9135414 C9.87655446,12.1994828 10.5257534,11.740118 10.4202849,11.1236949 L9.83434875,7.71354683 L12.3116912,5.29949008 C12.7570026,4.86589736 12.5109094,4.1088725 11.8968438,4.01981479 L8.4726424,3.5206018 L6.94218188,0.417475048 C6.66795921,-0.135639478 5.8734207,-0.142666133 5.59686343,0.417475048 L4.06640291,3.5206018 L0.642201479,4.01981479 C0.0281358651,4.1088725 -0.217957298,4.86589736 0.22735414,5.29949008 L2.70469656,7.71354683 L2.11876046,11.1236949 C2.01329196,11.740118 2.66249085,12.2018174 3.20624413,11.9135414 Z"></path>
                     </g>
-                    <rect id="🎨-Color" fill="#D2D2D2" x="0" y="0" width="26" height="28"></rect>
+                    <rect id="🎨-Color" fill="#D2D2D2" x="-7" y="-8" width="26" height="28"></rect>
                 </g>
                 <g id="📐-Padding" fill-opacity="0.9">
-                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
                         <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                     </g>
-                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
                         <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                     </g>
                     <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
@@ -40,7 +40,7 @@
                 <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 50.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="61" height="7"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#3F9C35" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="57"></rect>
                 </g>
             </g>

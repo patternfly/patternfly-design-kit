@@ -4,8 +4,8 @@
     <g id="Slider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Slider-/-2.-Filled-track">
             <rect id="Track-Blue" fill="#2B9AF3" x="0" y="8" width="800" height="4" rx="2"></rect>
-            <g id="Oval" transform="translate(784.000000, 0.000000)" fill="#0066CC">
-                <circle cx="10" cy="10" r="8"></circle>
+            <g id="Slider-/-3.-Circle-/-1.-Default" transform="translate(786.000000, 2.000000)" fill="#0066CC">
+                <circle id="Oval" cx="8" cy="8" r="8"></circle>
             </g>
         </g>
     </g>

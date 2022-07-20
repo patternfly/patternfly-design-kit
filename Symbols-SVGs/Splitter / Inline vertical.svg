@@ -8,11 +8,11 @@
                 <rect id="Rectangle" x="-7.10542736e-15" y="5.68434189e-14" width="12" height="1"></rect>
                 <rect id="Rectangle-Copy" x="-7.10542736e-15" y="3" width="12" height="1"></rect>
             </g>
-            <g id="Divider" fill="#FFFFFF" stroke="#D2D2D2">
-                <rect x="0.5" y="0.5" width="1" height="267"></rect>
+            <g id="Divider-/-Vertical" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="267"></rect>
             </g>
-            <g id="Divider" transform="translate(7.000000, 0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
-                <rect x="0.5" y="0.5" width="1" height="267"></rect>
+            <g id="Divider-/-Vertical" transform="translate(7.000000, 0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="267"></rect>
             </g>
         </g>
     </g>

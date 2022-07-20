@@ -7,8 +7,8 @@
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
                 <tspan x="8" y="22">Dropdown</tspan>
             </text>
-            <g id="🖼-Icon" transform="translate(108.000000, 6.000000)" fill="#FFFFFF">
-                <path d="M12.8157222,13.8156113 L15.8297912,10.7992077 C16.1250939,10.503905 15.9165144,10 15.4993095,10 L9.46885975,10 C9.05167782,10 8.84307541,10.503905 9.13840094,10.7992077 L12.1524471,13.8156113 C12.3352546,13.9984188 12.6329147,13.9984188 12.8157222,13.8156113 Z" id="caret-down"></path>
+            <g id="🖼-Icon" transform="translate(117.000000, 16.000000)" fill="#FFFFFF">
+                <path d="M3.81572219,3.81561133 L6.82979123,0.799207689 C7.12509388,0.503905049 6.91651436,0 6.49930954,0 L0.468859745,0 C0.0516778175,0 -0.15692459,0.503905049 0.138400938,0.799207689 L3.1524471,3.81561133 C3.33525458,3.99841881 3.6329147,3.99841881 3.81572219,3.81561133 Z" id="caret-down"></path>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">

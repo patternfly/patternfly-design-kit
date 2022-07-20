@@ -29,11 +29,11 @@
                 <g id="📐-Padding-Copy" transform="translate(24.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="265" height="7"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#007A87" stroke="#09707B">
-                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                <g fill="#007A87" id="Rectangle-Copy-3" stroke="#09707B">
+                    <rect x="0.5" y="0.5" width="23" height="39"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(266.000000, 0.000000)" fill="#007A87" stroke="#09707B">
-                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                <g transform="translate(266.000000, 0.000000)" fill="#007A87" id="Rectangle-Copy-3" stroke="#09707B">
+                    <rect x="0.5" y="0.5" width="23" height="39"></rect>
                 </g>
             </g>
         </g>

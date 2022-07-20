@@ -7,20 +7,20 @@
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
                 <tspan x="48" y="32">Back</tspan>
             </text>
-            <g id="Icons/1.-Size-md-(16px)/Framework/angle-right" transform="translate(16.000000, 16.000000)" fill="#FFFFFF">
-                <path d="M14.5324209,16.7827983 L15.238657,16.0734189 C15.5324185,15.7828007 15.5324185,15.3077957 15.238657,15.0140648 L12.2261825,12.0015597 L15.2355442,8.98594192 C15.5292752,8.69532372 15.5292752,8.22031875 15.2355442,7.92655724 L14.5292776,7.22032113 C14.2386594,6.92655962 13.7636544,6.92655962 13.4699234,7.22032113 L9.21993357,11.470311 C8.92617206,11.7640725 8.92617206,12.239047 9.22304636,12.5328085 L13.4730362,16.7827983 C13.7636544,17.0765598 14.2386594,17.0765598 14.5324209,16.7827983 Z" id="angle-left"></path>
+            <g id="Icons/1.-Size-md-(16px)/Framework/angle-right" transform="translate(25.000000, 23.000000)" fill="#FFFFFF">
+                <path d="M5.5324209,9.78279833 L6.23865701,9.07341892 C6.53241852,8.78280072 6.53241852,8.30779574 6.23865701,8.01406476 L3.22618251,5.00155973 L6.23554423,1.98594192 C6.52927522,1.69532372 6.52927522,1.22031875 6.23554423,0.926557239 L5.5292776,0.22032113 C5.2386594,-0.0734403767 4.76365443,-0.0734403767 4.46992344,0.22032113 L0.21993357,4.470311 C-0.0738279369,4.7640725 -0.0738279369,5.23904696 0.223046355,5.53280846 L4.47303622,9.78279833 C4.76365443,10.0765598 5.2386594,10.0765598 5.5324209,9.78279833 Z" id="angle-left"></path>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(0.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
                 </g>
                 <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 8.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="257" height="7"></rect>
                 </g>
-                <g id="Spacer--/--Vertical--/--2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="289" height="7"></rect>
                 </g>
-                <g id="Spacer--/--Vertical--/--2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 48.000000)" fill="#92D400" stroke="#7FB300">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy-2" transform="translate(0.000000, 48.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="289" height="7"></rect>
                 </g>
                 <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(40.000000, 16.285714)" fill="#92D400" stroke="#7FB300">
@@ -29,7 +29,7 @@
                 <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 40.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="257" height="7"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(274.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(274.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
                 </g>
             </g>

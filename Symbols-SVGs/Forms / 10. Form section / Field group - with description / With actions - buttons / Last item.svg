@@ -9,7 +9,7 @@
             <text id="Some-description-thi" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
                 <tspan x="44" y="64">Some description this group</tspan>
             </text>
-            <g id="Group" transform="translate(387.000000, 10.000000)">
+            <g id="Button-/-2.-Secondary-/-Default" transform="translate(387.000000, 10.000000)">
                 <rect id="Background" stroke="#0066CC" x="0.5" y="0.5" width="81" height="35" rx="3"></rect>
                 <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
                     <tspan x="16.12" y="22">Button</tspan>
@@ -29,7 +29,7 @@
                     </g>
                 </g>
             </g>
-            <g id="Group" transform="translate(289.000000, 10.000000)">
+            <g id="Button-/-2.-Secondary-/-Default-Copy" transform="translate(289.000000, 10.000000)">
                 <rect id="Background" stroke="#0066CC" x="0.5" y="0.5" width="81" height="35" rx="3"></rect>
                 <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
                     <tspan x="16.12" y="22">Button</tspan>
@@ -51,17 +51,17 @@
             </g>
             <g id="Button-/-6.-Icon-button-/-Default" transform="translate(0.000000, 10.000000)">
                 <rect id="Background" x="0" y="0" width="40" height="36" rx="3"></rect>
-                <g id="🖼-Icon" transform="translate(8.000000, 6.000000)">
-                    <g id="angle-right" fill="#151515">
-                        <path d="M10.985919,16.7827983 L15.2359089,12.5328085 C15.5296704,12.239047 15.5296704,11.7640725 15.2327961,11.470311 L10.9828062,7.22032113 C10.692188,6.92655962 10.2171831,6.92655962 9.92342157,7.22032113 L9.22029824,7.93281333 C8.92656725,8.22343153 8.92656725,8.6984365 9.22029824,8.99219801 L12.2328033,12.0046725 L9.22029824,15.0171775 C8.92656725,15.3077957 8.92656725,15.7828007 9.22029824,16.0765622 L9.92656487,16.7827983 C10.2171831,17.0765598 10.692188,17.0765598 10.985919,16.7827983 Z"></path>
+                <g id="🖼-Icon" transform="translate(17.000000, 13.000000)">
+                    <g fill="#151515" id="angle-right">
+                        <path d="M1.98591903,9.78279833 L6.2359089,5.53280846 C6.52967041,5.23904696 6.52967041,4.7640725 6.23279611,4.470311 L1.98280625,0.22032113 C1.69218804,-0.0734403767 1.21718307,-0.0734403767 0.923421565,0.22032113 L0.220298242,0.932813328 C-0.0734327473,1.22343153 -0.0734327473,1.6984365 0.220298242,1.99219801 L3.23280327,5.00467252 L0.220298242,8.01717754 C-0.0734327473,8.30779574 -0.0734327473,8.78280072 0.220298242,9.07656222 L0.926564869,9.78279833 C1.21718307,10.0765598 1.69218804,10.0765598 1.98591903,9.78279833 Z"></path>
                     </g>
-                    <rect id="🎨-Color" fill="#6A6E73" x="0" y="0" width="24" height="24"></rect>
+                    <rect id="🎨-Color" fill="#6A6E73" x="-9" y="-7" width="24" height="24"></rect>
                 </g>
                 <g id="📐-Padding" fill-opacity="0.9">
-                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
                         <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                     </g>
-                    <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
                         <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                     </g>
                     <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">

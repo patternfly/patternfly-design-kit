@@ -6,11 +6,11 @@
             <text id="✏️-User-Name" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
                 <tspan x="16" y="42">Ned Username</tspan>
             </text>
-            <g id="Icons-/-Small-/-angle-down" transform="translate(139.000000, 26.000000)">
+            <g id="Icons-/-Small-/-angle-down" transform="translate(146.000000, 35.000000)">
                 <g id="🖼-Icon" fill="#151515">
-                    <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z" id="caret-down"></path>
+                    <path d="M5.08762958,5.08748177 L9.10638831,1.06561025 C9.50012517,0.671873398 9.22201914,0 8.66574605,0 L0.625146327,0 C0.0689037567,0 -0.209232787,0.671873398 0.184534585,1.06561025 L4.2032628,5.08748177 C4.44700611,5.33122508 4.84388627,5.33122508 5.08762958,5.08748177 Z" id="caret-down"></path>
                 </g>
-                <rect id="🎨-Color" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <rect id="🎨-Color" fill="#FFFFFF" x="-7" y="-9" width="24" height="24"></rect>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" fill="#0088CE" stroke="#0479B0">

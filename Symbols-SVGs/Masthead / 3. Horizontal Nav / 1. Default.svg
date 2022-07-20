@@ -7,14 +7,14 @@
                 <tspan x="16" y="44">Item</tspan>
             </text>
             <g id="📐-Padding" fill-opacity="0.9">
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(49.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)-Copy" transform="translate(49.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
                     <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
                 </g>
-                <g id="Rectangle-Copy-3" transform="translate(16.000000, 52.000000)" fill="#007A87" stroke="#09707B">
-                    <rect x="0.5" y="0.5" width="32" height="23"></rect>
+                <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(16.000000, 52.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="32" height="23"></rect>
                 </g>
             </g>
         </g>
