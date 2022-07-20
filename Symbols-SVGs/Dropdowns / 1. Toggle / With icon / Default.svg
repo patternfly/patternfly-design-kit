@@ -30,11 +30,11 @@
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             </g>
-            <g id="caret-down" transform="translate(108.000000, 6.000000)" fill="#151515">
-                <path d="M12.0876296,14.0874818 L16.1063883,10.0656103 C16.5001252,9.6718734 16.2220191,9 15.6657461,9 L7.62514633,9 C7.06890376,9 6.79076721,9.6718734 7.18453458,10.0656103 L11.2032628,14.0874818 C11.4470061,14.3312251 11.8438863,14.3312251 12.0876296,14.0874818 Z"></path>
+            <g id="🖼-Icon" transform="translate(115.000000, 15.000000)" fill="#151515">
+                <path d="M5.08762958,5.08748177 L9.10638831,1.06561025 C9.50012517,0.671873398 9.22201914,0 8.66574605,0 L0.625146327,0 C0.0689037567,0 -0.209232787,0.671873398 0.184534585,1.06561025 L4.2032628,5.08748177 C4.44700611,5.33122508 4.84388627,5.33122508 5.08762958,5.08748177 Z" id="caret-down"></path>
             </g>
-            <g id="🖼-Icon" transform="translate(8.000000, 6.000000)" fill="#151515">
-                <path d="M13.9999747,19.2493533 L13.9999747,11.0606521 L19.779563,5.28033142 C20.2506312,4.80926321 19.9167697,4 19.2491993,4 L4.75088179,4 C4.08468465,4 3.74853433,4.80831716 4.22054858,5.28033142 L9.99998427,11.0606521 L9.99998427,17.4999678 C9.99998427,17.7446877 10.1193993,17.9740267 10.3198993,18.1144073 L12.8198933,19.8637622 C13.3130867,20.2090373 13.9999747,19.8591236 13.9999747,19.2493533 Z" id="filter"></path>
+            <g id="🖼-Icon" transform="translate(12.000000, 10.000000)" fill="#151515">
+                <path d="M9.99997473,15.2493533 L9.99997473,7.06065211 L15.779563,1.28033142 C16.2506312,0.809263207 15.9167697,-1.77635684e-15 15.2491993,-1.77635684e-15 L0.750881792,-1.77635684e-15 C0.0846846496,-1.77635684e-15 -0.251465672,0.808317165 0.220548583,1.28033142 L5.99998427,7.06065211 L5.99998427,13.4999678 C5.99998427,13.7446877 6.11939927,13.9740267 6.31989928,14.1144073 L8.81989332,15.8637622 C9.31308672,16.2090373 9.99997473,15.8591236 9.99997473,15.2493533 Z" id="filter"></path>
             </g>
             <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
                 <tspan x="40" y="22">Filter</tspan>
@@ -52,10 +52,10 @@
                 <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                 </g>
-                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
                     <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
                 </g>
-                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
                     <rect id="Rectangle" x="0.5" y="0.5" width="123" height="5"></rect>
                 </g>
             </g>

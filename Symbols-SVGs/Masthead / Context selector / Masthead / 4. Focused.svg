@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="76px" viewBox="0 0 123 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Masthead-/-Context-selector-/-Masthead-/-4.-Focused">
+            <rect id="Background" fill="#151515" x="0" y="0" width="123" height="76"></rect>
+            <rect id="Focus" stroke="#0066CC" fill-opacity="0.2" fill="#0066CC" fill-rule="nonzero" x="-7.5" y="-7.5" width="138" height="91" rx="3"></rect>
+            <rect id="Rectangle" fill="#2B9AF3" x="0" y="74" width="123" height="2"></rect>
+            <g id="Icons-/-Small-/-caret-down" transform="translate(90.000000, 35.000000)" fill="#FFFFFF">
+                <path d="M5.08762958,5.08748177 L9.10638831,1.06561025 C9.50012517,0.671873398 9.22201914,0 8.66574605,0 L0.625146327,0 C0.0689037567,0 -0.209232787,0.671873398 0.184534585,1.06561025 L4.2032628,5.08748177 C4.44700611,5.33122508 4.84388627,5.33122508 5.08762958,5.08748177 Z" id="caret-down"></path>
+            </g>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="16" y="42">Context</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(75.000000, 26.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(107.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

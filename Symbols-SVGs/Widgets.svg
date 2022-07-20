@@ -635,7 +635,7 @@
                                     <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
                                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
                                 </g>
-                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 L3,1 Z" id="Comment-Pink" stroke="#F9E0A2" stroke-width="2" fill="#FDF7E7"></path>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 L3,1 Z" id="Comment-Pink" stroke="#F4B678" stroke-width="2" fill="#FFF6EC"></path>
                                 <text id="Yellow" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
                                     <tspan x="4" y="80">Yellow</tspan>
                                 </text>
