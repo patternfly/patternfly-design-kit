@@ -28,7 +28,7 @@ Follow these steps:
 **Be sure you take them from "Document" rather than "PatternFly"**
 3. When naming a new symbol, follow the naming mechanism within that same category (e.g., Forms / 2. Text Box / Success).
 4. Make it clear which page in the file you edited and which symbols on the page you added/edited by adding a ⭐️ or some other mark to call them out.
-5. Zip your file and attach it to the GitHub issue you were assigned to. Add a list of the symbols you added/edited and, finally, tag @doruskova in your comment.
+5. Zip your file and attach it to the GitHub issue you were assigned to. Add a list of the symbols you added/edited and, finally, tag @lboehling in your comment.
 ### Contributing a new or edited template
 Follow these steps:
 1. Download the template file hosted on Sketch Cloud from [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89).
