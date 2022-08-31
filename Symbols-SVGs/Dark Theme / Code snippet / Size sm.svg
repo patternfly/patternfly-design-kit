@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="210px" height="32px" viewBox="0 0 210 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Dark-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Dark-Theme-/-Code-snippet-/-Size-sm">
-            <rect id="Rectangle" fill="#151515" x="0" y="0" width="210" height="32"></rect>
-            <text id="&lt;div-class-“pf-u-pt-" font-family="LiberationMono, Liberation Mono" font-size="14" font-weight="normal" fill="#FFFFFF">
-                <tspan x="4" y="20">&lt;div class-“pf-u-pt-md”&gt;</tspan>
-            </text>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="210px" height="32px" viewBox="0 0 210.0 32.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M210,0 L210,32 L0,32 L0,0 L210,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 210,0 210,32 0,32 0,0" stroke="none" fill="#151515"></polygon></g><g transform="translate(4.0 8.0)"><text transform="translate(0.0 12.0)" font-family="LiberationMono, Liberation Mono" font-size="14.0" font-weight="normal" fill="#FFFFFF" text-anchor="left">&lt;div class-“pf-u-pt-md”&gt;</text></g></svg>

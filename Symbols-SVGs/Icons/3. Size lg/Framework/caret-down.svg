@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/3.-Size-lg/Framework/caret-down" fill="#151515">
-            <path d="M12.6314444,15.6312227 L18.6595825,9.59841538 C19.2501878,9.0078101 18.8330287,8 17.9986191,8 L5.93771949,8 C5.10335564,8 4.68615082,9.0078101 5.27680188,9.59841538 L11.3048942,15.6312227 C11.6705092,15.9968376 12.2658294,15.9968376 12.6314444,15.6312227 Z" id="caret-down"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="24px" height="24px" viewBox="0 0 24.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M12.9986191,0 C13.8330287,0 14.2501878,1.0078101 13.6595825,1.59841538 L7.63144438,7.63122265 C7.2658294,7.99683762 6.67050917,7.99683762 6.30489419,7.63122265 L0.276801877,1.59841538 C-0.313849181,1.0078101 0.103355635,0 0.93771949,0 Z"></path></clipPath></defs><g transform="translate(5.0 8.0)"><g clip-path="url(#i0)"><polygon points="-9.48130463e-14,0 13.9363625,0 13.9363625,7.90543388 -9.48130463e-14,7.90543388 -9.48130463e-14,0" stroke="none" fill="#151515"></polygon></g></g></svg>

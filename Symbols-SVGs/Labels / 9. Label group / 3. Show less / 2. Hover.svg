@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="28px" viewBox="0 0 48 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Labels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Labels-/-9.-Label-group-/-3.-Show-less-/-2.-Hover">
-            <rect id="Rectangle-Copy-4" stroke="#D2D2D2" fill="#FFFFFF" x="0.5" y="0.5" width="47" height="27" rx="13.5"></rect>
-            <text id="Label" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#0066CC">
-                <tspan x="8" y="17">1 less</tspan>
-            </text>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="48px" height="28px" viewBox="0 0 48.0 28.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M34,0 C41.7319865,-1.42034288e-15 48,6.2680135 48,14 C48,21.7319865 41.7319865,28 34,28 L14,28 C6.2680135,28 9.46895252e-16,21.7319865 0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 L34,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 48,0 48,28 0,28 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M14,0 L34,0 C41.7319865,-1.42034288e-15 48,6.2680135 48,14 C48,21.7319865 41.7319865,28 34,28 L14,28 C6.2680135,28 9.46895252e-16,21.7319865 0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(8.0 3.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#0066CC" text-anchor="left" line-spacing="21.0">1 less</text></g></svg>

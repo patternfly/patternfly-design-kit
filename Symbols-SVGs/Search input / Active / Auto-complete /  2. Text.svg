@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="107px" height="24px" viewBox="0 0 107 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Search-input" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Search-input-/-Active-/-Auto-complete-/--2.-Text">
-            <g id="first-half">
-                <line x1="33.5" y1="3.5" x2="33.5" y2="20.5" id="Line-2" stroke="#000000" stroke-linecap="square"></line>
-                <text id="auto" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
-                    <tspan x="0" y="16">auto</tspan>
-                </text>
-            </g>
-            <text id="complete" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
-                <tspan x="34" y="16">complete    </tspan>
-            </text>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="107px" height="24px" viewBox="0 0 107.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(33.0 3.0)"><path d="M0.5,0.5 L0.5,17.5" stroke="#000000" stroke-width="1" fill="none" stroke-linecap="square" stroke-miterlimit="10"></path></g><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">auto</text><g transform="translate(34.0 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="24.0">complete    </text></g></svg>

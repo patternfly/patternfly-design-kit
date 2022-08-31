@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1500px" height="56px" viewBox="0 0 1500 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mobile-/-Sub-nav-horizontal-/-3.-Background">
-            <rect id="🎨-Color" fill="#212427" x="0" y="0" width="1500" height="56"></rect>
-            <line x1="0.5" y1="0.5" x2="1500.5" y2="0.5" id="Line" stroke="#3C3F42" stroke-linecap="square"></line>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="1500px" height="56px" viewBox="0 0 1500.0 56.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M1500,0 L1500,56 L0,56 L0,0 L1500,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 1500,0 1500,56 0,56 0,0" stroke="none" fill="#202426"></polygon></g><path d="M0.5,0.5 L1500.5,0.5" stroke="#3B3F41" stroke-width="1" fill="none" stroke-linecap="square" stroke-miterlimit="10"></path></svg>

@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="84px" height="73px" viewBox="0 0 84 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Data-list-and-tables-/-9.-Compound-expansion-toggle-/-1.-Default-/1.-Active-toggle-/-1.-Default-/-Text">
-            <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="84" height="74"></rect>
-            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
-                <tspan x="16" y="40">Toggle</tspan>
-            </text>
-            <rect id="Rectangle-Copy" fill="#D2D2D2" x="0" y="0" width="1" height="73"></rect>
-            <rect id="Rectangle-Copy-2" fill="#D2D2D2" x="83" y="0" width="1" height="73"></rect>
-            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="84" height="3"></rect>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="84px" height="73px" viewBox="0 0 84.0 73.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M84,0 L84,74 L0,74 L0,0 L84,0 Z"></path></clipPath><clipPath id="i1"><path d="M1,0 L1,73 L0,73 L0,0 L1,0 Z"></path></clipPath><clipPath id="i2"><path d="M84,0 L84,3 L0,3 L0,0 L84,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 84,0 84,74 0,74 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(16.0 24.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#0066CC" text-anchor="left" line-spacing="24.0">Toggle</text></g><g clip-path="url(#i1)"><polygon points="0,0 1,0 1,73 0,73 0,0" stroke="none" fill="#D2D2D2"></polygon></g><g transform="translate(83.0 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 1,0 1,73 0,73 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g clip-path="url(#i2)"><polygon points="0,0 84,0 84,3 0,3 0,0" stroke="none" fill="#0066CC"></polygon></g></svg>

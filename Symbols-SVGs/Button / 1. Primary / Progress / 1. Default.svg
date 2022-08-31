@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="106px" height="36px" viewBox="0 0 106 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Button-/-1.-Primary-/-Progress-/-1.-Default">
-            <rect id="Background" fill="#0066CC" x="0" y="0" width="106" height="36" rx="3"></rect>
-            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
-                <tspan x="40" y="22">Button</tspan>
-            </text>
-            <g id="Loaders-/-1.-Spinner-/-Sm" transform="translate(16.000000, 10.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
-                <path d="M0,8 C0,12.418278 3.581722,16 8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0" id="Path"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="106px" height="36px" viewBox="0 0 106.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,33 C106,34.6568542 104.656854,36 103,36 L3,36 C1.34314575,36 -6.85272294e-16,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 L103,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 106,0 106,36 0,36 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(40.0 6.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#FFFFFF" text-anchor="left" line-spacing="24.0">Button</text></g><g transform="translate(16.0 10.0)"><path d="M0,8 C0,12.418278 3.581722,16 8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path></g></svg>

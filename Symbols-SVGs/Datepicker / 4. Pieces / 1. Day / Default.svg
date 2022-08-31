@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Datepicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
-        <g id="Datepicker-/-4.-Pieces-/-1.-Day-/-Default" fill="#151515">
-            <text id="11">
-                <tspan x="15.202" y="23">11</tspan>
-            </text>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="39px" height="39px" viewBox="0 0 39.0 39.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(15.0 9.0)"><text transform="translate(0.20199999999999996 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="center" line-spacing="21.0">11</text></g></svg>

@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/2.-Size-sm/Actions/play" fill="#6A6E73">
-            <path d="M8.69688011,17.8421876 L16.9468604,12.9671992 C17.6827825,12.5336065 17.6851399,11.4648682 16.9468604,11.0312755 L8.69688011,6.15392963 C8.02655547,5.75785056 7,6.14221091 7,7.12191439 L7,16.8742257 C7,17.7531299 7.95390855,18.282807 8.69688011,17.8421876 Z" id="play"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="24px" height="24px" viewBox="0 0 24.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M0,1.12191439 C0,0.142210912 1.02655547,-0.242149438 1.69688011,0.153929634 L9.94686044,5.03127549 C10.6851399,5.46486821 10.6827825,6.5336065 9.94686044,6.96719922 L1.69688011,11.8421876 C0.953908553,12.282807 0,11.7531299 0,10.8742257 Z"></path></clipPath></defs><g transform="translate(6.999999999999999 6.000000000000027)"><g clip-path="url(#i0)"><polygon points="0,8.65973959e-15 10.4996864,8.65973959e-15 10.4996864,12.0004557 0,12.0004557 0,8.65973959e-15" stroke="none" fill="#696E73"></polygon></g></g></svg>

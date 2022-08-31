@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="62px" height="56px" viewBox="0 0 62 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008">
-        <g id="Data-list-and-tables-/-1.-Table-header-/-Large-(16px-spacers)-/-3.-Default" fill="#151515">
-            <text id="✏️-Category">
-                <tspan x="0" y="33">Category</tspan>
-            </text>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="62px" height="56px" viewBox="0 0 62.0 56.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0.0 19.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Medium, Red Hat Text" font-size="14.0" font-weight="400" fill="#151515" text-anchor="left" line-spacing="18.20000076293945">Category</text></g></svg>

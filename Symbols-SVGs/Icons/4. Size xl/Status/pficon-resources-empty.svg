@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/4.-Size-xl/Status/pficon-resources-empty" fill="#151515">
-            <path d="M27,47.25 C15.8308594,47.25 6.75,38.1744141 6.75,27 C6.75,15.8361328 15.8308594,6.75 27,6.75 C38.1638672,6.75 47.25,15.8308594 47.25,27 C47.25,38.1691406 38.1638672,47.25 27,47.25 L27,47.25 Z M27.0052734,0 C12.1130859,0 0,12.1183594 0,27 C0,41.8869141 12.1183594,54 27.0052734,54 C41.8921875,54 54,41.8869141 54,27 C54,12.1130859 41.8921875,0 27.0052734,0 L27.0052734,0 Z" id="resources-empty"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="54px" height="54px" viewBox="0 0 54.0 54.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M27.0052734,0 C41.8921875,0 54,12.1130859 54,27 C54,41.8869141 41.8921875,54 27.0052734,54 C12.1183594,54 0,41.8869141 0,27 C0,12.1183594 12.1130859,0 27.0052734,0 Z M27,6.75 C15.8308594,6.75 6.75,15.8361328 6.75,27 C6.75,38.1744141 15.8308594,47.25 27,47.25 C38.1638672,47.25 47.25,38.1691406 47.25,27 C47.25,15.8308594 38.1638672,6.75 27,6.75 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 54,0 54,54 0,54 0,0" stroke="none" fill="#151515"></polygon></g></svg>
