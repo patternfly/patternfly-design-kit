@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/2.-Size-sm/Framework/folder" fill="#151515">
-            <path d="M16.8749741,16.9999785 C17.4962952,16.9999785 17.9999714,16.4963024 17.9999714,15.8749812 L17.9999714,10.6249937 C17.9999714,10.0036726 17.4962952,9.5 16.8749741,9.5 L12.3749848,9.5 L10.8749884,8 L7.12499732,8 C6.50367617,8 6,8.50367617 6,9.12499732 L6,15.8749812 C6,16.4963024 6.50367617,16.9999785 7.12499732,16.9999785 L16.8749741,16.9999785 Z" id="folder"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="24px" height="24px" viewBox="0 0 24.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M4.87498838,0 L6.3749848,1.5 L10.8749741,1.5 C11.4962952,1.5 11.9999714,2.00367259 11.9999714,2.62499374 L11.9999714,7.87498122 C11.9999714,8.49630238 11.4962952,8.99997854 10.8749741,8.99997854 L1.12499732,8.99997854 C0.503676167,8.99997854 0,8.49630238 0,7.87498122 L0,1.12499732 C0,0.503676167 0.503676167,0 1.12499732,0 L4.87498838,0 Z"></path></clipPath></defs><g transform="translate(5.999999999999999 8.0)"><g clip-path="url(#i0)"><polygon points="0,0 11.9999714,0 11.9999714,8.99997854 0,8.99997854 0,0" stroke="none" fill="#151515"></polygon></g></g></svg>

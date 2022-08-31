@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Loaders" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
-        <g id="Loaders-/-1.-Spinner-/-XS" stroke="#0066CC">
-            <path d="M1,6 C1,8.76142375 3.23857625,11 6,11 C8.76142375,11 11,8.76142375 11,6 C11,3.23857625 8.76142375,1 6,1" id="Path"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="12px" height="12px" viewBox="0 0 12.0 12.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(1.0 1.0)"><path d="M0,5 C0,7.76142375 2.23857625,10 5,10 C7.76142375,10 10,7.76142375 10,5 C10,2.23857625 7.76142375,0 5,0" stroke="#0066CC" stroke-width="1" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path></g></svg>

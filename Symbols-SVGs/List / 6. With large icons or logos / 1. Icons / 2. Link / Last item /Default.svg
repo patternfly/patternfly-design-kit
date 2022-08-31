@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="99px" height="24px" viewBox="0 0 99 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="List-/-6.-With-large-icons-or-logos-/-1.-Icons-/-2.-Link-/-Last-item-/Default">
-            <text id="List-item" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
-                <tspan x="36" y="16">List item</tspan>
-            </text>
-            <g id="Icons-/-🖼-Dynamic-Icon" transform="translate(0.000000, 3.000000)" fill="#6A6E73">
-                <path d="M9.84847582,17.5456163 L23.6484612,3.74558509 C24.1170728,3.27692776 24.1170728,2.51713343 23.6484612,2.04852188 L21.9514438,0.351458665 C21.4828322,-0.117152888 20.7229921,-0.117152888 20.2543806,0.351458665 L8.9999671,11.6058721 L3.74553932,6.35144436 C3.27692776,5.88278703 2.51708766,5.88278703 2.0484761,6.35144436 L0.351458665,8.04850757 C-0.117152888,8.5171649 -0.117152888,9.27695924 0.351458665,9.74557079 L8.15145838,17.5455705 C8.62002416,18.0142278 9.37981849,18.0142278 9.84847582,17.5456163 Z" id="check"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="99px" height="24px" viewBox="0 0 99.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M20.2543806,0.351458665 C20.7229921,-0.117152888 21.4828322,-0.117152888 21.9514438,0.351458665 L23.6484612,2.04852188 C24.1170728,2.51713343 24.1170728,3.27692776 23.6484612,3.74558509 L9.84847582,17.5456163 C9.37981849,18.0142278 8.62002416,18.0142278 8.15145838,17.5455705 L0.351458665,9.74557079 C-0.117152888,9.27695924 -0.117152888,8.5171649 0.351458665,8.04850757 L2.0484761,6.35144436 C2.51708766,5.88278703 3.27692776,5.88278703 3.74553932,6.35144436 L8.9999671,11.6058721 Z"></path></clipPath></defs><g transform="translate(36.0 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#0066CC" text-anchor="left" line-spacing="24.0">List item</text></g><g transform="translate(0.0 3.0)"><g clip-path="url(#i0)"><polygon points="0,0 23.9999199,0 23.9999199,17.8970692 0,17.8970692 0,0" stroke="none" fill="#696E73"></polygon></g></g></svg>

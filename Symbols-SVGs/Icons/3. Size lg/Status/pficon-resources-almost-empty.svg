@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/3.-Size-lg/Status/pficon-resources-almost-empty" fill="#151515">
-            <path d="M12.0023438,0 C5.38359375,0 0,5.3859375 0,12 C0,18.6164062 5.3859375,24 12.0023438,24 C18.61875,24 24,18.6164062 24,12 C24,5.38359375 18.61875,0 12.0023438,0 Z M12,21 C7.0359375,21 3,16.9664062 3,12 C3,7.03828125 7.0359375,3 12,3 C16.9617188,3 21,7.0359375 21,12 C21,16.9640625 16.9617188,21 12,21 Z M5.953125,15 C7.05703125,17.221875 9.3515625,18.75 12,18.75 C14.6484375,18.75 16.9429687,17.221875 18.046875,15 L5.953125,15 Z" id="pficon-resources-almost-empty"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="24px" height="24px" viewBox="0 0 24.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M12.0023438,0 C18.61875,0 24,5.38359375 24,12 C24,18.6164062 18.61875,24 12.0023438,24 C5.3859375,24 0,18.6164062 0,12 C0,5.3859375 5.38359375,0 12.0023438,0 Z M12,3 C7.0359375,3 3,7.03828125 3,12 C3,16.9664062 7.0359375,21 12,21 C16.9617188,21 21,16.9640625 21,12 C21,7.0359375 16.9617188,3 12,3 Z M18.046875,15 C16.9429687,17.221875 14.6484375,18.75 12,18.75 C9.3515625,18.75 7.05703125,17.221875 5.953125,15 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 24,0 24,24 0,24 0,0" stroke="none" fill="#151515"></polygon></g></svg>

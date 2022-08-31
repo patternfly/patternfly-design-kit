@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/4.-Size-xl/Framework/caret-down" fill="#151515">
-            <path d="M17.1707498,17.170251 L30.7340606,3.5964346 C32.0629224,2.26757272 31.1243146,0 29.2468929,0 L2.10986885,0 C0.232550179,0 -0.706160657,2.26757272 0.622804223,3.5964346 L14.1860119,17.170251 C15.0086456,17.9928847 16.3481162,17.9928847 17.1707498,17.170251 Z" id="caret-down"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="32px" height="18px" viewBox="0 0 32.0 18.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M29.2468929,0 C31.1243146,0 32.0629224,2.26757272 30.7340606,3.5964346 L17.1707498,17.170251 C16.3481162,17.9928847 15.0086456,17.9928847 14.1860119,17.170251 L0.622804223,3.5964346 C-0.706160657,2.26757272 0.232550179,0 2.10986885,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="-4.30766534e-14,0 31.3568155,0 31.3568155,17.7872262 -4.30766534e-14,17.7872262 -4.30766534e-14,0" stroke="none" fill="#151515"></polygon></g></svg>

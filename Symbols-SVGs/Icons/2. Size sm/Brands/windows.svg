@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/2.-Size-sm/Brands/windows" fill="#151515">
-            <path d="M17.499975,12.010921 L17.499975,7 L11.7765465,7.78984644 L11.7765465,12.010921 L17.499975,12.010921 Z M11.3031056,12.010921 L11.3031056,7.85313212 L7,8.44609488 L7,12.010921 L11.3031056,12.010921 Z M11.3031056,16.6468428 L11.3031056,12.5406209 L7,12.5406209 L7,16.0538801 L11.3031056,16.6468428 Z M17.499975,17.499975 L17.499975,12.5406209 L11.7765465,12.5406209 L11.7765465,16.7101285 L17.499975,17.499975 Z" id="windows"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="24px" height="24px" viewBox="0 0 24.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M10.499975,5.54062095 L10.499975,10.499975 L4.77654653,9.71012852 L4.77654653,5.54062095 L10.499975,5.54062095 Z M4.30310559,5.54062095 L4.30310559,9.64684284 L0,9.05388009 L0,5.54062095 L4.30310559,5.54062095 Z M10.499975,0 L10.499975,5.01092098 L4.77654653,5.01092098 L4.77654653,0.789846444 L10.499975,0 Z M4.30310559,0.853132121 L4.30310559,5.01092098 L0,5.01092098 L0,1.44609488 L4.30310559,0.853132121 Z"></path></clipPath></defs><g transform="translate(7.0 7.0)"><g clip-path="url(#i0)"><polygon points="0,0 10.499975,0 10.499975,10.499975 0,10.499975 0,0" stroke="none" fill="#151515"></polygon></g></g></svg>

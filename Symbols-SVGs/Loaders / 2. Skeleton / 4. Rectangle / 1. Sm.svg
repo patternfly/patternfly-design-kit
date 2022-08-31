@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="200px" height="100px" viewBox="0 0 200 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title></title>
-    <g id="Loaders" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Loaders-/-2.-Skeleton-/-4.-Rectangle-/-1.-Sm" fill="#F5F5F5">
-            <rect id="Rectangle" x="0" y="0" width="200" height="100" rx="3"></rect>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="200px" height="100px" viewBox="0 0 200.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M197,0 C198.656854,-3.04359188e-16 200,1.34314575 200,3 L200,97 C200,98.6568542 198.656854,100 197,100 L3,100 C1.34314575,100 3.31153059e-15,98.6568542 0,97 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.41298366e-15 3,0 L197,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 200,0 200,100 0,100 0,0" stroke="none" fill="#F5F5F5"></polygon></g></svg>
