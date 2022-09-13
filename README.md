@@ -4,20 +4,24 @@ The PatternFly Design Kit is a collection of [Sketch](https://www.sketchapp.com)
 * A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud [here](https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e).
 * A template file that provides several starter layouts that will make it easier to construct common PatternFly screens. Hosted on Sketch Cloud [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89).
 
+## Wireframe Kit
+The Wireframe Kit is a collection of low fidelity and mid fidelity PatternFly components and layouts. It includes: 
+* A Wireframe library that allows you to design and iterate designs more quickly before upgrading them to high fidelity. Hosted on Sketch Cloud [here](https://www.sketch.com/s/97d92966-7ad7-4207-a381-48fda3c080f8).
+* A Wireframe template file that provides examples of low fidelity components in a context. Hosted on Sketch Cloud [here](https://www.sketch.com/s/0af9fc12-7b9e-49c1-8d36-a6a62385a413).
+
+### Download Wireframe font
+The PatternFly Wireframe kit uses [Flow](https://fonts.google.com/specimen/Flow+Circular) for LO-FI components and [Comic Neue](https://fonts.google.com/specimen/Comic+Neue#standard-styles) for MID-FI components. 
+
+For more detailed information about Wireframe kit, go [here](/PatternFly%204%20-%20Wireframe%20library%20and%20template/Wireframe%20kit%20guideline.md). 
+
 ## Updating the kit
 Sketch will automatically receive library updates in the top, right corner of an open Sketch file. You'll want to update the PatternFly library **and** update the symbols within your file (two separate notifications). You'll have to update **all** files that are using PatternFly symbols - it is not a one and done process, unfortunately.
 
 To update you PatternFly Template file, open the updated template from your local repo and select **File > Save as Template...** This will replace the current template with the updated version and make the latest layouts available using the **New from Template...** feature.
 
-Please check out our [announcements](https://github.com/patternfly/patternfly-design-kit/blob/master/Announcements.md) for specific design kit release updates!
-
 ## Filing bugs
 If something isn't working as expected with the library or template file, please file an issue in this repo and label it with "bug". We should be able to fix it within a couple days! 
-
-## Release notes
-To check out the latest design kit release notes, go [here](https://github.com/patternfly/patternfly-design-kit/blob/master/PatternFly%20release%20notes.md).
-
-Please check out our [announcements](https://github.com/patternfly/patternfly-design-kit/blob/master/Announcements.md) for specific design kit release updates!
+If something is wrong with the Wireframe kit, please contact Alessandro Contini [acontini@redhat](mailto:acontini@redhat.com) or file an issue in this repo. 
 
 ## Contributing to the PatternFly Design Kit
 We welcome contributions from our community of PatternFly designers. Please contact Lucia Boehling (@lboehling) on the #patternfly-design-kit channel within the [patternfly.slack.com Slack workspace](https://patternfly.slack.com).
