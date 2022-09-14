@@ -1,8 +1,8 @@
 # PatternFly Design Kit
 **The PatternFly Design Kit** is a collection of [Sketch](https://www.sketchapp.com) assets that make it easy for designers to create low and high-fidelity design mockups that accurately represent [PatternFly](http://patternfly.org) components and layouts. It includes:
 
-* A Sketch symbol library that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud [here](https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e).
-* A template file that provides several starter layouts that will make it easier to construct common PatternFly screens. Hosted on Sketch Cloud [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89).
+* **A Sketch symbol library** that includes components, icons, color palettes, and other PatternFly elements. Hosted on Sketch Cloud [here](https://www.sketch.com/s/2cf1063b-5283-4e0b-b8a6-cbb1ac07e29e).
+* **A template file** that provides several starter layouts that will make it easier to construct common PatternFly screens. Hosted on Sketch Cloud [here](https://www.sketch.com/s/729c2eee-e8b6-4fcd-8a79-f6faa8c30f89).
 * **The Wireframe Kit** is a collection of low fidelity and mid fidelity PatternFly components and layouts. It includes: 
     * A Wireframe library that allows you to design and iterate designs more quickly before upgrading them to high fidelity. Hosted on Sketch Cloud [here](https://www.sketch.com/s/97d92966-7ad7-4207-a381-48fda3c080f8).
     * A Wireframe template file that provides examples of low fidelity components in a context. Hosted on Sketch Cloud [here](https://www.sketch.com/s/0af9fc12-7b9e-49c1-8d36-a6a62385a413).
