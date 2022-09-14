@@ -1,10 +1,10 @@
 # Wireframe kit
-The PF Wireframe library for Sketch is the perfect companion to the PatternFly design kit. If you’re familiar with designing mockups with the PF design kit you'll be able to adjust quickly to designing wireframes with the PF Wireframe library.
+The PatternFly (PF) Wireframe library for Sketch is the perfect companion to the PatternFly design kit. If you’re familiar with designing mockups with the PF design kit you'll be able to adjust quickly to designing wireframes with the PF Wireframe library.
 Ultimately, the PF Wireframe library will serve as a tool to speed up your ideation process and allow you to design and iterate designs more quickly before upgrading them to high fidelity. 
 
 It includes: 
 * A Wireframe library that allows you to design and iterate designs more quickly before upgrading them to high fidelity. Hosted on Sketch Cloud [here](https://www.sketch.com/s/97d92966-7ad7-4207-a381-48fda3c080f8).
-* A Wireframe template file that provides examples of low fidelity components in a context. Hosted on Sketch Cloud [here](https://www.sketch.com/s/0af9fc12-7b9e-49c1-8d36-a6a62385a413).
+* A Wireframe template file that provides examples of low and medium fidelity components in a context. Hosted on Sketch Cloud [here](https://www.sketch.com/s/0af9fc12-7b9e-49c1-8d36-a6a62385a413).
 
 ## Low fidelity vs Medium fidelity
 If we take the PF design kit as a reference of a tool used to produce high fidelity artifacts, then the PF Wireframe library will provide resources to produce artifacts at two different lower fidelity levels:
@@ -29,15 +29,15 @@ These kinds of wireframes are the most common and are usually the starting point
 
 ## How to start
 ### Download Wireframe font
-The PatternFly Wireframe kit uses [Flow](https://fonts.google.com/specimen/Flow+Circular) for LO-FI components and [Comic Neue](https://fonts.google.com/specimen/Comic+Neue#standard-styles) for MID-FI components. 
+The PatternFly Wireframe kit uses [Flow](https://fonts.google.com/specimen/Flow+Circular) for LO-FI components and [Comic Neue](https://fonts.google.com/specimen/Comic+Neue#standard-styles) for MID-FI components. Both font families are released under a OFL (Open Font License) license. 
 
 ### Download the template file 
 * Access the PatternFly Wireframe template file on Sketch cloud [here](https://www.sketch.com/s/0af9fc12-7b9e-49c1-8d36-a6a62385a413).
 * Click Download in the document menu to download the file locally
-* **OPTIONAL:** Open the PatternFly Wireframe template.sketch file. Then click File → Save as template. (This would allow you to create a new file from the “New from Template” menu)
+* **OPTIONAL:** Open the `PatternFly Wireframe template.sketch` file, then click File → Save as template. (This would allow you to create a new file from the “New from Template” menu)
 
 ### Add the library
-* Access the PatternFly Wireframe - beta on Sketch cloud [here](https://www.sketch.com/s/97d92966-7ad7-4207-a381-48fda3c080f8).
+* Access the PatternFly Wireframe library on Sketch cloud [here](https://www.sketch.com/s/97d92966-7ad7-4207-a381-48fda3c080f8).
 * Click Add Library in the document menu to add the library to Sketch.
 * You'll be prompted with a modal that will either redirect you to Sketch or ask you to Launch Sketch.
 Sketch will automatically open up the preferences window pane and display the library installation progress.
@@ -51,10 +51,10 @@ In order to speed up your process, we highly suggest to start creating your wire
     *  Locate components
     * Swap components (for example, when turning a lo-fi screen into a mid-fi screen)
 * The menu follows the structure below
-    * Component family
-        * Fidelity (LO-FI/MID-FI)
-            * Variants
-                * State (MID-FI components only)
+    * `Component family`
+        * `Fidelity (LO-FI/MID-FI)`
+            * `Variants`
+                * `State (MID-FI components only)`
 
 <img src="../img/image20.png" width="700"/>
 
@@ -73,7 +73,7 @@ For this reason, we tried to make it as easy as possible to swap your components
 <br /> <img src="../img/image9.png" width="600"/>
 * Follow the ticks to identify the component family
 <br /> <img src="../img/image16.png" width="500"/>
-* Select the **MID-FI** version of the component
+* Select the desired **MID-FI** version of the component
 
 ### MID-FI component state
 * Select the component you want to swap
@@ -114,9 +114,9 @@ If you need to create any custom symbols and/or content, you can use the provide
 ## Report issues
 Are you finding any bugs while using the library (eg. symbol not resizing correctly)? Or did you maybe encounter any usability issues (eg. can’t switch fidelity, overrides not working)? Or maybe you would like a new component or design pattern to be added to the library and/or template file?
 Please do the following:
-* Go to Issues · [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) · GitHub 
+* Go to [Issues · patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit/issues)
 * Open/create a new issue
-* Make sure to ping @cntlsn (Alessandro Contini) in the description of the issue
+* Make sure to ping `@cntlsn` (Alessandro Contini) in the description of the issue
 
 ## Share your feedback
 Do you have any feedback about your experience creating wireframes with the PF Wireframe library? For example:
@@ -124,6 +124,3 @@ Do you have any feedback about your experience creating wireframes with the PF W
 * When designing wireframes, do you prefer to have ready-made “complex” components with fewer customization options, or would you rather have simple components to manually assemble into complex ones?
 * Do wireframes work better for stakeholder review, and do stakeholders realize it’s a low-fidelity version of mockups? Do stakeholders feel more comfortable sharing feedback?
 If you want to share similar feedback please submit the following [survey](https://forms.gle/dEFxamLHFRxBvZRN8) – It shouldn’t take more than 10-15 minutes to complete the survey.
-
-## Contribute
-Do you also think this project is great and has the potential to change the course of our species?!? Or are you maybe feeling impatient about adding a new component (for instance the one you need right now in order to move forward with your wireframe) to the library?? Great! Join our group of lovely and fun UXDers on the #pf-wireframe-sketch-lib channel of the RHUX Slack space. Or reach out to Alessandro Contini [acontini@redhat](mailto:acontini@redhat.com).
