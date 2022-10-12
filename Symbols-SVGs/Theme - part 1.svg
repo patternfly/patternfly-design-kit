@@ -1,1 +1,662 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="1089px" height="2766px" viewBox="0 0 1089.0 2766.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M1089,0 L1089,2766 L0,2766 L0,0 L1089,0 Z"></path></clipPath><clipPath id="i1"><path d="M244,0 L244,50 L0,50 L0,0 L244,0 Z"></path></clipPath><clipPath id="i2"><path d="M273,0 L273,50 L0,50 L0,0 L273,0 Z"></path></clipPath><clipPath id="i3"><path d="M214,0 L214,50 L0,50 L0,0 L214,0 Z"></path></clipPath><clipPath id="i4"><path d="M57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 L57,0 Z"></path></clipPath><clipPath id="i5"><path d="M303,0 L303,50 L0,50 L0,0 L303,0 Z"></path></clipPath><clipPath id="i6"><path d="M369,0 L369,493 L0,493 L0,0 L369,0 Z"></path></clipPath><filter id="i7" x="-25%" y="-25%" filterUnits="userSpaceOnUse" width="133.333333%" height="133.333333%"><feGaussianBlur stdDeviation="3" in="SourceAlpha" result="i8"></feGaussianBlur><feOffset dx="0" dy="0" in="i8" result="i9"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.08 0" type="matrix" in="i9"></feColorMatrix></filter><filter id="i10" x="-60.8695652%" y="-52.173913%" filterUnits="userSpaceOnUse" width="186.956522%" height="186.956522%"><feGaussianBlur stdDeviation="8" in="SourceAlpha" result="i11"></feGaussianBlur><feOffset dx="0" dy="8" in="i11" result="i12"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i12"></feColorMatrix></filter><clipPath id="i13"><path d="M60,0 L60,60 L0,60 L0,0 L60,0 Z"></path></clipPath><filter id="i14" x="-17.6470588%" y="-17.6470588%" filterUnits="userSpaceOnUse" width="123.529412%" height="123.529412%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i15"></feGaussianBlur><feOffset dx="0" dy="0" in="i15" result="i16"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i16"></feColorMatrix></filter><filter id="i17" x="-36.8421053%" y="-31.5789474%" filterUnits="userSpaceOnUse" width="152.631579%" height="152.631579%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i18"></feGaussianBlur><feOffset dx="0" dy="4" in="i18" result="i19"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i19"></feColorMatrix></filter><filter id="i20" x="-10.9375%" y="-9.375%" filterUnits="userSpaceOnUse" width="115.625%" height="115.625%"><feGaussianBlur stdDeviation="1" in="SourceAlpha" result="i21"></feGaussianBlur><feOffset dx="0" dy="1" in="i21" result="i22"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i22"></feColorMatrix></filter><filter id="i23" x="-19.6969697%" y="-22.7272727%" filterUnits="userSpaceOnUse" width="130.30303%" height="130.30303%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i24"></feGaussianBlur><feOffset dx="0" dy="-2" in="i24" result="i25"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i25"></feColorMatrix></filter><filter id="i26" x="-19.6969697%" y="-16.6666667%" filterUnits="userSpaceOnUse" width="130.30303%" height="130.30303%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i27"></feGaussianBlur><feOffset dx="0" dy="2" in="i27" result="i28"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i28"></feColorMatrix></filter><filter id="i29" x="-22.7272727%" y="-19.6969697%" filterUnits="userSpaceOnUse" width="130.30303%" height="130.30303%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i30"></feGaussianBlur><feOffset dx="-2" dy="0" in="i30" result="i31"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i31"></feColorMatrix></filter><filter id="i32" x="-16.6666667%" y="-19.6969697%" filterUnits="userSpaceOnUse" width="130.30303%" height="130.30303%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i33"></feGaussianBlur><feOffset dx="2" dy="0" in="i33" result="i34"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i34"></feColorMatrix></filter><filter id="i35" x="-53.125%" y="-40.625%" filterUnits="userSpaceOnUse" width="175%" height="175%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i36"></feGaussianBlur><feOffset dx="-8" dy="0" in="i36" result="i37"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i37"></feColorMatrix></filter><filter id="i38" x="-40.625%" y="-28.125%" filterUnits="userSpaceOnUse" width="175%" height="175%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i39"></feGaussianBlur><feOffset dx="0" dy="8" in="i39" result="i40"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i40"></feColorMatrix></filter><filter id="i41" x="-40.625%" y="-53.125%" filterUnits="userSpaceOnUse" width="175%" height="175%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i42"></feGaussianBlur><feOffset dx="0" dy="-8" in="i42" result="i43"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i43"></feColorMatrix></filter><filter id="i44" x="-28.125%" y="-40.625%" filterUnits="userSpaceOnUse" width="175%" height="175%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i45"></feGaussianBlur><feOffset dx="8" dy="0" in="i45" result="i46"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i46"></feColorMatrix></filter><filter id="i47" x="-76.4705882%" y="-58.8235294%" filterUnits="userSpaceOnUse" width="205.882353%" height="205.882353%"><feGaussianBlur stdDeviation="6" in="SourceAlpha" result="i48"></feGaussianBlur><feOffset dx="-12" dy="0" in="i48" result="i49"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i49"></feColorMatrix></filter><filter id="i50" x="-58.8235294%" y="-41.1764706%" filterUnits="userSpaceOnUse" width="205.882353%" height="205.882353%"><feGaussianBlur stdDeviation="6" in="SourceAlpha" result="i51"></feGaussianBlur><feOffset dx="0" dy="12" in="i51" result="i52"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i52"></feColorMatrix></filter><filter id="i53" x="-58.8235294%" y="-76.4705882%" filterUnits="userSpaceOnUse" width="205.882353%" height="205.882353%"><feGaussianBlur stdDeviation="6" in="SourceAlpha" result="i54"></feGaussianBlur><feOffset dx="0" dy="-12" in="i54" result="i55"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i55"></feColorMatrix></filter><filter id="i56" x="-41.1764706%" y="-58.8235294%" filterUnits="userSpaceOnUse" width="205.882353%" height="205.882353%"><feGaussianBlur stdDeviation="6" in="SourceAlpha" result="i57"></feGaussianBlur><feOffset dx="12" dy="0" in="i57" result="i58"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.18 0" type="matrix" in="i58"></feColorMatrix></filter><filter id="i59" x="-94.7368421%" y="-73.6842105%" filterUnits="userSpaceOnUse" width="226.315789%" height="226.315789%"><feGaussianBlur stdDeviation="8" in="SourceAlpha" result="i60"></feGaussianBlur><feOffset dx="-16" dy="0" in="i60" result="i61"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.2 0" type="matrix" in="i61"></feColorMatrix></filter><filter id="i62" x="-73.6842105%" y="-52.6315789%" filterUnits="userSpaceOnUse" width="226.315789%" height="226.315789%"><feGaussianBlur stdDeviation="8" in="SourceAlpha" result="i63"></feGaussianBlur><feOffset dx="0" dy="16" in="i63" result="i64"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.2 0" type="matrix" in="i64"></feColorMatrix></filter><filter id="i65" x="-73.6842105%" y="-94.7368421%" filterUnits="userSpaceOnUse" width="226.315789%" height="226.315789%"><feGaussianBlur stdDeviation="8" in="SourceAlpha" result="i66"></feGaussianBlur><feOffset dx="0" dy="-16" in="i66" result="i67"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.2 0" type="matrix" in="i67"></feColorMatrix></filter><filter id="i68" x="-52.6315789%" y="-73.6842105%" filterUnits="userSpaceOnUse" width="226.315789%" height="226.315789%"><feGaussianBlur stdDeviation="8" in="SourceAlpha" result="i69"></feGaussianBlur><feOffset dx="16" dy="0" in="i69" result="i70"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.2 0" type="matrix" in="i70"></feColorMatrix></filter><filter id="i71" x="-31.5789474%" y="-31.5789474%" filterUnits="userSpaceOnUse" width="142.105263%" height="142.105263%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i72"></feGaussianBlur><feOffset dx="0" dy="0" in="i72" result="i73"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.1 0" type="matrix" in="i73"></feColorMatrix></filter><filter id="i74" x="-90.3225806%" y="-77.4193548%" filterUnits="userSpaceOnUse" width="229.032258%" height="229.032258%"><feGaussianBlur stdDeviation="16" in="SourceAlpha" result="i75"></feGaussianBlur><feOffset dx="0" dy="16" in="i75" result="i76"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i76"></feColorMatrix></filter></defs><rect x="0px" y="0px" width="1089px" height="2766px" fill="#FFFFFF"></rect><g clip-path="url(#i0)"><g transform="translate(46.0 164.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Primary and secondary colors</text></g><g transform="translate(333.0 226.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Secondary color</text></g><g transform="translate(46.0 226.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Primary colors</text></g><g transform="translate(46.0 222.0)"><g transform="translate(0.0 43.0)"><g clip-path="url(#i1)"><polygon points="0,0 244,0 244,50 0,50 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Primary color-100</text></g><g transform="translate(153.92523364485976 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0066CC</text></g></g><g transform="translate(275.0 43.0)"><g clip-path="url(#i2)"><polygon points="0,0 273,0 273,50 0,50 0,0" stroke="none" fill="#696E73"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Secondary color-100</text></g><g transform="translate(172.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g><g transform="translate(0.0 93.0)"><g clip-path="url(#i1)"><polygon points="0,0 244,0 244,50 0,50 0,0" stroke="none" fill="#003F80"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Primary color-200</text></g><g transform="translate(153.92523364485976 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#004080</text></g></g><g transform="translate(579.0 35.0)"><g clip-path="url(#i1)"><polygon points="0,0 244,0 244,50 0,50 0,0" stroke="none" fill="#2B9AF3"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Primary color-light-100</text></g><g transform="translate(169.92523364485976 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#2B9AF3</text></g></g><g transform="translate(579.0 85.0)"><g clip-path="url(#i1)"><polygon points="0,0 244,0 244,50 0,50 0,0" stroke="none" fill="#73BCF7"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Primary color-light-200</text></g><g transform="translate(169.92523364485976 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#73BCF7</text></g></g><g transform="translate(579.0 0.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Primary colors - light</text></g></g><g transform="translate(46.0 454.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Background colors</text><g transform="translate(2.0 59.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Light</text></g><g transform="translate(232.0 59.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Dark</text></g><g transform="translate(462.0 59.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Transparent</text></g><g transform="translate(2.0 101.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FFFFFF</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F0F0F0"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F0F0F0</text></g></g></g><g transform="translate(462.0 98.0)"><g transform="translate(0.0 3.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#020202" opacity="62%"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">100</text></g><g transform="translate(94.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#030303 (62%)</text></g></g><g transform="translate(238.0 0.0)"><g clip-path="url(#i3)"><image x="0px" y="-50px" width="214px" height="50px" transform="scale(1.0 -1.0)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAAhCAYAAAALQkMOAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAjKADAAQAAAABAAAAIQAAAACQ0doAAAAAaElEQVR4Ae3QAQ0AAADCoPdPbQ43iEBhwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYM3A8MSFEAATkUMcgAAAAASUVORK5CYII=" style="mix-blend-mode:normal"></image></g><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="rgba(0, 0, 0, 0.25)"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Modal</text></g><g transform="translate(94.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#000000 (25%)</text></g></g><g transform="translate(0.0 53.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#020202" opacity="32%"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">200</text></g><g transform="translate(93.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#030303 (32%)</text></g></g></g><g transform="translate(232.0 101.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#151515"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">dark-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#151515</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#3B3F41"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">dark-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3C3F42</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#202426"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">dark-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#212427</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#4F5255"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">dark-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#4F5255</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i3)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#242424"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">header-nav</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#242424</text></g></g></g><g transform="translate(703.0 53.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Modal background</text></g></g><g transform="translate(46.0 871.0)"><g transform="translate(168.0 193.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#B8BBBE" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(241.0 114.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#3B3F41" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(84.0 193.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(0.0 193.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#F0F0F0" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(168.0 114.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#8A8D90" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(84.0 114.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(0.0 114.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#696E73" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Borders</text></g><g transform="translate(46.0 1213.0)"><g transform="translate(1.0 97.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#151515"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-color-100</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#151515</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#696E73"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-color-200</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g><g transform="translate(335.0 0.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-link-color</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0066CC</text></g></g><g transform="translate(335.0 50.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#003F80"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-link-color-hover</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g><g transform="translate(0.0 149.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#8A8D90"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-color-400</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8A8D90</text></g></g><g transform="translate(0.0 99.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#3B3F41"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-color-300</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3C3F42</text></g></g><g transform="translate(688.0 0.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">pf-global-color-1light-100</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FFFFFF</text></g></g><g transform="translate(688.0 99.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#D2D2D2"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">pf-global-color-light-300</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#D2D2D2</text></g></g><g transform="translate(688.0 49.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#F0F0F0"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">pf-global-color-light-200</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F0F0F0</text></g></g><g transform="translate(688.0 183.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#2B9AF3"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-link-color-light</text></g><g transform="translate(223.14485981308417 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#2B9AF3</text></g></g><g transform="translate(688.0 232.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#73BCF7"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-link-color-light-hover</text></g><g transform="translate(223.14485981308417 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#73BCF7</text></g></g></g><g transform="translate(1.0 0.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Text and links </text></g><g transform="translate(0.0 55.0)"><text transform="translate(0.0 18.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18.0" font-weight="normal" fill="#282C33" text-anchor="left">Light theme - text colors</text></g><g transform="translate(336.0 50.0)"><text transform="translate(0.0 18.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18.0" font-weight="normal" fill="#282C33" text-anchor="left">Light theme - link colors</text></g><g transform="translate(698.0 50.0)"><text transform="translate(0.0 18.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18.0" font-weight="normal" fill="#282C33" text-anchor="left">Dark theme - text &amp; link colors</text></g></g><g transform="translate(57.0 1658.0)"><g transform="translate(0.0 104.0)"><g transform="translate(0.0 1.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#696E73"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">default-icon</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g><g transform="translate(0.0 51.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#151515"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">dark-icon (select/hover)</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#151515</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-icon</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0066CC</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">white-icon</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FFFFFF</text></g></g><g transform="translate(331.0 50.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">pf-global-color-light-100</text></g><g transform="translate(215.14485981308434 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FFFFFF</text></g></g><g transform="translate(331.0 0.0)"><g clip-path="url(#i5)"><polygon points="0,0 303,0 303,50 0,50 0,0" stroke="none" fill="#696E73"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">pf-global-color-light</text></g><g transform="translate(215.1448598130842 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g></g><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Icons </text><g transform="translate(330.0 72.0)"><text transform="translate(0.0 18.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18.0" font-weight="normal" fill="#282C33" text-anchor="left">Dark theme</text></g><g transform="translate(2.0 72.0)"><text transform="translate(0.0 18.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18.0" font-weight="normal" fill="#282C33" text-anchor="left">Light theme</text></g></g><g transform="translate(46.0 67.0)"><text transform="translate(-3.3120000000000003 31.559764862060547)" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48.0" font-weight="500" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">PatternFly theme</text></g><g transform="translate(64.0 2170.0)"><g transform="translate(175.0 0.0)"><g clip-path="url(#i6)"><polygon points="0,0 369,0 369,493 0,493 0,0" stroke="none" fill="#F0F0F0"></polygon></g></g><g transform="translate(68.0 421.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Box Shadow</text></g><g transform="translate(21.0 57.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Small side shadows</text></g><g transform="translate(365.0 398.0)"><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i7)"></polygon><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i10)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(281.0 398.0)"><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i14)"></polygon><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i17)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(197.0 398.0)"><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i20)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(197.0 34.0)"><polygon points="1,1 59,1 59,59 1,59 1,1" stroke="none" fill="#000000" filter="url(#i23)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(281.0 34.0)"><polygon points="1,1 59,1 59,59 1,59 1,1" stroke="none" fill="#000000" filter="url(#i26)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(365.0 34.0)"><polygon points="1,1 59,1 59,59 1,59 1,1" stroke="none" fill="#000000" filter="url(#i29)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(444.0 34.0)"><polygon points="1,1 59,1 59,59 1,59 1,1" stroke="none" fill="#000000" filter="url(#i32)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(2.0 141.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Medium side shadows</text></g><g transform="translate(365.0 118.0)"><polygon points="6,6 54,6 54,54 6,54 6,6" stroke="none" fill="#000000" filter="url(#i35)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(281.0 118.0)"><polygon points="6,6 54,6 54,54 6,54 6,6" stroke="none" fill="#000000" filter="url(#i38)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(197.0 118.0)"><polygon points="6,6 54,6 54,54 6,54 6,6" stroke="none" fill="#000000" filter="url(#i41)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(444.0 118.0)"><polygon points="6,6 54,6 54,54 6,54 6,6" stroke="none" fill="#000000" filter="url(#i44)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(18.0 225.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Large side shadows</text></g><g transform="translate(365.0 202.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i47)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(281.0 202.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i50)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(197.0 202.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i53)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(444.0 202.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i56)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(0.0 309.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">X-Large side shadows</text></g><g transform="translate(365.0 286.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i59)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(281.0 286.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i62)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(197.0 286.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i65)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(444.0 286.0)"><polygon points="8,8 52,8 52,52 8,52 8,8" stroke="none" fill="#000000" filter="url(#i68)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(449.0 398.0)"><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i71)"></polygon><polygon points="0,0 60,0 60,60 0,60 0,0 0,0" stroke="none" fill="#000000" filter="url(#i74)"></polygon><g clip-path="url(#i13)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g></g><g transform="translate(57.0 2097.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Shadows</text></g><g transform="translate(608.0 940.0)"><g transform="translate(0.0 35.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#696E73" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(71.0 35.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,60 0,60 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#696E73" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(192.0 35.0)"><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#151515" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(263.0 35.0)"><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#151515" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(192.0 0.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">tertiary border</text></g><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">secondary border</text></g><g transform="translate(385.99999999999955 981.0)"><g transform=""><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(84.0 0.0)"><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#0066CC" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(0.0 83.0)"><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#2B9AF3" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(84.0 83.0)"><g clip-path="url(#i4)"><path d="M3,0 L57,0 C58.6568542,-3.04359188e-16 60,1.34314575 60,3 L60,57 C60,58.6568542 58.6568542,60 57,60 L3,60 C1.34314575,60 -6.85272294e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" stroke="#2B9AF3" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g></g></g><g transform="translate(385.9999999999998 940.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">primary border</text></g><g transform="translate(45.99999999999977 940.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Default borders</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1089px" height="2766px" viewBox="0 0 1089 2766" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="365" y="398" width="60" height="60"></rect>
+        <filter x="-46.7%" y="-33.3%" width="193.3%" height="193.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="281" y="398" width="60" height="60"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="197" y="398" width="60" height="60"></rect>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="197" y="34" width="60" height="60"></rect>
+        <filter x="-9.2%" y="-12.5%" width="118.3%" height="118.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="281" y="34" width="60" height="60"></rect>
+        <filter x="-9.2%" y="-5.8%" width="118.3%" height="118.3%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="365" y="34" width="60" height="60"></rect>
+        <filter x="-12.5%" y="-9.2%" width="118.3%" height="118.3%" filterUnits="objectBoundingBox" id="filter-12">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-2" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="444" y="34" width="60" height="60"></rect>
+        <filter x="-5.8%" y="-9.2%" width="118.3%" height="118.3%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="2" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="365" y="118" width="60" height="60"></rect>
+        <filter x="-25.0%" y="-11.7%" width="133.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-8" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="281" y="118" width="60" height="60"></rect>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-18">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="197" y="118" width="60" height="60"></rect>
+        <filter x="-11.7%" y="-25.0%" width="123.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-20">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="444" y="118" width="60" height="60"></rect>
+        <filter x="-8.3%" y="-11.7%" width="133.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-22">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="8" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="365" y="202" width="60" height="60"></rect>
+        <filter x="-40.0%" y="-20.0%" width="153.3%" height="140.0%" filterUnits="objectBoundingBox" id="filter-24">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-12" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="281" y="202" width="60" height="60"></rect>
+        <filter x="-20.0%" y="-13.3%" width="140.0%" height="153.3%" filterUnits="objectBoundingBox" id="filter-26">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="197" y="202" width="60" height="60"></rect>
+        <filter x="-20.0%" y="-40.0%" width="140.0%" height="153.3%" filterUnits="objectBoundingBox" id="filter-28">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="444" y="202" width="60" height="60"></rect>
+        <filter x="-13.3%" y="-20.0%" width="153.3%" height="140.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="12" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="365" y="286" width="60" height="60"></rect>
+        <filter x="-60.0%" y="-33.3%" width="180.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-32">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-16" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="281" y="286" width="60" height="60"></rect>
+        <filter x="-33.3%" y="-20.0%" width="166.7%" height="180.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="16" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="197" y="286" width="60" height="60"></rect>
+        <filter x="-33.3%" y="-60.0%" width="166.7%" height="180.0%" filterUnits="objectBoundingBox" id="filter-36">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-16" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="444" y="286" width="60" height="60"></rect>
+        <filter x="-20.0%" y="-33.3%" width="180.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-38">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="16" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="449" y="398" width="60" height="60"></rect>
+        <filter x="-93.3%" y="-66.7%" width="286.7%" height="286.7%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Theme---part-1">
+            <rect fill="#FFFFFF" x="0" y="0" width="1089" height="2766"></rect>
+            <text id="Primary-and-secondar" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="46" y="201">Primary and secondary colors</tspan>
+            </text>
+            <text id="Secondary-color" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                <tspan x="333" y="242">Secondary color</tspan>
+            </text>
+            <text id="Primary-colors" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                <tspan x="46" y="242">Primary colors</tspan>
+            </text>
+            <g id="primary-and-secondary" transform="translate(46.000000, 222.000000)">
+                <g id="Comment" transform="translate(0.000000, 43.000000)">
+                    <rect id="Comment-Pink" fill="#0066CC" x="0" y="0" width="244" height="50"></rect>
+                    <text id="Primary-color-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">Primary color-100</tspan>
+                    </text>
+                    <text id="#0066cc" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="153.925234" y="29">#0066CC</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(275.000000, 43.000000)">
+                    <rect id="Comment-Pink" fill="#6A6E73" x="0" y="0" width="273" height="50"></rect>
+                    <text id="Secondary-color-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">Secondary color-100</tspan>
+                    </text>
+                    <text id="#6a6e73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="172" y="29">#6A6E73</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 93.000000)">
+                    <rect id="Comment-Pink" fill="#004080" x="0" y="0" width="244" height="50"></rect>
+                    <text id="Primary-color-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">Primary color-200</tspan>
+                    </text>
+                    <text id="#004080" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="153.925234" y="29">#004080</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(579.000000, 35.000000)">
+                    <rect id="Comment-Pink" fill="#2B9AF3" x="0" y="0" width="244" height="50"></rect>
+                    <text id="Primary-color-light-" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">Primary color-light-100</tspan>
+                    </text>
+                    <text id="#2B9AF3" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="169.925234" y="29">#2B9AF3</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(579.000000, 85.000000)">
+                    <rect id="Comment-Pink" fill="#73BCF7" x="0" y="0" width="244" height="50"></rect>
+                    <text id="Primary-color-light-" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">Primary color-light-200</tspan>
+                    </text>
+                    <text id="#73BCF7" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="169.925234" y="29">#73BCF7</tspan>
+                    </text>
+                </g>
+                <text id="Primary-colors---lig" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="579" y="16">Primary colors - light</tspan>
+                </text>
+            </g>
+            <g id="Backgrounds" transform="translate(46.000000, 454.000000)">
+                <text id="Background-colors" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="0" y="37">Background colors</tspan>
+                </text>
+                <text id="Light" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="2" y="75">Light</tspan>
+                </text>
+                <text id="Dark" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="232" y="75">Dark</tspan>
+                </text>
+                <text id="Transparent" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="462" y="75">Transparent</tspan>
+                </text>
+                <g id="Light-bg" transform="translate(2.000000, 101.000000)">
+                    <g id="Comment">
+                        <rect id="Comment-Pink" fill="#FFFFFF" x="0" y="0" width="214" height="50"></rect>
+                        <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">100</tspan>
+                        </text>
+                        <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="135" y="29">#FFFFFF</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 50.000000)">
+                        <rect id="Comment-Pink" fill="#F0F0F0" x="0" y="0" width="214" height="50"></rect>
+                        <text id="200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">200</tspan>
+                        </text>
+                        <text id="#F0F0F0" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="135" y="29">#F0F0F0</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="transparent-bg" transform="translate(462.000000, 98.000000)">
+                    <g id="Comment" transform="translate(0.000000, 3.000000)">
+                        <rect id="Comment-Pink" fill="#030303" opacity="0.62" x="0" y="0" width="214" height="50"></rect>
+                        <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">100</tspan>
+                        </text>
+                        <text id="#030303-(62%)" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="94" y="29">#030303 (62%)</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(238.000000, 0.000000)">
+                        <rect id="Comment-Pink" fill-opacity="0.25" fill="#000000" x="0" y="0" width="214" height="50"></rect>
+                        <text id="Modal" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">Modal</tspan>
+                        </text>
+                        <text id="#000000-(25%)" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="94" y="29">#000000 (25%)</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 53.000000)">
+                        <rect id="Comment-Pink" fill="#030303" opacity="0.32" x="0" y="0" width="214" height="50"></rect>
+                        <text id="200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">200</tspan>
+                        </text>
+                        <text id="#030303-(32%)" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="93" y="29">#030303 (32%)</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Dark-bg" transform="translate(232.000000, 101.000000)">
+                    <g id="Comment">
+                        <rect id="Comment-Pink" fill="#151515" x="0" y="0" width="214" height="50"></rect>
+                        <text id="dark-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">dark-100</tspan>
+                        </text>
+                        <text id="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="135" y="29">#151515</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 50.000000)">
+                        <rect id="Comment-Pink" fill="#3C3F42" x="0" y="0" width="214" height="50"></rect>
+                        <text id="dark-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">dark-200</tspan>
+                        </text>
+                        <text id="#3C3F42" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="135" y="29">#3C3F42</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 100.000000)">
+                        <rect id="Comment-Pink" fill="#212427" x="0" y="0" width="214" height="50"></rect>
+                        <text id="dark-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">dark-300</tspan>
+                        </text>
+                        <text id="#212427" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="135" y="29">#212427</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 150.000000)">
+                        <rect id="Comment-Pink" fill="#4F5255" x="0" y="0" width="214" height="50"></rect>
+                        <text id="dark-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">dark-400</tspan>
+                        </text>
+                        <text id="#4F5255" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="135" y="29">#4F5255</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 200.000000)">
+                        <rect id="Comment-Pink" fill="#242424" x="0" y="0" width="214" height="50"></rect>
+                        <text id="header-nav" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">header-nav</tspan>
+                        </text>
+                        <text id="#242424" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="135" y="29">#242424</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="Modal-background" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="703" y="69">Modal background</tspan>
+                </text>
+            </g>
+            <g id="Borders" transform="translate(46.000000, 871.000000)">
+                <rect id="pf-global--BorderColor--light-100" stroke="#B8BBBE" fill="#FFFFFF" x="168.5" y="193.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor--light-100" stroke="#3C3F42" fill="#FFFFFF" x="241.5" y="114.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor--dark-100" stroke="#D2D2D2" fill="#FFFFFF" x="84.5" y="193.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor--300" stroke="#F0F0F0" fill="#FFFFFF" x="0.5" y="193.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor--200" stroke="#8A8D90" fill="#FFFFFF" x="168.5" y="114.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor--100" stroke="#D2D2D2" fill="#FFFFFF" x="84.5" y="114.5" width="59" height="59" rx="3"></rect>
+                <rect id="pf-global--BorderColor" stroke="#6A6E73" fill="#FFFFFF" x="0.5" y="114.5" width="59" height="59" rx="3"></rect>
+                <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="0" y="37">Borders</tspan>
+                </text>
+            </g>
+            <g id="Text-and-links" transform="translate(46.000000, 1213.000000)">
+                <g id="Light-bg" transform="translate(1.000000, 97.000000)">
+                    <g id="Comment">
+                        <rect id="Comment-Pink" fill="#151515" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-color-100</tspan>
+                        </text>
+                        <text id="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#151515</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 50.000000)">
+                        <rect id="Comment-Pink" fill="#6A6E73" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-color-200</tspan>
+                        </text>
+                        <text id="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#6A6E73</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(335.000000, 0.000000)">
+                        <rect id="Comment-Pink" fill="#0066CC" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-link-color" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-link-color</tspan>
+                        </text>
+                        <text id="#0066cc" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#0066CC</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(335.000000, 50.000000)">
+                        <rect id="Comment-Pink" fill="#004080" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-link-color" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-link-color-hover</tspan>
+                        </text>
+                        <text id="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#6A6E73</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 149.000000)">
+                        <rect id="Comment-Pink" fill="#8A8D90" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-color-400</tspan>
+                        </text>
+                        <text id="#8A8D90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#8A8D90</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 99.000000)">
+                        <rect id="Comment-Pink" fill="#3C3F42" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-color-300</tspan>
+                        </text>
+                        <text id="#3C3F42" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#3C3F42</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(688.000000, 0.000000)">
+                        <rect id="Comment-Pink" fill="#FFFFFF" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-1lig" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">pf-global-color-1light-100</tspan>
+                        </text>
+                        <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="215.14486" y="29">#FFFFFF</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(688.000000, 99.000000)">
+                        <rect id="Comment-Pink" fill="#D2D2D2" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-ligh" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">pf-global-color-light-300</tspan>
+                        </text>
+                        <text id="#D2D2D2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="215.14486" y="29">#D2D2D2</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(688.000000, 49.000000)">
+                        <rect id="Comment-Pink" fill="#F0F0F0" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-ligh" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">pf-global-color-light-200</tspan>
+                        </text>
+                        <text id="#F0F0F0" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="215.14486" y="29">#F0F0F0</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(688.000000, 183.000000)">
+                        <rect id="Comment-Pink" fill="#2B9AF3" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-link-color" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-link-color-light</tspan>
+                        </text>
+                        <text id="#2B9AF3" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="223.14486" y="29">#2B9AF3</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(688.000000, 232.000000)">
+                        <rect id="Comment-Pink" fill="#73BCF7" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-link-color" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-link-color-light-hover</tspan>
+                        </text>
+                        <text id="#73BCF7" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="223.14486" y="29">#73BCF7</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="1" y="37">Text and links </tspan>
+                </text>
+                <text id="Light-theme---text-c" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18" font-weight="normal" fill="#282D33">
+                    <tspan x="0" y="73">Light theme - text colors</tspan>
+                </text>
+                <text id="Light-theme---link-c" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18" font-weight="normal" fill="#282D33">
+                    <tspan x="336" y="68">Light theme - link colors</tspan>
+                </text>
+                <text id="Dark-theme---text-&amp;" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18" font-weight="normal" fill="#282D33">
+                    <tspan x="698" y="68">Dark theme - text &amp; link colors</tspan>
+                </text>
+            </g>
+            <g id="Icons" transform="translate(57.000000, 1658.000000)">
+                <g id="Light-bg" transform="translate(0.000000, 104.000000)">
+                    <g id="Comment" transform="translate(0.000000, 1.000000)">
+                        <rect id="Comment-Pink" fill="#6A6E73" x="0" y="0" width="303" height="50"></rect>
+                        <text id="default-icon" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">default-icon</tspan>
+                        </text>
+                        <text id="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#6A6E73</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 51.000000)">
+                        <rect id="Comment-Pink" fill="#151515" x="0" y="0" width="303" height="50"></rect>
+                        <text id="dark-icon-(select/ho" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">dark-icon (select/hover)</tspan>
+                        </text>
+                        <text id="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#151515</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 150.000000)">
+                        <rect id="Comment-Pink" fill="#0066CC" x="0" y="0" width="303" height="50"></rect>
+                        <text id="blue-icon" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">blue-icon</tspan>
+                        </text>
+                        <text id="#0066cc" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#0066CC</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(0.000000, 100.000000)">
+                        <rect id="Comment-Pink" fill="#FFFFFF" x="0" y="0" width="303" height="50"></rect>
+                        <text id="white-icon" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">white-icon</tspan>
+                        </text>
+                        <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="215.14486" y="29">#FFFFFF</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(331.000000, 50.000000)">
+                        <rect id="Comment-Pink" fill="#FFFFFF" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-ligh" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="17" y="29">pf-global-color-light-100</tspan>
+                        </text>
+                        <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="215.14486" y="29">#FFFFFF</tspan>
+                        </text>
+                    </g>
+                    <g id="Comment" transform="translate(331.000000, 0.000000)">
+                        <rect id="Comment-Pink" fill="#6A6E73" x="0" y="0" width="303" height="50"></rect>
+                        <text id="pf-global-color-ligh" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="17" y="29">pf-global-color-light</tspan>
+                        </text>
+                        <text id="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="215.14486" y="29">#6A6E73</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="0" y="37">Icons </tspan>
+                </text>
+                <text id="Dark-theme" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18" font-weight="normal" fill="#282D33">
+                    <tspan x="330" y="90">Dark theme</tspan>
+                </text>
+                <text id="Light-theme" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="18" font-weight="normal" fill="#282D33">
+                    <tspan x="2" y="90">Light theme</tspan>
+                </text>
+            </g>
+            <text id="PatternFly-theme" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48" font-weight="500" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="46" y="116">PatternFly theme</tspan>
+            </text>
+            <g id="Shadows" transform="translate(64.000000, 2170.000000)">
+                <rect id="Rectangle" fill="#F0F0F0" x="175" y="0" width="369" height="493"></rect>
+                <text id="Box-Shadow" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="68" y="437">Box Shadow</tspan>
+                </text>
+                <text id="Small-side-shadows" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="21" y="73">Small side shadows</tspan>
+                </text>
+                <g id="pf-global--BoxShadow--lg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="pf-global--BoxShadow--md">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="pf-global--BoxShadow--sm">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                </g>
+                <text id="Medium-side-shadows" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="2" y="157">Medium side shadows</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                </g>
+                <text id="Large-side-shadows" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="18" y="241">Large side shadows</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                </g>
+                <text id="X-Large-side-shadows" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="0" y="325">X-Large side shadows</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                </g>
+                <g id="pf-global--BoxShadow--lg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                </g>
+            </g>
+            <text id="Shadows" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="57" y="2134">Shadows</tspan>
+            </text>
+            <g id="borders" transform="translate(608.000000, 940.000000)">
+                <rect id="Rectangle" stroke="#6A6E73" fill="#FFFFFF" x="0.5" y="35.5" width="59" height="59" rx="3"></rect>
+                <rect id="Rectangle" stroke="#6A6E73" stroke-width="2" fill="#FFFFFF" x="72" y="36" width="58" height="58" rx="3"></rect>
+                <rect id="Rectangle" stroke="#151515" x="192.5" y="35.5" width="59" height="59" rx="3"></rect>
+                <rect id="Rectangle" stroke="#151515" stroke-width="2" x="264" y="36" width="58" height="58" rx="3"></rect>
+                <text id="tertiary-border" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="192" y="16">tertiary border</tspan>
+                </text>
+                <text id="secondary-border" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                    <tspan x="0" y="16">secondary border</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(386.000000, 981.000000)">
+                <rect id="Rectangle" stroke="#0066CC" x="0.5" y="0.5" width="59" height="59" rx="3"></rect>
+                <rect id="Rectangle" stroke="#0066CC" stroke-width="2" x="85" y="1" width="58" height="58" rx="3"></rect>
+                <rect id="Rectangle" stroke="#2B9AF3" x="0.5" y="83.5" width="59" height="59" rx="3"></rect>
+                <rect id="Rectangle" stroke="#2B9AF3" stroke-width="2" x="85" y="84" width="58" height="58" rx="3"></rect>
+            </g>
+            <text id="primary-border" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                <tspan x="386" y="956">primary border</tspan>
+            </text>
+            <text id="Default-borders" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                <tspan x="46" y="956">Default borders</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

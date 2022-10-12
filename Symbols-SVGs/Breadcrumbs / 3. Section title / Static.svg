@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="100px" height="19px" viewBox="0 0 100.0 19.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M0.692566174,0.165240847 C0.912887304,-0.0550802825 1.26914103,-0.0550802825 1.48710469,0.165240847 L4.67459709,3.35273325 C4.8972528,3.57305438 4.8972528,3.92928522 4.67693167,4.14960635 L1.48943927,7.33709875 C1.26914103,7.55741988 0.912887304,7.55741988 0.694923651,7.33709875 L0.165223681,6.80742167 C-0.0550745605,6.58710054 -0.0550745605,6.23084681 0.165223681,6.01288316 L2.42460245,3.75350439 L0.165223681,1.49414851 C-0.0550745605,1.27382738 -0.0550745605,0.917573649 0.165223681,0.699609996 Z"></path></clipPath></defs><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="18.2">Section title</text><g transform="translate(76.0 0.0)"><g transform="translate(10.0 5.551839625427496)"><g clip-path="url(#i0)"><polygon points="0,0 4.84188185,0 4.84188185,7.5023396 0,7.5023396 0,0" stroke="none" fill="#8A8D90"></polygon></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="19px" viewBox="0 0 100 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Breadcrumbs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Breadcrumbs-/-3.-Section-title-/-Static">
+            <text id="Section-title" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="18.2" fill="#151515">
+                <tspan x="0" y="14">Section title</tspan>
+            </text>
+            <g id="Icons-/-Framework-/-angle-right-/-14px" transform="translate(86.000000, 5.551840)" fill="#8A8D90">
+                <path d="M1.48943927,7.33709875 L4.67693167,4.14960635 C4.8972528,3.92928522 4.8972528,3.57305438 4.67459709,3.35273325 L1.48710469,0.165240847 C1.26914103,-0.0550802825 0.912887304,-0.0550802825 0.692566174,0.165240847 L0.165223681,0.699609996 C-0.0550745605,0.917573649 -0.0550745605,1.27382738 0.165223681,1.49414851 L2.42460245,3.75350439 L0.165223681,6.01288316 C-0.0550745605,6.23084681 -0.0550745605,6.58710054 0.165223681,6.80742167 L0.694923651,7.33709875 C0.912887304,7.55741988 1.26914103,7.55741988 1.48943927,7.33709875 Z" id="angle-right"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="82px" height="36px" viewBox="0 0 82.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M95,0 C96.6568542,-3.04359188e-16 98,1.34314575 98,3 L98,49 C98,50.6568542 96.6568542,52 95,52 L3,52 C1.34314575,52 -2.01753992e-15,50.6568542 0,49 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 L95,0 Z"></path></clipPath><clipPath id="i1"><path d="M79,0 C80.6568542,-3.04359188e-16 82,1.34314575 82,3 L82,33 C82,34.6568542 80.6568542,36 79,36 L3,36 C1.34314575,36 -1.57345071e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.39730022e-16 3,0 L79,0 Z"></path></clipPath><clipPath id="i2"><path d="M16,0 L16,36 L0,36 L0,0 L16,0 Z"></path></clipPath><clipPath id="i3"><path d="M50,0 L50,6 L0,6 L0,0 L50,0 Z"></path></clipPath></defs><g transform="translate(-8.0 -8.0)"><g clip-path="url(#i0)"><polygon points="0,0 98,0 98,52 0,52 0,0" stroke="none" fill="rgba(0, 102, 204, 0.2)"></polygon></g><g clip-path="url(#i0)"><path d="M3,0 L95,0 C96.6568542,-3.04359188e-16 98,1.34314575 98,3 L98,49 C98,50.6568542 96.6568542,52 95,52 L3,52 C1.34314575,52 -2.01753992e-15,50.6568542 0,49 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g clip-path="url(#i1)"><polygon points="0,0 82,0 82,36 0,36 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i1)"><path d="M3,0 L79,0 C80.6568542,-3.04359188e-16 82,1.34314575 82,3 L82,33 C82,34.6568542 80.6568542,36 79,36 L3,36 C1.34314575,36 -1.57345071e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.39730022e-16 3,0 Z" stroke="#151515" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(16.0 6.0)"><text transform="translate(0.120000000000001 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="center" line-spacing="24.0">Button</text></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,36 0,36 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,36 0,36 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(66.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,36 0,36 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,36 0,36 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 50,0 50,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 50,0 50,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 30.0)"><g clip-path="url(#i3)"><polygon points="0,0 50,0 50,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 50,0 50,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="36px" viewBox="0 0 82 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-4.-Tertiary-/-Focus">
+            <rect id="Focus-border" stroke="#0066CC" fill-opacity="0.2" fill="#0066CC" fill-rule="nonzero" x="-7.5" y="-7.5" width="97" height="51" rx="3"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="82" height="36" rx="3"></rect>
+            <rect id="Background" stroke="#151515" stroke-width="2" x="1" y="1" width="80" height="34" rx="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16.12" y="22">Button</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(66.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

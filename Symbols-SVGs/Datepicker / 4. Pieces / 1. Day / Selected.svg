@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="39px" height="39px" viewBox="0 0 39.0 39.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M18.5,0 C28.7172679,0 37,8.28273213 37,18.5 C37,28.7172679 28.7172679,37 18.5,37 C8.28273213,37 0,28.7172679 0,18.5 C0,8.28273213 8.28273213,0 18.5,0 Z"></path></clipPath></defs><g transform="translate(1.0 1.0)"><g clip-path="url(#i0)"><polygon points="0,0 37,0 37,37 0,37 0,0" stroke="none" fill="#0066CC"></polygon></g></g><g transform="translate(15.0 9.0)"><text transform="translate(0.20199999999999996 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FFFFFF" text-anchor="center" line-spacing="21.0">11</text></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Datepicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Datepicker-/-4.-Pieces-/-1.-Day-/-Selected">
+            <circle id="Oval" fill="#0066CC" cx="19.5" cy="19.5" r="18.5"></circle>
+            <text id="11" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                <tspan x="15.202" y="23">11</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

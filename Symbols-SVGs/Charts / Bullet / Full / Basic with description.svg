@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="633px" height="124px" viewBox="0 0 633.0 124.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M609,0 L609,1.00661157 L0,1.00661157 L0,0 L609,0 Z"></path></clipPath><clipPath id="i1"><path d="M5,0 L5,1 L0,1 L0,0 L5,0 Z"></path></clipPath><clipPath id="i2"><path d="M451,0 L451,30 L0,30 L0,0 L451,0 Z"></path></clipPath><clipPath id="i3"><path d="M154,0 L154,30 L0,30 L0,0 L154,0 Z"></path></clipPath><clipPath id="i4"><path d="M364,0 L364,9 L0,9 L0,0 L364,0 Z"></path></clipPath><clipPath id="i5"><path d="M1,0 L1,30 L0,30 L0,0 L1,0 Z"></path></clipPath></defs><g transform="translate(6.0 53.0)"><g transform="translate(0.0 30.0)"><g transform="translate(0.0 7.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">0 </text><g transform="translate(145.2218649517686 0.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">25</text></g><g transform="translate(297.4437299035371 0.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">50</text></g><g transform="translate(451.6655948553052 0.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">75</text></g><g transform="translate(603.9075562700964 0.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">100</text></g></g><g transform="translate(5.0 0.0)"><g clip-path="url(#i0)"><polygon points="0,0 609,0 609,1.00661157 0,1.00661157 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(456.4999999999999 0.4999999999988498) rotate(90.0)"><g transform="translate(1.0231815394945443e-12 450.5)"><g clip-path="url(#i1)"><polygon points="0,0 5,0 5,1 0,1 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(1.6484591469634324e-12 305.0)"><g clip-path="url(#i1)"><polygon points="2.84217094e-14,0 5,0 5,1 2.84217094e-14,1 2.84217094e-14,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(0.0 153.0)"><g clip-path="url(#i1)"><polygon points="0,0 5,0 5,1 0,1 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform=""><g clip-path="url(#i1)"><polygon points="0,0 5,0 5,1 0,1 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g></g><g transform="translate(615.0 0.0) rotate(90.0)"><g clip-path="url(#i1)"><polygon points="2.84217094e-14,0 5,0 5,1 2.84217094e-14,1 2.84217094e-14,0" stroke="none" fill="#D2D2D2"></polygon></g></g></g><g transform="translate(5.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 451,0 451,30 0,30 0,0" stroke="none" fill="#EDEDED"></polygon></g></g><g transform="translate(302.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 154,0 154,30 0,30 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(5.0 11.0)"><g clip-path="url(#i4)"><polygon points="0,0 364,0 364,9 0,9 0,0" stroke="none" fill="#0066CC"></polygon></g></g><g transform="translate(536.0 0.0)"><g clip-path="url(#i5)"><polygon points="0,0 1,0 1,30 0,30 0,0" stroke="none" fill="#EC7908"></polygon></g></g></g><g transform="translate(11.0 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">Text label</text></g><g transform="translate(11.0 24.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="21.0">Measure details</text></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="633px" height="124px" viewBox="0 0 633 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Bullet-/-Full-/-Basic-with-description">
+            <g id="Group" transform="translate(6.000000, 53.000000)">
+                <g id="Charts-/-Axis-/-X-axis" transform="translate(0.000000, 30.000000)">
+                    <g id="x-axis-values" transform="translate(0.000000, 7.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                        <text id="0">
+                            <tspan x="0" y="14">0 </tspan>
+                        </text>
+                        <text id="25">
+                            <tspan x="145.221865" y="14">25</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="297.44373" y="14">50</tspan>
+                        </text>
+                        <text id="75">
+                            <tspan x="451.665595" y="14">75</tspan>
+                        </text>
+                        <text id="100">
+                            <tspan x="603.907556" y="14">100</tspan>
+                        </text>
+                    </g>
+                    <polygon id="x-axis-stroke" fill="#D2D2D2" points="5 0 614 0 614 1.00661157 5 1.00661157"></polygon>
+                    <g id="Tick-marks" transform="translate(230.750000, 3.000000) rotate(90.000000) translate(-230.750000, -3.000000) translate(228.250000, -222.750000)" fill="#D2D2D2">
+                        <rect id="tick-mark" x="1.02318154e-12" y="450.5" width="5" height="1"></rect>
+                        <polygon id="tick-mark" points="1.64845915e-12 305 5 305 5 306 1.64845915e-12 306"></polygon>
+                        <polygon id="tick-mark" points="0 153 5 153 5 154 0 154"></polygon>
+                        <polygon id="tick-mark" points="5.68434189e-14 1.87677122e-14 5 1.87677122e-14 5 1 5.68434189e-14 1"></polygon>
+                    </g>
+                    <polygon id="tick-mark" fill="#D2D2D2" transform="translate(614.500000, 2.500000) rotate(90.000000) translate(-614.500000, -2.500000) " points="612 2 617 2 617 3 612 3"></polygon>
+                </g>
+                <g id="Charts-/-Bullet-/-Horizontal-/-Range" transform="translate(5.000000, 0.000000)" fill="#EDEDED">
+                    <rect id="Rectangle" x="0" y="0" width="451" height="30"></rect>
+                </g>
+                <g id="Charts-/-Bullet-/-Horizontal-/-Range" transform="translate(302.000000, 0.000000)" fill="#D2D2D2">
+                    <rect id="Rectangle" x="0" y="0" width="154" height="30"></rect>
+                </g>
+                <g id="Charts-/-Bullet-/-Horizontal-/-Measured-value" transform="translate(5.000000, 11.000000)" fill="#0066CC">
+                    <rect id="Rectangle" x="0" y="0" width="364" height="9"></rect>
+                </g>
+                <g id="Charts-/-Bullet-/-Horizontal-/-Range" transform="translate(536.000000, 0.000000)" fill="#EC7A08">
+                    <rect id="Rectangle" x="0" y="0" width="1" height="30"></rect>
+                </g>
+            </g>
+            <text id="Text-label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="11" y="16">Text label</tspan>
+            </text>
+            <text id="Measure-details" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#6A6E73">
+                <tspan x="11" y="38">Measure details</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

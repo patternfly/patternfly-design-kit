@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="82px" height="36px" viewBox="0 0 82.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M16,0 L16,36 L0,36 L0,0 L16,0 Z"></path></clipPath><clipPath id="i1"><path d="M50,0 L50,6 L0,6 L0,0 L50,0 Z"></path></clipPath></defs><g transform="translate(16.0 6.0)"><text transform="translate(0.120000000000001 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#C9190A" text-anchor="center" line-spacing="24.0">Button</text></g><g clip-path="url(#i0)"><polygon points="0,0 16,0 16,36 0,36 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i0)"><polygon points="0,0 16,0 16,36 0,36 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(66.0 0.0)"><g clip-path="url(#i0)"><polygon points="0,0 16,0 16,36 0,36 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i0)"><polygon points="0,0 16,0 16,36 0,36 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 50,0 50,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 50,0 50,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 30.0)"><g clip-path="url(#i1)"><polygon points="0,0 50,0 50,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 50,0 50,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="36px" viewBox="0 0 82 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-/-7.-Link-button-/-6.-Danger-/-Default">
+            <rect id="Background" x="0" y="0" width="82" height="36" rx="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#C9190B">
+                <tspan x="16.12" y="22">Button</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(66.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="35"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(16.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="49" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

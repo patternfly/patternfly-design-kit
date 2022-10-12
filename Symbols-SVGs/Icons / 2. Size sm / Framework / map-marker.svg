@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-2.-Size-sm-/-Framework-/-map-marker" fill="#151515">
+            <path d="M12.9624668,17.7578608 C16.3678771,12.8210287 16.9999785,12.3143541 16.9999785,10.4999893 C16.9999785,8.01470467 14.9852739,6 12.4999893,6 C10.0147047,6 8,8.01470467 8,10.4999893 C8,12.3143541 8.63210146,12.8210287 12.0375117,17.7578608 C12.2609685,18.0806749 12.7389871,18.0806978 12.9624668,17.7578608 Z" id="map-marker"></path>
+        </g>
+    </g>
+</svg>

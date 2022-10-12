@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="800px" height="20px" viewBox="0 0 800.0 20.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M798,0 C799.104569,-2.02906125e-16 800,0.8954305 800,2 C800,3.1045695 799.104569,4 798,4 L2,4 C0.8954305,4 1.91162759e-15,3.1045695 0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L798,0 Z"></path></clipPath></defs><g transform="translate(0.0 8.0)"><g clip-path="url(#i0)"><polygon points="0,0 800,0 800,4 0,4 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="20px" viewBox="0 0 800 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Slider" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Slider-/-1.-Base-track" fill="#D2D2D2">
+            <rect id="Track-Grey" x="0" y="8" width="800" height="4" rx="2"></rect>
+        </g>
+    </g>
+</svg>

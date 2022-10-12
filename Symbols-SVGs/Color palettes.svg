@@ -1,1 +1,1250 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="1217px" height="2773px" viewBox="0 0 1217.0 2773.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M1217,0 L1217,2773 L0,2773 L0,0 L1217,0 Z"></path></clipPath><clipPath id="i1"><path d="M214,0 L214,50 L0,50 L0,0 L214,0 Z"></path></clipPath><clipPath id="i2"><path d="M211,0 L211,44 L0,44 L0,0 L211,0 Z"></path></clipPath></defs><rect x="0px" y="0px" width="1217px" height="2773px" fill="#FFFFFF"></rect><g clip-path="url(#i0)"><g transform="translate(268.0 914.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#FF00FF"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">Comment</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#FF00FF</text></g></g><g transform="translate(39.0 67.0)"><text transform="translate(-3.3120000000000003 31.559764862060547)" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48.0" font-weight="500" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Color palettes</text></g><g transform="translate(39.0 168.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">white</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FFFFFF</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#FAFAFA"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FAFAFA</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F5F5F5"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-150</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F5F5F5</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F0F0F0"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F0F0F0</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#D2D2D2"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#D2D2D2</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#B8BBBE"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#B8BBBE</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#8A8D90"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#8A8D90</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#696E73"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6A6E73</text></g></g><g transform="translate(0.0 352.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#4F5255"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#4F5255</text></g></g><g transform="translate(0.0 396.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#3B3F41"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-800</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3C3F42</text></g></g><g transform="translate(0.0 440.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#202426"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-850</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#212437</text></g></g><g transform="translate(0.0 484.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#151515"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-900</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#151515</text></g></g><g transform="translate(0.0 528.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#020202"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-1000</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#030303</text></g></g></g><g transform="translate(272.0 164.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#E7F1FA"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#E7F1FA</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#BEE1F3"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FAFAFA</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#73BCF7"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F5F5F5</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#2B9AF3"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#2B9AF3</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0066CC</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#003F80"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#004080</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#002952"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#002952</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#001222"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#001223</text></g></g></g><g transform="translate(737.0 169.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F3FAF2"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F3FAF2</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#BDE5B8"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#BDE5B8</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#95D58E"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#95D58E</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#6EC663"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#6EC664</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#5BA352"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#5BA352</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#3E8634"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3E8635</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#1E4F17"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#1E4F18</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#0E280C"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0F280D</text></g></g></g><g transform="translate(504.0 163.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F2F9F9"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F2F9F9</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#A2D9D9"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#A2D9D9</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#73C5C5"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#73C5C5</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#009596"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#009596</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#005E60"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#005F60</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#003636"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#003737</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#003C44"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#003D44</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#001E21"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#001F22</text></g></g></g><g transform="translate(271.0 539.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F2F0FC"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">purple-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F2F0FC</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#CBC1FF"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">purple-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#CBC1FF</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#B2A3FF"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">purple-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#B2A3FF</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#A18FFF"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">purple-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#A18FFF</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#8376D1"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8476D1</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#6753AC"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6753AC</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#3F199A"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#40199A</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#1E0066"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#1F0066</text></g></g></g><g transform="translate(979.0 171.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#FDF7E7"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FDF7E7</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F9E0A2"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F9E0A2</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F6D173"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F6D173</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F3C144"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F4C145</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F0AB00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F0AB00</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#C58C00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#C58C00</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#795500"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">gold-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#795600</text></g></g><g transform="translate(0.0 308.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#3C2B00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">gold-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3D2C00</text></g></g></g><g transform="translate(976.0 544.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#F3B677"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F4B678</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#EF9234"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#EF9234</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#EC7908"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#EC7A08</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#C36100"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#C46100</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#8F4700"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">orange-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8F4700</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#773C00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">orange-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#773D00</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#3B1F00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">orange-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3B1F00</text></g></g></g><g transform="translate(39.0 759.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#FAEAE8"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">red-50</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#FAEAE8</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#C9190A"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#C9190B</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#A30000"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#A30000</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#7C1006"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#7D1007</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#470000"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#470000</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#2B0000"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#2C0000</text></g></g></g><g transform="translate(506.0 544.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#BEECF9"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—blue-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#BEEDF9</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#7CDAF3"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—blue-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#7CDBF3</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#34CAED"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—blue-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#35CAED</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#00B8E3"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—blue-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#00B9E4</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#008BAD"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—blue-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#008BAD</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#005B73"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—blue-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#005C73</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#002D39"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—blue-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#002D39</text></g></g></g><g transform="translate(741.0 546.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#E3F5BC"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—green-100</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#E4F5BC</text></g><g transform="translate(0.0 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#C8EB79"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—green-200</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#C8EB79</text></g></g><g transform="translate(0.0 88.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#ACE12E"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—green-300</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#ACE12E</text></g></g><g transform="translate(0.0 132.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#92D300"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">light—green-400</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#92D400</text></g></g><g transform="translate(0.0 176.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#6BA100"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—green-500</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#6CA100</text></g></g><g transform="translate(0.0 220.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#486B00"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—green-600</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#486B00</text></g></g><g transform="translate(0.0 264.0)"><g clip-path="url(#i2)"><polygon points="0,0 211,0 211,44 0,44 0,0" stroke="none" fill="#253500"></polygon></g><g transform="translate(16.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">light—green-700</text></g><g transform="translate(134.0 12.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#253600</text></g></g></g><g transform="translate(39.0 1324.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#EDEDED"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#EDEDED</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#D2D2D2"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#D2D2D2</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#B8BBBE"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">black-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#B8BBBE</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#8A8D90"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8A8D90</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#737679"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#737679</text></g></g><g transform="translate(0.0 250.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#4F5255"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">black-600</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#4F5255</text></g></g></g><g transform="translate(271.0 1324.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#8BC1F7"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#8BC1F7</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#519DE9"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">blue-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#519DE9</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#0066CC</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#004A95"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#004B95</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#002F5D"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">blue-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#002F5D</text></g></g><g transform="translate(0.0 250.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="rgba(0, 102, 204, 0.4)"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Area opacity</text></g><g transform="translate(103.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#0066CC(40%)</text></g></g></g><g transform="translate(509.0 1324.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#A2D9D9"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#A2D9D9</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#73C5C5"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">cyan-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#73C5C5</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#009596"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#009596</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#005E60"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#005F60</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#003636"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">cyan-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#003737</text></g></g></g><g transform="translate(745.0 1324.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F9E0A2"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F9E0A2</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F6D173"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F6D173</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F3C144"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F4C145</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F0AB00"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F0AB00</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#C58C00"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">gold-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#C58C00</text></g></g></g><g transform="translate(39.0 1644.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#BDE2B9"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#BDE2B9</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#7CC674"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#7CC674</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#4CB13F"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">green-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#4CB140</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#38812F"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#38812F</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#22511D"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">green-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#23511E</text></g></g></g><g transform="translate(271.0 1644.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#F3B677"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#F4B678</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#EF9234"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#EF9234</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#EC7908"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">orange-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#EC7A08</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#C36100"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">orange-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#C46100</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#8F4700"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">orange-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8F4700</text></g></g></g><g transform="translate(510.0 1644.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#B2B0EA"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">purple-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">#B2B0EA</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#8381DD"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#8481DD</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#5752D1"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#5752D1</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#3B3C99"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#3C3D99</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#2A265E"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">purple-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#2A265F</text></g></g></g><g transform="translate(745.0 1644.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#C9190A"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-100</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#C9190B</text></g><g transform="translate(0.0 50.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#A30000"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-200</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#A30000</text></g></g><g transform="translate(0.0 100.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#7C0F06"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-300</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#7D1007</text></g></g><g transform="translate(0.0 150.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#470000"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-400</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#470000</text></g></g><g transform="translate(0.0 200.0)"><g clip-path="url(#i1)"><polygon points="0,0 214,0 214,50 0,50 0,0" stroke="none" fill="#2B0000"></polygon></g><g transform="translate(17.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">red-500</text></g><g transform="translate(135.0 15.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#FEFFFE" text-anchor="left" line-spacing="21.0">#2C0000</text></g></g></g><g transform="translate(39.0 1227.0)"><text transform="translate(-3.3120000000000003 31.559764862060547)" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48.0" font-weight="500" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Charts color palette</text></g><g transform="translate(39.0 1969.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Donut chart</text><g transform="translate(110.0 117.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#0066CC" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 117.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#004A95" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 117.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#002F5D" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 117.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#519DE9" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 117.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#8BC1F7" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(162.0 62.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#8A8D90" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(212.0 62.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#737679" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(262.0 62.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#4F5255" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 62.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#B8BBBE" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 62.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#D2D2D2" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 64.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#EDEDED" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 447.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#C9190A" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 445.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#A30000" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 445.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#7C0F06" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(162.0 445.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#470000" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(212.0 445.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#2B0000" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 172.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#009596" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 172.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#005E60" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 172.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#003636" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 172.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#73C5C5" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 172.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#A2D9D9" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 227.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#F3C144" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 227.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#F0AB00" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 227.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#C58C00" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 227.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#F6D173" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 227.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#F9E0A2" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 282.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#4CB13F" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 282.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#38812F" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 282.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#22511D" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 282.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#7CC674" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 282.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#BDE2B9" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 337.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#EC7908" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 337.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#C36100" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 337.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#8F4700" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 337.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#EF9234" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 337.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#F3B677" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(110.0 392.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#5752D1" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(161.0 392.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#3B3C99" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(211.0 392.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#2A265E" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(56.0 392.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#8381DD" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(0.0 392.0)"><path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" stroke="#B2B0EA" stroke-width="8" fill="none" stroke-miterlimit="10"></path></g></g><g transform="translate(517.0 1969.0)"><text transform="translate(-2.412 26.691783905029297)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Line chart</text><g transform="translate(63.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#EDEDED" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#BBBBBB" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#8B8D8F" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#71767B" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(295.0 76.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#4D5258" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 132.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#8BC1F7" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 132.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#519DE9" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 133.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#004A95" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 133.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 134.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#002F5D" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 355.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#F3B677" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 355.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#EF9234" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 355.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#EC7908" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 355.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#C36100" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 355.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#8F4700" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 244.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#F9E0A2" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 244.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#F6D173" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 244.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#F3C144" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 244.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#F0AB00" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 244.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#C58C00" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 300.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#BDE2B9" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 300.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#7CC674" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 300.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#4CB13F" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 300.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#38812F" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 300.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#22511D" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 188.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#A2D9D9" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 188.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#73C5C5" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 188.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#009596" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 188.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#005E60" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 188.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#003636" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 411.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#B2B0EA" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(5.0 464.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#C9190A" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 464.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#A30000" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 464.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#7C0F06" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 464.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#470000" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 464.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#2B0000" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(63.0 411.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#8381DD" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(121.0 411.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#5752D1" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(179.0 411.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#3B3C99" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g><g transform="translate(237.0 411.0)"><polygon points="0,0 40,0 40,40 0,40 0,0 0,0" stroke="#2A265E" stroke-width="2" fill="none" stroke-miterlimit="10"></polygon></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1217px" height="2773px" viewBox="0 0 1217 2773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-palettes">
+            <rect fill="#FFFFFF" x="0" y="0" width="1217" height="2773"></rect>
+            <g id="Comment" transform="translate(268.000000, 914.000000)">
+                <rect id="Comment-Pink" fill="#FF00FF" x="0" y="0" width="214" height="50"></rect>
+                <text font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                    <tspan x="17" y="29">Comment</tspan>
+                </text>
+                <text id="#FF00FF" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                    <tspan x="135" y="29">#FF00FF</tspan>
+                </text>
+            </g>
+            <text font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48" font-weight="500" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="39" y="116">Color palettes</tspan>
+            </text>
+            <g id="Grey-family" transform="translate(39.000000, 168.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="211" height="44"></rect>
+                    <text id="white" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">white</tspan>
+                    </text>
+                    <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#FFFFFF</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#FAFAFA" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-100</tspan>
+                    </text>
+                    <text id="#fafafa" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#FAFAFA</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#F5F5F5" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-150" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-150</tspan>
+                    </text>
+                    <text id="#f5f5f5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F5F5F5</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-200</tspan>
+                    </text>
+                    <text id="#f0f0f0" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F0F0F0</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-300</tspan>
+                    </text>
+                    <text id="#d2d2d2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#D2D2D2</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#B8BBBE" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-400</tspan>
+                    </text>
+                    <text id="#b8bbbe" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#B8BBBE</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#8A8D90" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">black-500</tspan>
+                    </text>
+                    <text id="#8a8d90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#8A8D90</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#6A6E73" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-600</tspan>
+                    </text>
+                    <text id="#6a6e73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#6A6E73</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 352.000000)">
+                    <rect id="Rectangle" fill="#4F5255" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-700</tspan>
+                    </text>
+                    <text id="#4f5255" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#4F5255</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 396.000000)">
+                    <rect id="Rectangle" fill="#3C3F42" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-800" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-800</tspan>
+                    </text>
+                    <text id="#3c3f42" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#3C3F42</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 440.000000)">
+                    <rect id="Rectangle" fill="#212427" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-850" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-850</tspan>
+                    </text>
+                    <text id="#212437" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#212437</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 484.000000)">
+                    <rect id="Rectangle" fill="#151515" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-900" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-900</tspan>
+                    </text>
+                    <text id="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#151515</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 528.000000)">
+                    <rect id="Rectangle" fill="#030303" x="0" y="0" width="211" height="44"></rect>
+                    <text id="black-1000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">black-1000</tspan>
+                    </text>
+                    <text id="#030303" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#030303</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Blue-family" transform="translate(272.000000, 164.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#E7F1FA" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">blue-50</tspan>
+                    </text>
+                    <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#E7F1FA</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#BEE1F4" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">blue-100</tspan>
+                    </text>
+                    <text id="#fafafa" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#FAFAFA</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#73BCF7" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">blue-200</tspan>
+                    </text>
+                    <text id="#f5f5f5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F5F5F5</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#2B9AF3" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">blue-300</tspan>
+                    </text>
+                    <text id="#2B9AF3" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#2B9AF3</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">blue-400</tspan>
+                    </text>
+                    <text id="#0066CC" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#0066CC</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#004080" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">blue-500</tspan>
+                    </text>
+                    <text id="#004080" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#004080</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#002952" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">blue-600</tspan>
+                    </text>
+                    <text id="#002952" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#002952</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#001223" x="0" y="0" width="211" height="44"></rect>
+                    <text id="blue-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">blue-700</tspan>
+                    </text>
+                    <text id="#001223" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#001223</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Green-family" transform="translate(737.000000, 169.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#F3FAF2" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">green-50</tspan>
+                    </text>
+                    <text id="#F3FAF2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F3FAF2</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#BDE5B8" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">green-100</tspan>
+                    </text>
+                    <text id="#BDE5B8" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#BDE5B8</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#95D58E" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">green-200</tspan>
+                    </text>
+                    <text id="#95D58E" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#95D58E</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#6EC664" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">green-300</tspan>
+                    </text>
+                    <text id="#6EC664" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#6EC664</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#5BA352" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">green-400</tspan>
+                    </text>
+                    <text id="#5BA352" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#5BA352</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#3E8635" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">green-500</tspan>
+                    </text>
+                    <text id="#3E8635" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#3E8635</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#1E4F18" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">green-600</tspan>
+                    </text>
+                    <text id="#1E4F18" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#1E4F18</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#0F280D" x="0" y="0" width="211" height="44"></rect>
+                    <text id="green-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">green-700</tspan>
+                    </text>
+                    <text id="#0F280D" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#0F280D</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Cyan-family" transform="translate(504.000000, 163.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#F2F9F9" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">cyan-50</tspan>
+                    </text>
+                    <text id="#F2F9F9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F2F9F9</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#A2D9D9" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">cyan-100</tspan>
+                    </text>
+                    <text id="#A2D9D9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#A2D9D9</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#73C5C5" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">cyan-200</tspan>
+                    </text>
+                    <text id="#73C5C5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#73C5C5</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#009596" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">cyan-300</tspan>
+                    </text>
+                    <text id="#009596" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#009596</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#005F60" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">cyan-400</tspan>
+                    </text>
+                    <text id="#005F60" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#005F60</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#003737" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">cyan-500</tspan>
+                    </text>
+                    <text id="#003737" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#003737</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#003D44" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">cyan-600</tspan>
+                    </text>
+                    <text id="#003D44" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#003D44</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#001F22" x="0" y="0" width="211" height="44"></rect>
+                    <text id="cyan-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">cyan-700</tspan>
+                    </text>
+                    <text id="#001F22" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#001F22</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Purple-family" transform="translate(271.000000, 539.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#F2F0FC" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">purple-50</tspan>
+                    </text>
+                    <text id="#F2F0FC" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F2F0FC</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#CBC1FF" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">purple-100</tspan>
+                    </text>
+                    <text id="#CBC1FF" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#CBC1FF</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#B2A3FF" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">purple-200</tspan>
+                    </text>
+                    <text id="#B2A3FF" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#B2A3FF</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#A18FFF" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">purple-300</tspan>
+                    </text>
+                    <text id="#A18FFF" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#A18FFF</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#8476D1" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">purple-400</tspan>
+                    </text>
+                    <text id="#8476D1" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#8476D1</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#6753AC" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">purple-500</tspan>
+                    </text>
+                    <text id="#6753AC" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#6753AC</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#40199A" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">purple-600</tspan>
+                    </text>
+                    <text id="#40199A" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#40199A</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#1F0066" x="0" y="0" width="211" height="44"></rect>
+                    <text id="purple-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">purple-700</tspan>
+                    </text>
+                    <text id="#1F0066" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#1F0066</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Gold-family" transform="translate(979.000000, 171.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#FDF7E7" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-50</tspan>
+                    </text>
+                    <text id="#FDF7E7" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#FDF7E7</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#F9E0A2" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-100</tspan>
+                    </text>
+                    <text id="#F9E0A2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F9E0A2</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#F6D173" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-200</tspan>
+                    </text>
+                    <text id="#F6D173" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F6D173</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#F4C145" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-300</tspan>
+                    </text>
+                    <text id="#F4C145" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F4C145</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#F0AB00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-400</tspan>
+                    </text>
+                    <text id="#F0AB00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F0AB00</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#C58C00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">gold-500</tspan>
+                    </text>
+                    <text id="#C58C00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#C58C00</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#795600" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">gold-600</tspan>
+                    </text>
+                    <text id="#795600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#795600</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 308.000000)">
+                    <rect id="Rectangle" fill="#3D2C00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="gold-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">gold-700</tspan>
+                    </text>
+                    <text id="#3D2C00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#3D2C00</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Orange-family" transform="translate(976.000000, 544.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#F4B678" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">orange-100</tspan>
+                    </text>
+                    <text id="#F4B678" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#F4B678</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#EF9234" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">orange-200</tspan>
+                    </text>
+                    <text id="#EF9234" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#EF9234</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#EC7A08" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">orange-300</tspan>
+                    </text>
+                    <text id="#EC7A08" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#EC7A08</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#C46100" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">orange-400</tspan>
+                    </text>
+                    <text id="#C46100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#C46100</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#8F4700" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">orange-500</tspan>
+                    </text>
+                    <text id="#8F4700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#8F4700</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#773D00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">orange-600</tspan>
+                    </text>
+                    <text id="#773D00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#773D00</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#3B1F00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="orange-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">orange-700</tspan>
+                    </text>
+                    <text id="#3B1F00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#3B1F00</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Red-family" transform="translate(39.000000, 759.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#FAEAE8" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">red-50</tspan>
+                    </text>
+                    <text id="#FAEAE8" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#FAEAE8</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#C9190B" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">red-100</tspan>
+                    </text>
+                    <text id="#C9190B" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#C9190B</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#A30000" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">red-200</tspan>
+                    </text>
+                    <text id="#A30000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#A30000</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#7D1007" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">red-300</tspan>
+                    </text>
+                    <text id="#7D1007" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#7D1007</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#470000" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">red-400</tspan>
+                    </text>
+                    <text id="#470000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#470000</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#2C0000" x="0" y="0" width="211" height="44"></rect>
+                    <text id="red-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">red-500</tspan>
+                    </text>
+                    <text id="#2C0000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#2C0000</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Light-blue-family" transform="translate(506.000000, 544.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#BEEDF9" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—blue-100</tspan>
+                    </text>
+                    <text id="#BEEDF9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#BEEDF9</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#7CDBF3" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—blue-200</tspan>
+                    </text>
+                    <text id="#7CDBF3" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#7CDBF3</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#35CAED" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—blue-300</tspan>
+                    </text>
+                    <text id="#35CAED" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#35CAED</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#00B9E4" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—blue-400</tspan>
+                    </text>
+                    <text id="#00B9E4" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#00B9E4</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#008BAD" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—blue-500</tspan>
+                    </text>
+                    <text id="#008BAD" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#008BAD</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#005C73" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—blue-600</tspan>
+                    </text>
+                    <text id="#005C73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#005C73</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#002D39" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—blue-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—blue-700</tspan>
+                    </text>
+                    <text id="#002D39" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#002D39</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Light-green-family" transform="translate(741.000000, 546.000000)">
+                <g id="White">
+                    <rect id="Rectangle" fill="#E4F5BC" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—green-100</tspan>
+                    </text>
+                    <text id="#E4F5BC" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#E4F5BC</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 44.000000)">
+                    <rect id="Rectangle" fill="#C8EB79" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—green-200</tspan>
+                    </text>
+                    <text id="#C8EB79" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#C8EB79</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 88.000000)">
+                    <rect id="Rectangle" fill="#ACE12E" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—green-300</tspan>
+                    </text>
+                    <text id="#ACE12E" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#ACE12E</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle" fill="#92D400" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="16" y="26">light—green-400</tspan>
+                    </text>
+                    <text id="#92D400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="134" y="26">#92D400</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 176.000000)">
+                    <rect id="Rectangle" fill="#6CA100" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—green-500</tspan>
+                    </text>
+                    <text id="#6CA100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#6CA100</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 220.000000)">
+                    <rect id="Rectangle" fill="#486B00" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—green-600</tspan>
+                    </text>
+                    <text id="#486B00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#486B00</tspan>
+                    </text>
+                </g>
+                <g id="White" transform="translate(0.000000, 264.000000)">
+                    <rect id="Rectangle" fill="#253600" x="0" y="0" width="211" height="44"></rect>
+                    <text id="light—green-700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="16" y="26">light—green-700</tspan>
+                    </text>
+                    <text id="#253600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="134" y="26">#253600</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Grey" transform="translate(39.000000, 1324.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#EDEDED" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">black-100</tspan>
+                    </text>
+                    <text id="#EDEDED" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#EDEDED</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#D2D2D2" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">black-200</tspan>
+                    </text>
+                    <text id="#D2D2D2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#D2D2D2</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#B8BBBE" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">black-300</tspan>
+                    </text>
+                    <text id="#B8BBBE" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#B8BBBE</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#8A8D90" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">black-400</tspan>
+                    </text>
+                    <text id="#8A8D90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#8A8D90</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#737679" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">black-500</tspan>
+                    </text>
+                    <text id="#737679" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#737679</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 250.000000)">
+                    <rect id="Comment-Pink" fill="#4F5255" x="0" y="0" width="214" height="50"></rect>
+                    <text id="black-600" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">black-600</tspan>
+                    </text>
+                    <text id="#4F5255" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#4F5255</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Blue" transform="translate(271.000000, 1324.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#8BC1F7" x="0" y="0" width="214" height="50"></rect>
+                    <text id="blue-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">blue-100</tspan>
+                    </text>
+                    <text id="#8BC1F7" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#8BC1F7</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#519DE9" x="0" y="0" width="214" height="50"></rect>
+                    <text id="blue-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">blue-200</tspan>
+                    </text>
+                    <text id="#519DE9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#519DE9</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#0066CC" x="0" y="0" width="214" height="50"></rect>
+                    <text id="blue-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">blue-300</tspan>
+                    </text>
+                    <text id="#0066CC" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#0066CC</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#004B95" x="0" y="0" width="214" height="50"></rect>
+                    <text id="blue-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">blue-400</tspan>
+                    </text>
+                    <text id="#004B95" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#004B95</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#002F5D" x="0" y="0" width="214" height="50"></rect>
+                    <text id="blue-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">blue-500</tspan>
+                    </text>
+                    <text id="#002F5D" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#002F5D</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 250.000000)">
+                    <rect id="Comment-Pink" fill-opacity="0.4" fill="#0066CC" x="0" y="0" width="214" height="50"></rect>
+                    <text id="Area-opacity" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">Area opacity</tspan>
+                    </text>
+                    <text id="#0066CC(40%)" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="103" y="29">#0066CC(40%)</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Cyan" transform="translate(509.000000, 1324.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#A2D9D9" x="0" y="0" width="214" height="50"></rect>
+                    <text id="cyan-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">cyan-100</tspan>
+                    </text>
+                    <text id="#A2D9D9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#A2D9D9</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#73C5C5" x="0" y="0" width="214" height="50"></rect>
+                    <text id="cyan-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">cyan-200</tspan>
+                    </text>
+                    <text id="#73C5C5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#73C5C5</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#009596" x="0" y="0" width="214" height="50"></rect>
+                    <text id="cyan-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">cyan-300</tspan>
+                    </text>
+                    <text id="#009596" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#009596</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#005F60" x="0" y="0" width="214" height="50"></rect>
+                    <text id="cyan-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">cyan-400</tspan>
+                    </text>
+                    <text id="#005F60" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#005F60</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#003737" x="0" y="0" width="214" height="50"></rect>
+                    <text id="cyan-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">cyan-500</tspan>
+                    </text>
+                    <text id="#003737" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#003737</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Gold" transform="translate(745.000000, 1324.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#F9E0A2" x="0" y="0" width="214" height="50"></rect>
+                    <text id="gold-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">gold-100</tspan>
+                    </text>
+                    <text id="#F9E0A2" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F9E0A2</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#F6D173" x="0" y="0" width="214" height="50"></rect>
+                    <text id="gold-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">gold-200</tspan>
+                    </text>
+                    <text id="#F6D173" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F6D173</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#F4C145" x="0" y="0" width="214" height="50"></rect>
+                    <text id="gold-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">gold-300</tspan>
+                    </text>
+                    <text id="#F4C145" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F4C145</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#F0AB00" x="0" y="0" width="214" height="50"></rect>
+                    <text id="gold-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">gold-400</tspan>
+                    </text>
+                    <text id="#F0AB00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F0AB00</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#C58C00" x="0" y="0" width="214" height="50"></rect>
+                    <text id="gold-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">gold-500</tspan>
+                    </text>
+                    <text id="#C58C00" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#C58C00</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Green" transform="translate(39.000000, 1644.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#BDE2B9" x="0" y="0" width="214" height="50"></rect>
+                    <text id="green-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">green-100</tspan>
+                    </text>
+                    <text id="#BDE2B9" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#BDE2B9</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#7CC674" x="0" y="0" width="214" height="50"></rect>
+                    <text id="green-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">green-200</tspan>
+                    </text>
+                    <text id="#7CC674" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#7CC674</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#4CB140" x="0" y="0" width="214" height="50"></rect>
+                    <text id="green-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">green-300</tspan>
+                    </text>
+                    <text id="#4CB140" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#4CB140</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#38812F" x="0" y="0" width="214" height="50"></rect>
+                    <text id="green-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">green-400</tspan>
+                    </text>
+                    <text id="#38812F" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#38812F</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#23511E" x="0" y="0" width="214" height="50"></rect>
+                    <text id="green-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">green-500</tspan>
+                    </text>
+                    <text id="#23511E" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#23511E</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Orange" transform="translate(271.000000, 1644.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#F4B678" x="0" y="0" width="214" height="50"></rect>
+                    <text id="orange-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">orange-100</tspan>
+                    </text>
+                    <text id="#F4B678" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F4B678</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#EF9234" x="0" y="0" width="214" height="50"></rect>
+                    <text id="orange-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">orange-200</tspan>
+                    </text>
+                    <text id="#EF9234" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#EF9234</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#EC7A08" x="0" y="0" width="214" height="50"></rect>
+                    <text id="orange-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">orange-300</tspan>
+                    </text>
+                    <text id="#EC7A08" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#EC7A08</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#C46100" x="0" y="0" width="214" height="50"></rect>
+                    <text id="orange-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">orange-400</tspan>
+                    </text>
+                    <text id="#C46100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#C46100</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#8F4700" x="0" y="0" width="214" height="50"></rect>
+                    <text id="orange-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">orange-500</tspan>
+                    </text>
+                    <text id="#8F4700" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#8F4700</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Purple" transform="translate(510.000000, 1644.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#B2B0EA" x="0" y="0" width="214" height="50"></rect>
+                    <text id="purple-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="17" y="29">purple-100</tspan>
+                    </text>
+                    <text id="#B2B0EA" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#B2B0EA</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#8481DD" x="0" y="0" width="214" height="50"></rect>
+                    <text id="purple-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">purple-200</tspan>
+                    </text>
+                    <text id="#8481DD" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#8481DD</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#5752D1" x="0" y="0" width="214" height="50"></rect>
+                    <text id="purple-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">purple-300</tspan>
+                    </text>
+                    <text id="#5752D1" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#5752D1</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#3C3D99" x="0" y="0" width="214" height="50"></rect>
+                    <text id="purple-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">purple-400</tspan>
+                    </text>
+                    <text id="#3C3D99" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#3C3D99</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#2A265F" x="0" y="0" width="214" height="50"></rect>
+                    <text id="purple-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">purple-500</tspan>
+                    </text>
+                    <text id="#2A265F" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#2A265F</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Red" transform="translate(745.000000, 1644.000000)">
+                <g id="Comment">
+                    <rect id="Comment-Pink" fill="#C9190B" x="0" y="0" width="214" height="50"></rect>
+                    <text id="red-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">red-100</tspan>
+                    </text>
+                    <text id="#C9190B" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#C9190B</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 50.000000)">
+                    <rect id="Comment-Pink" fill="#A30000" x="0" y="0" width="214" height="50"></rect>
+                    <text id="red-200" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">red-200</tspan>
+                    </text>
+                    <text id="#A30000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#A30000</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 100.000000)">
+                    <rect id="Comment-Pink" fill="#7D1007" x="0" y="0" width="214" height="50"></rect>
+                    <text id="red-300" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">red-300</tspan>
+                    </text>
+                    <text id="#7D1007" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#7D1007</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 150.000000)">
+                    <rect id="Comment-Pink" fill="#470000" x="0" y="0" width="214" height="50"></rect>
+                    <text id="red-400" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">red-400</tspan>
+                    </text>
+                    <text id="#470000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#470000</tspan>
+                    </text>
+                </g>
+                <g id="Comment" transform="translate(0.000000, 200.000000)">
+                    <rect id="Comment-Pink" fill="#2C0000" x="0" y="0" width="214" height="50"></rect>
+                    <text id="red-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="17" y="29">red-500</tspan>
+                    </text>
+                    <text id="#2C0000" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#2C0000</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Charts-color-palette" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48" font-weight="500" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="39" y="1276">Charts color palette</tspan>
+            </text>
+            <g id="Donut" transform="translate(39.000000, 1969.000000)">
+                <text id="Donut-chart" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="0" y="37">Donut chart</tspan>
+                </text>
+                <circle id="pf-blue-400" stroke="#0066CC" stroke-width="8" cx="130" cy="137" r="20"></circle>
+                <circle id="pf-chart-color-blue-400" stroke="#004B95" stroke-width="8" cx="181" cy="137" r="20"></circle>
+                <circle id="pf-chart-color-blue-500" stroke="#002F5D" stroke-width="8" cx="231" cy="137" r="20"></circle>
+                <circle id="pf-chart-color-blue-200" stroke="#519DE9" stroke-width="8" cx="76" cy="137" r="20"></circle>
+                <circle id="pf-chart-color-blue-100" stroke="#8BC1F7" stroke-width="8" cx="20" cy="137" r="20"></circle>
+                <circle id="pf-black-500" stroke="#8A8D90" stroke-width="8" cx="182" cy="82" r="20"></circle>
+                <circle id="pf-black-600" stroke="#737679" stroke-width="8" cx="232" cy="82" r="20"></circle>
+                <circle id="pf-black-700" stroke="#4F5255" stroke-width="8" cx="282" cy="82" r="20"></circle>
+                <circle id="pf-black-400" stroke="#B8BBBE" stroke-width="8" cx="130" cy="82" r="20"></circle>
+                <circle id="pf-black-300" stroke="#D2D2D2" stroke-width="8" cx="76" cy="82" r="20"></circle>
+                <circle id="pf-black-200" stroke="#EDEDED" stroke-width="8" cx="20" cy="84" r="20"></circle>
+                <circle id="pf-red-100" stroke="#C9190B" stroke-width="8" cx="20" cy="467" r="20"></circle>
+                <circle id="pf-red-200" stroke="#A30000" stroke-width="8" cx="76" cy="465" r="20"></circle>
+                <circle id="pf-red-300" stroke="#7D1007" stroke-width="8" cx="130" cy="465" r="20"></circle>
+                <circle id="pf-red-400" stroke="#470000" stroke-width="8" cx="182" cy="465" r="20"></circle>
+                <circle id="pf-red-500" stroke="#2C0000" stroke-width="8" cx="232" cy="465" r="20"></circle>
+                <circle id="pf-chart-color-cyan-300" stroke="#009596" stroke-width="8" cx="130" cy="192" r="20"></circle>
+                <circle id="pf-chart-color-cyan-400" stroke="#005F60" stroke-width="8" cx="181" cy="192" r="20"></circle>
+                <circle id="pf-chart-color-cyan-500" stroke="#003737" stroke-width="8" cx="231" cy="192" r="20"></circle>
+                <circle id="pf-chart-color-cyan-200" stroke="#73C5C5" stroke-width="8" cx="76" cy="192" r="20"></circle>
+                <circle id="pf-chart-color-cyan-100" stroke="#A2D9D9" stroke-width="8" cx="20" cy="192" r="20"></circle>
+                <circle id="pf-gold-300" stroke="#F4C145" stroke-width="8" cx="130" cy="247" r="20"></circle>
+                <circle id="pf-gold-400" stroke="#F0AB00" stroke-width="8" cx="181" cy="247" r="20"></circle>
+                <circle id="pf-gold-500" stroke="#C58C00" stroke-width="8" cx="231" cy="247" r="20"></circle>
+                <circle id="pf-gold-200" stroke="#F6D173" stroke-width="8" cx="76" cy="247" r="20"></circle>
+                <circle id="pf-gold-100" stroke="#F9E0A2" stroke-width="8" cx="20" cy="247" r="20"></circle>
+                <circle id="pf-chart-color-green-300" stroke="#4CB140" stroke-width="8" cx="130" cy="302" r="20"></circle>
+                <circle id="pf-chart-color-green-400" stroke="#38812F" stroke-width="8" cx="181" cy="302" r="20"></circle>
+                <circle id="pf-chart-color-green-500" stroke="#23511E" stroke-width="8" cx="231" cy="302" r="20"></circle>
+                <circle id="pf-chart-color-green-200" stroke="#7CC674" stroke-width="8" cx="76" cy="302" r="20"></circle>
+                <circle id="pf-chart-color-green-100" stroke="#BDE2B9" stroke-width="8" cx="20" cy="302" r="20"></circle>
+                <circle id="pf-orange-300" stroke="#EC7A08" stroke-width="8" cx="130" cy="357" r="20"></circle>
+                <circle id="pf-orange-400" stroke="#C46100" stroke-width="8" cx="181" cy="357" r="20"></circle>
+                <circle id="pf-orange-500" stroke="#8F4700" stroke-width="8" cx="231" cy="357" r="20"></circle>
+                <circle id="pf-orange-200" stroke="#EF9234" stroke-width="8" cx="76" cy="357" r="20"></circle>
+                <circle id="pf-orange-100" stroke="#F4B678" stroke-width="8" cx="20" cy="357" r="20"></circle>
+                <circle id="pf-chart-color-purple-300" stroke="#5752D1" stroke-width="8" cx="130" cy="412" r="20"></circle>
+                <circle id="pf-chart-color-purple-400" stroke="#3C3D99" stroke-width="8" cx="181" cy="412" r="20"></circle>
+                <circle id="pf-chart-color-purple-500" stroke="#2A265F" stroke-width="8" cx="231" cy="412" r="20"></circle>
+                <circle id="pf-chart-color-purple-200" stroke="#8481DD" stroke-width="8" cx="76" cy="412" r="20"></circle>
+                <circle id="pf-chart-color-purple-100" stroke="#B2B0EA" stroke-width="8" cx="20" cy="412" r="20"></circle>
+            </g>
+            <g id="Line" transform="translate(517.000000, 1969.000000)">
+                <text id="Line-chart" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="36" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                    <tspan x="0" y="37">Line chart</tspan>
+                </text>
+                <rect id="pf-black-300" stroke="#D2D2D2" stroke-width="2" x="63" y="76" width="40" height="40"></rect>
+                <rect id="pf-black-200" stroke="#EDEDED" stroke-width="2" x="5" y="76" width="40" height="40"></rect>
+                <rect id="pf-black-400" stroke="#BBBBBB" stroke-width="2" x="121" y="76" width="40" height="40"></rect>
+                <rect id="pf-black-500" stroke="#8B8D8F" stroke-width="2" x="179" y="76" width="40" height="40"></rect>
+                <rect id="pf-black-600" stroke="#72767B" stroke-width="2" x="237" y="76" width="40" height="40"></rect>
+                <rect id="pf-black-700" stroke="#4D5258" stroke-width="2" x="295" y="76" width="40" height="40"></rect>
+                <rect id="pf-chart-color-blue-100" stroke="#8BC1F7" stroke-width="2" x="5" y="132" width="40" height="40"></rect>
+                <rect id="pf-chart-color-blue-200" stroke="#519DE9" stroke-width="2" x="63" y="132" width="40" height="40"></rect>
+                <rect id="pf-chart-color-blue-400" stroke="#004B95" stroke-width="2" x="179" y="133" width="40" height="40"></rect>
+                <rect id="pf-blue-400" stroke="#0066CC" stroke-width="2" x="121" y="133" width="40" height="40"></rect>
+                <rect id="pf-chart-color-blue-500" stroke="#002F5D" stroke-width="2" x="237" y="134" width="40" height="40"></rect>
+                <rect id="pf-orange-100" stroke="#F4B678" stroke-width="2" x="5" y="355" width="40" height="40"></rect>
+                <rect id="pf-orange-200" stroke="#EF9234" stroke-width="2" x="63" y="355" width="40" height="40"></rect>
+                <rect id="pf-orange-300" stroke="#EC7A08" stroke-width="2" x="121" y="355" width="40" height="40"></rect>
+                <rect id="pf-orange-400" stroke="#C46100" stroke-width="2" x="179" y="355" width="40" height="40"></rect>
+                <rect id="pf-orange-500" stroke="#8F4700" stroke-width="2" x="237" y="355" width="40" height="40"></rect>
+                <rect id="pf-gold-100" stroke="#F9E0A2" stroke-width="2" x="5" y="244" width="40" height="40"></rect>
+                <rect id="pf-gold-200" stroke="#F6D173" stroke-width="2" x="63" y="244" width="40" height="40"></rect>
+                <rect id="pf-gold-300" stroke="#F4C145" stroke-width="2" x="121" y="244" width="40" height="40"></rect>
+                <rect id="pf-gold-400" stroke="#F0AB00" stroke-width="2" x="179" y="244" width="40" height="40"></rect>
+                <rect id="pf-gold-500" stroke="#C58C00" stroke-width="2" x="237" y="244" width="40" height="40"></rect>
+                <rect id="pf-chart-color-green-100" stroke="#BDE2B9" stroke-width="2" x="5" y="300" width="40" height="40"></rect>
+                <rect id="pf-chart-color-green-200" stroke="#7CC674" stroke-width="2" x="63" y="300" width="40" height="40"></rect>
+                <rect id="pf-chart-color-green-300" stroke="#4CB140" stroke-width="2" x="121" y="300" width="40" height="40"></rect>
+                <rect id="pf-chart-color-green-400" stroke="#38812F" stroke-width="2" x="179" y="300" width="40" height="40"></rect>
+                <rect id="pf-chart-color-green-500" stroke="#23511E" stroke-width="2" x="237" y="300" width="40" height="40"></rect>
+                <rect id="pf-chart-color-cyan-100" stroke="#A2D9D9" stroke-width="2" x="5" y="188" width="40" height="40"></rect>
+                <rect id="pf-chart-color-cyan-200" stroke="#73C5C5" stroke-width="2" x="63" y="188" width="40" height="40"></rect>
+                <rect id="pf-chart-color-cyan-300" stroke="#009596" stroke-width="2" x="121" y="188" width="40" height="40"></rect>
+                <rect id="pf-chart-color-cyan-400" stroke="#005F60" stroke-width="2" x="179" y="188" width="40" height="40"></rect>
+                <rect id="pf-chart-color-cyan-500" stroke="#003737" stroke-width="2" x="237" y="188" width="40" height="40"></rect>
+                <rect id="pf-chart-color-purple-100" stroke="#B2B0EA" stroke-width="2" x="5" y="411" width="40" height="40"></rect>
+                <rect id="pf-red-100" stroke="#C9190B" stroke-width="2" x="5" y="464" width="40" height="40"></rect>
+                <rect id="pf-red-200" stroke="#A30000" stroke-width="2" x="63" y="464" width="40" height="40"></rect>
+                <rect id="pf-red-300" stroke="#7D1007" stroke-width="2" x="121" y="464" width="40" height="40"></rect>
+                <rect id="pf-red-400" stroke="#470000" stroke-width="2" x="179" y="464" width="40" height="40"></rect>
+                <rect id="pf-red-500" stroke="#2C0000" stroke-width="2" x="237" y="464" width="40" height="40"></rect>
+                <rect id="pf-chart-color-purple-200" stroke="#8481DD" stroke-width="2" x="63" y="411" width="40" height="40"></rect>
+                <rect id="pf-chart-color-purple-300" stroke="#5752D1" stroke-width="2" x="121" y="411" width="40" height="40"></rect>
+                <rect id="pf-chart-color-purple-400" stroke="#3C3D99" stroke-width="2" x="179" y="411" width="40" height="40"></rect>
+                <rect id="pf-chart-color-purple-500" stroke="#2A265F" stroke-width="2" x="237" y="411" width="40" height="40"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

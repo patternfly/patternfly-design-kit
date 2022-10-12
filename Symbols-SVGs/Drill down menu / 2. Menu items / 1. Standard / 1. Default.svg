@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="83px" height="40px" viewBox="0 0 83.0 40.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M83,0 L83,40 L0,40 L0,0 L83,0 Z"></path></clipPath><clipPath id="i1"><path d="M16,0 L16,40 L0,40 L0,0 L16,0 Z"></path></clipPath><clipPath id="i2"><path d="M51,0 L51,8 L0,8 L0,0 L51,0 Z"></path></clipPath></defs><g transform=""><g clip-path="url(#i0)"><polygon points="0,0 83,0 83,40 0,40 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(16.0 8.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">Option</text></g><g transform=""><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,40 0,40 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,40 0,40 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(16.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 51,0 51,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 51,0 51,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 32.0)"><g clip-path="url(#i2)"><polygon points="0,0 51,0 51,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 51,0 51,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(67.0 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,40 0,40 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,40 0,40 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="40px" viewBox="0 0 83 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Drill-down-menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drill-down-menu-/-2.-Menu-items-/-1.-Standard-/-1.-Default">
+            <rect id="Background" fill="#FFFFFF" x="0" y="-3.55271368e-15" width="83" height="40"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="24">Option</tspan>
+            </text>
+            <g id="📐-Padding" transform="translate(0.000000, -0.000000)" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="50" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="50" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(67.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

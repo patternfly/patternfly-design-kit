@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="100px" height="100px" viewBox="0 0 100.0 100.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M50,0 C77.6142375,0 100,22.3857625 100,50 C100,77.6142375 77.6142375,100 50,100 C22.3857625,100 0,77.6142375 0,50 C0,22.3857625 22.3857625,0 50,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 100,0 100,100 0,100 0,0" stroke="none" fill="#F5F5F5"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Loaders" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Loaders-/-2.-Skeleton-/-2.-Circle-/-1.-Sm" fill="#F5F5F5">
+            <circle id="Oval" cx="50" cy="50" r="50"></circle>
+        </g>
+    </g>
+</svg>

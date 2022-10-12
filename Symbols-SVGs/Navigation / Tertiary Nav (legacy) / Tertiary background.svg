@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="493px" height="56px" viewBox="0 0 493.0 56.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M493,0 L493,56 L0,56 L0,0 L493,0 Z"></path></clipPath><clipPath id="i1"><path d="M24,0 L24,56 L0,56 L0,0 L24,0 Z"></path></clipPath><clipPath id="i2"><path d="M469,0 L469,8 L0,8 L0,0 L469,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 493,0 493,56 0,56 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(469.0 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 24,0 24,56 0,56 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 24,0 24,56 0,56 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i2)"><polygon points="0,0 469,0 469,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 469,0 469,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="493px" height="56px" viewBox="0 0 493 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-/-Tertiary-Nav-(legacy)-/-Tertiary-background">
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="493" height="56"></rect>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer--/--Horizontal--/--3.-pf-global--spacer--md-(16px)" transform="translate(469.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="55"></rect>
+                </g>
+                <g id="Spacer--/--Vertical--/--2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="468" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

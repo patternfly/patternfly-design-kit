@@ -1,1 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="114px" height="40px" viewBox="0 0 114.0 40.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M114,0 L114,40 L0,40 L0,0 L114,0 Z"></path></clipPath><clipPath id="i1"><path d="M5.59686343,0.417475048 C5.8734207,-0.142666133 6.66795921,-0.135639478 6.94218188,0.417475048 L8.4726424,3.5206018 L11.8968438,4.01981479 C12.5109094,4.1088725 12.7570026,4.86589736 12.3116912,5.29949008 L9.83434875,7.71354683 L10.4202849,11.1236949 C10.5257534,11.740118 9.87655446,12.1994828 9.33280118,11.9135414 L6.26952266,10.3033844 L3.20624413,11.9135414 C2.66249085,12.2018174 2.01329196,11.740118 2.11876046,11.1236949 L2.70469656,7.71354683 L0.22735414,5.29949008 C-0.217957298,4.86589736 0.0281358651,4.1088725 0.642201479,4.01981479 L4.06640291,3.5206018 Z"></path></clipPath><clipPath id="i2"><path d="M26,0 L26,28 L0,28 L0,0 L26,0 Z"></path></clipPath><clipPath id="i3"><path d="M56,0 L56,8 L0,8 L0,0 L56,0 Z"></path></clipPath><clipPath id="i4"><path d="M16,0 L16,40 L0,40 L0,0 L16,0 Z"></path></clipPath></defs><rect x="0px" y="0px" width="114px" height="40px" fill="#FFFFFF"></rect><g clip-path="url(#i0)"><polygon points="0,0 114,0 114,40 0,40 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(72.0 0.0)"><g transform="translate(8.0 6.0)"><g transform="translate(1.0 2.0)"><g transform="translate(6.0 5.999999999999999)"><g clip-path="url(#i1)"><polygon points="2.87547763e-14,4.39093206e-14 12.5390453,4.39093206e-14 12.5390453,12.0014464 2.87547763e-14,12.0014464 2.87547763e-14,4.39093206e-14" stroke="none" fill="#151515"></polygon><g transform="translate(-1.0 -2.0)"><g clip-path="url(#i2)"><polygon points="1,2 13.5390453,2 13.5390453,14.0014464 1,14.0014464 1,2" stroke="none" fill="#D2D2D2"></polygon></g></g></g></g></g></g></g><g transform="translate(16.0 8.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">Option</text></g><g transform="translate(16.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 56,0 56,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 56,0 56,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 32.0)"><g clip-path="url(#i3)"><polygon points="0,0 56,0 56,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 56,0 56,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i4)"><polygon points="0,0 16,0 16,40 0,40 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 16,0 16,40 0,40 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="40px" viewBox="0 0 114 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-3.-Menu-Item-/-11.-Favorites-/-Single-item-/-1.-Default">
+            <rect fill="#FFFFFF" x="0" y="0" width="114" height="40"></rect>
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="114" height="40"></rect>
+            <g id="Button-/-6.-Icon-button-/-Default" transform="translate(72.000000, 0.000000)">
+                <g id="🖼-Icon" transform="translate(15.000000, 14.000000)">
+                    <g fill="#151515" id="star">
+                        <path d="M3.20624413,11.9135414 L6.26952266,10.3033844 L9.33280118,11.9135414 C9.87655446,12.1994828 10.5257534,11.740118 10.4202849,11.1236949 L9.83434875,7.71354683 L12.3116912,5.29949008 C12.7570026,4.86589736 12.5109094,4.1088725 11.8968438,4.01981479 L8.4726424,3.5206018 L6.94218188,0.417475048 C6.66795921,-0.135639478 5.8734207,-0.142666133 5.59686343,0.417475048 L4.06640291,3.5206018 L0.642201479,4.01981479 C0.0281358651,4.1088725 -0.217957298,4.86589736 0.22735414,5.29949008 L2.70469656,7.71354683 L2.11876046,11.1236949 C2.01329196,11.740118 2.66249085,12.2018174 3.20624413,11.9135414 Z"></path>
+                    </g>
+                    <rect id="🎨-Color" fill="#D2D2D2" x="-7" y="-8" width="26" height="28"></rect>
+                </g>
+                <g id="📐-Padding" fill-opacity="0.9">
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                        <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16" y="24">Option</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="55" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="55" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

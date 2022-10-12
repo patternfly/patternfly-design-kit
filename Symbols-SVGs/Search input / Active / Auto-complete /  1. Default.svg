@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="284px" height="36px" viewBox="0 0 284.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M284,0 L284,36 L0,36 L0,0 L284,0 Z"></path></clipPath><clipPath id="i1"><path d="M0.737117917,0.215863667 C1.02516502,-0.0719545556 1.4918082,-0.0719545556 1.77960353,0.215863667 L4.12499589,2.56125602 L6.47038824,0.215863667 C6.75843535,-0.0719545556 7.22505563,-0.0719545556 7.51287386,0.215863667 L8.03412811,0.737117917 C8.32194633,1.02516502 8.32194633,1.4918082 8.03412811,1.77960353 L5.68873575,4.12499589 L8.03412811,6.47038824 C8.32194633,6.75843535 8.32194633,7.22505563 8.03412811,7.51287386 L7.51287386,8.03412811 C7.22505563,8.32194633 6.75818358,8.32194633 6.47038824,8.03412811 L4.12499589,5.68873575 L1.77960353,8.03412811 C1.4918082,8.32194633 1.02493614,8.32194633 0.737117917,8.03412811 L0.215863667,7.51287386 C-0.0719545556,7.22482675 -0.0719545556,6.75818358 0.215863667,6.47038824 L2.56125602,4.12499589 L0.215863667,1.77960353 C-0.0719545556,1.49155643 -0.0719545556,1.02493614 0.215863667,0.737117917 Z"></path></clipPath><clipPath id="i2"><path d="M6.4999845,0 C10.0906131,0 12.999969,2.90935586 12.999969,6.4999845 C12.999969,8.0093498 12.487458,9.3968587 11.6249723,10.499975 L12.13434,10.499975 C12.3343517,10.499975 12.524964,10.5780998 12.6655887,10.7187244 L15.7812124,13.8343481 C16.0718306,14.1280791 16.0718306,14.6030841 15.7780996,14.8968456 L14.8937023,15.7812124 C14.6030841,16.0749739 14.1280791,16.0749739 13.8343481,15.7812124 L10.7187244,12.6655887 C10.5780998,12.524964 10.499975,12.3343517 10.499975,12.13434 L10.499975,11.6249723 C9.3968587,12.487458 8.0093498,12.999969 6.4999845,12.999969 C2.90935586,12.999969 0,10.0906131 0,6.4999845 C0,2.90935586 2.90935586,0 6.4999845,0 Z M6.49999404,2.49999404 C4.28749588,2.49999404 2.49999404,4.29060867 2.49999404,6.49999404 C2.49999404,8.71247312 4.29060867,10.499975 6.49999404,10.499975 C8.71247312,10.499975 10.499975,8.70936034 10.499975,6.49999404 C10.499975,4.28749588 8.70936034,2.49999404 6.49999404,2.49999404 Z"></path></clipPath><clipPath id="i3"><path d="M8,0 L8,36 L0,36 L0,0 L8,0 Z"></path></clipPath><clipPath id="i4"><path d="M8,0 L8,24 L0,24 L0,0 L8,0 Z"></path></clipPath><clipPath id="i5"><path d="M278,0 L278,6 L0,6 L0,0 L278,0 Z"></path></clipPath><clipPath id="i6"><path d="M4,0 L4,24 L0,24 L0,0 L4,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 284,0 284,36 0,36 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(1.0 0.0)"><polygon points="0,0 0,36 -1,36 -1,0 0,0 0,0" stroke="none" fill="#EDEDED"></polygon></g><g transform="translate(-1.0 0.0)"><polygon points="285,0 285,36 284,36 284,0 285,0 285,0" stroke="none" fill="#EDEDED"></polygon></g><g transform="translate(0.0 1.0)"><polygon points="284,0 0,0 0,-1 284,-1 284,0 284,0" stroke="none" fill="#EDEDED"></polygon></g><g transform="translate(0.0 -2.0)"><polygon points="284,36 284,38 0,38 0,36 284,36 284,36" stroke="none" fill="#0066CC"></polygon></g></g><g transform="translate(252.0 6.0)"><g transform="translate(8.0 8.0)"><g clip-path="url(#i1)"><polygon points="0,0 8.24999177,0 8.24999177,8.24999177 0,8.24999177 0,0" stroke="none" fill="#696E73"></polygon></g></g></g><g transform="translate(8.0 6.0)"><g transform="translate(4.0 4.0)"><g clip-path="url(#i2)"><polygon points="0,0 15.9987885,0 15.9987885,16.0015335 0,16.0015335 0,0" stroke="none" fill="#151515"></polygon></g></g></g><g transform="translate(36.0 6.0)"><g transform="translate(32.029411764705884 3.0)"><path d="M0.485294118,0.5 L0.485294118,17.5" stroke="#000000" stroke-width="1" fill="none" stroke-linecap="square" stroke-miterlimit="10"></path></g><g transform="translate(-0.485294117647058 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">auto</text></g><g transform="translate(30.0 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="24.0">complete    </text></g></g><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,36 0,36 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,36 0,36 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(276.0 6.0)"><g clip-path="url(#i4)"><polygon points="0,0 8,0 8,24 0,24 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 8,0 8,24 0,24 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(6.0 29.999999999999996)"><g transform=""><g clip-path="url(#i5)"><polygon points="0,0 278,0 278,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i5)"><polygon points="0,0 278,0 278,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></g><g transform="translate(6.0 0.0)"><g clip-path="url(#i5)"><polygon points="0,0 278,0 278,6 0,6 0,0" stroke="none" fill="rgba(243, 213, 59, 0.9)"></polygon></g><g clip-path="url(#i5)"><polygon points="0,0 278,0 278,6 0,6 0,0 0,0" stroke="#CAB534" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(32.0 6.0)"><g clip-path="url(#i6)"><polygon points="0,0 4,0 4,24 0,24 0,0" stroke="none" fill="rgba(236, 121, 8, 0.9)"></polygon></g><g clip-path="url(#i6)"><polygon points="0,0 4,0 4,24 0,24 0,0 0,0" stroke="#C67000" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(248.0 6.0)"><g clip-path="url(#i6)"><polygon points="0,0 4,0 4,24 0,24 0,0" stroke="none" fill="rgba(236, 121, 8, 0.9)"></polygon></g><g clip-path="url(#i6)"><polygon points="0,0 4,0 4,24 0,24 0,0 0,0" stroke="#C67000" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="36px" viewBox="0 0 284 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="284" height="36"></rect>
+        <filter x="-0.4%" y="-2.8%" width="100.7%" height="105.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
+            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.929411765   0 0 0 0 0.929411765   0 0 0 0 0.929411765  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
+            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.4   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Search-input" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-input-/-Active-/-Auto-complete-/--1.-Default">
+            <g id="Background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Icons-/-2.-Size-sm-(12px)-/-times" transform="translate(260.000000, 14.000000)" fill="#6A6E73">
+                <path d="M1.77960353,8.03412811 L4.12499589,5.68873575 L6.47038824,8.03412811 C6.75818358,8.32194633 7.22505563,8.32194633 7.51287386,8.03412811 L8.03412811,7.51287386 C8.32194633,7.22505563 8.32194633,6.75843535 8.03412811,6.47038824 L5.68873575,4.12499589 L8.03412811,1.77960353 C8.32194633,1.4918082 8.32194633,1.02516502 8.03412811,0.737117917 L7.51287386,0.215863667 C7.22505563,-0.0719545556 6.75843535,-0.0719545556 6.47038824,0.215863667 L4.12499589,2.56125602 L1.77960353,0.215863667 C1.4918082,-0.0719545556 1.02516502,-0.0719545556 0.737117917,0.215863667 L0.215863667,0.737117917 C-0.0719545556,1.02493614 -0.0719545556,1.49155643 0.215863667,1.77960353 L2.56125602,4.12499589 L0.215863667,6.47038824 C-0.0719545556,6.75818358 -0.0719545556,7.22482675 0.215863667,7.51287386 L0.737117917,8.03412811 C1.02493614,8.32194633 1.4918082,8.32194633 1.77960353,8.03412811 Z" id="times"></path>
+            </g>
+            <g id="Icons-/-1.-Size-md-(16px)-/-Actions-/-search" transform="translate(12.000000, 10.000000)" fill="#151515">
+                <path d="M14.8937023,15.7812124 L15.7780996,14.8968456 C16.0718306,14.6030841 16.0718306,14.1280791 15.7812124,13.8343481 L12.6655887,10.7187244 C12.524964,10.5780998 12.3343517,10.499975 12.13434,10.499975 L11.6249723,10.499975 C12.487458,9.3968587 12.999969,8.0093498 12.999969,6.4999845 C12.999969,2.90935586 10.0906131,-1.77635684e-15 6.4999845,-1.77635684e-15 C2.90935586,-1.77635684e-15 -1.77635684e-15,2.90935586 -1.77635684e-15,6.4999845 C-1.77635684e-15,10.0906131 2.90935586,12.999969 6.4999845,12.999969 C8.0093498,12.999969 9.3968587,12.487458 10.499975,11.6249723 L10.499975,12.13434 C10.499975,12.3343517 10.5780998,12.524964 10.7187244,12.6655887 L13.8343481,15.7812124 C14.1280791,16.0749739 14.6030841,16.0749739 14.8937023,15.7812124 Z M6.49999404,10.499975 C4.29060867,10.499975 2.49999404,8.71247312 2.49999404,6.49999404 C2.49999404,4.29060867 4.28749588,2.49999404 6.49999404,2.49999404 C8.70936034,2.49999404 10.499975,4.28749588 10.499975,6.49999404 C10.499975,8.70936034 8.71247312,10.499975 6.49999404,10.499975 Z" id="search"></path>
+            </g>
+            <g id="auto-complete" transform="translate(36.000000, 6.000000)">
+                <g id="first-half">
+                    <line x1="32.5147059" y1="3.5" x2="32.5147059" y2="20.5" id="Line-2" stroke="#000000" stroke-linecap="square"></line>
+                    <text id="auto" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                        <tspan x="-0.485294118" y="16">auto</tspan>
+                    </text>
+                </g>
+                <text id="complete" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                    <tspan x="30" y="16">complete    </tspan>
+                </text>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer--/--Horizontal--/--2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                </g>
+                <g id="Spacer--/--Horizontal--/--2.-pf-global--spacer--sm-(8px)" transform="translate(276.000000, 6.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                </g>
+                <g id="Spacer--/--Vertical--/--8.-pf-global--spacer--form-element-(6px)" transform="translate(6.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="277" height="5"></rect>
+                </g>
+                <g id="Spacer--/--Vertical--/--8.-pf-global--spacer--form-element-(6px)" transform="translate(6.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="277" height="5"></rect>
+                </g>
+                <g id="Spacer--/--Horizontal--/--1.-pf-global--spacer--xs-(4px)" transform="translate(32.000000, 6.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="3" height="23"></rect>
+                </g>
+                <g id="Spacer--/--Horizontal--/--1.-pf-global--spacer--xs-(4px)" transform="translate(248.000000, 6.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="3" height="23"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

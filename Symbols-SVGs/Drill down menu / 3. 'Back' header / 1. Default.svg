@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="100px" height="56px" viewBox="0 0 100.0 56.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M100,0 L100,40 L0,40 L0,0 L100,0 Z"></path></clipPath><clipPath id="i1"><path d="M4.46992344,0.22032113 C4.76365443,-0.0734403767 5.2386594,-0.0734403767 5.5292776,0.22032113 L6.23554423,0.926557239 C6.52927522,1.22031875 6.52927522,1.69532372 6.23554423,1.98594192 L3.22618251,5.00155973 L6.23865701,8.01406476 C6.53241852,8.30779574 6.53241852,8.78280072 6.23865701,9.07341892 L5.5324209,9.78279833 C5.2386594,10.0765598 4.76365443,10.0765598 4.47303622,9.78279833 L0.223046355,5.53280846 C-0.0738279369,5.23904696 -0.0738279369,4.7640725 0.21993357,4.470311 Z"></path></clipPath><clipPath id="i2"><path d="M100,0 L100,1 L0,1 L0,0 L100,0 Z"></path></clipPath><clipPath id="i3"><path d="M16,0 L16,40 L0,40 L0,0 L16,0 Z"></path></clipPath><clipPath id="i4"><path d="M68,0 L68,8 L0,8 L0,0 L68,0 Z"></path></clipPath><clipPath id="i5"><path d="M100,0 L100,8 L0,8 L0,0 L100,0 Z"></path></clipPath><clipPath id="i6"><path d="M8,0 L8,24 L0,24 L0,0 L8,0 Z"></path></clipPath></defs><g transform="translate(0.0 7.9999999999999964)"><g clip-path="url(#i0)"><polygon points="0,0 100,0 100,40 0,40 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g><g transform="translate(48.0 16.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="24.0">Back</text></g><g transform="translate(16.0 16.0)"><g transform="translate(9.0 6.999999999999999)"><g clip-path="url(#i1)"><polygon points="4.22994972e-14,-2.77555756e-17 6.45897814,-2.77555756e-17 6.45897814,10.0031195 4.22994972e-14,10.0031195 4.22994972e-14,-2.77555756e-17" stroke="none" fill="#151515"></polygon></g></g></g><g transform="translate(0.0 55.0)"><g clip-path="url(#i2)"><polygon points="0,0 100,0 100,1 0,1 0,0" stroke="none" fill="#FFFFFF"></polygon><polygon points="0,0 100,0 100,1 0,1 0,0 0,0" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(0.0 8.0)"><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,40 0,40 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,40 0,40 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 8.0)"><g clip-path="url(#i4)"><polygon points="0,0 68,0 68,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 68,0 68,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i5)"><polygon points="0,0 100,0 100,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i5)"><polygon points="0,0 100,0 100,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(0.0 48.0)"><g clip-path="url(#i5)"><polygon points="0,0 100,0 100,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i5)"><polygon points="0,0 100,0 100,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(40.0 16.0)"><g clip-path="url(#i6)"><polygon points="0,0 8,0 8,24 0,24 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i6)"><polygon points="0,0 8,0 8,24 0,24 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 40.0)"><g clip-path="url(#i4)"><polygon points="0,0 68,0 68,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 68,0 68,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(84.0 8.0)"><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,40 0,40 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,40 0,40 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="56px" viewBox="0 0 100 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Drill-down-menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drill-down-menu-/-3.-'Back'-header-/-1.-Default">
+            <rect id="Background" fill="#FFFFFF" x="0" y="8" width="100" height="40"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="48" y="32">Back</tspan>
+            </text>
+            <g id="Icons/1.-Size-md-(16px)/Framework/angle-right" transform="translate(25.000000, 23.000000)" fill="#151515">
+                <path d="M5.5324209,9.78279833 L6.23865701,9.07341892 C6.53241852,8.78280072 6.53241852,8.30779574 6.23865701,8.01406476 L3.22618251,5.00155973 L6.23554423,1.98594192 C6.52927522,1.69532372 6.52927522,1.22031875 6.23554423,0.926557239 L5.5292776,0.22032113 C5.2386594,-0.0734403767 4.76365443,-0.0734403767 4.46992344,0.22032113 L0.21993357,4.470311 C-0.0738279369,4.7640725 -0.0738279369,5.23904696 0.223046355,5.53280846 L4.47303622,9.78279833 C4.76365443,10.0765598 5.2386594,10.0765598 5.5324209,9.78279833 Z" id="angle-left"></path>
+            </g>
+            <g id="Divider-/-Horizontal" transform="translate(0.000000, 55.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="99" height="1"></rect>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(0.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 8.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="67" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="99" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy-2" transform="translate(0.000000, 48.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="99" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(40.000000, 16.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 40.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="67" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(84.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="39"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

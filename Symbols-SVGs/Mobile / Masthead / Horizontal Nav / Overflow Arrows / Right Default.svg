@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="32px" height="40px" viewBox="0 0 32.0 40.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M32,0 L32,40 L0,40 L0,0 L32,0 Z"></path></clipPath><clipPath id="i1"><path d="M0.692566174,0.165240847 C0.912887304,-0.0550802825 1.26914103,-0.0550802825 1.48710469,0.165240847 L4.67459709,3.35273325 C4.8972528,3.57305438 4.8972528,3.92928522 4.67693167,4.14960635 L1.48943927,7.33709875 C1.26914103,7.55741988 0.912887304,7.55741988 0.694923651,7.33709875 L0.165223681,6.80742167 C-0.0550745605,6.58710054 -0.0550745605,6.23084681 0.165223681,6.01288316 L2.42460245,3.75350439 L0.165223681,1.49414851 C-0.0550745605,1.27382738 -0.0550745605,0.917573649 0.165223681,0.699609996 Z"></path></clipPath><clipPath id="i2"><path d="M24,0 L24,24 L0,24 L0,0 L24,0 Z"></path></clipPath><clipPath id="i3"><path d="M8,0 L8,40 L0,40 L0,0 L8,0 Z"></path></clipPath><clipPath id="i4"><path d="M1,0 L1,40 L0,40 L0,0 L1,0 Z"></path></clipPath></defs><rect x="0px" y="0px" width="32px" height="40px" fill="#202426"></rect><g clip-path="url(#i0)"><polygon points="0,0 32,0 32,40 0,40 0,0" stroke="none" fill="#202426"></polygon></g><g transform="translate(4.0 8.0)"><g transform="translate(10.0 8.0)"><g clip-path="url(#i1)"><polygon points="0,0 4.84188185,0 4.84188185,7.5023396 0,7.5023396 0,0" stroke="none" fill="#151515"></polygon><g clip-path="url(#i2)"><polygon points="0,0 4.84188185,0 4.84188185,7.5023396 0,7.5023396 0,0" stroke="none" fill="#FFFFFF"></polygon></g></g></g></g><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,40 0,40 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,40 0,40 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(24.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,40 0,40 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 8,0 8,40 0,40 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i4)"><polygon points="0,0 1,0 1,40 0,40 0,0" stroke="none" fill="#FFFFFF"></polygon><polygon points="0,0 1,0 1,40 0,40 0,0 0,0" stroke="#696E73" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="40px" viewBox="0 0 32 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-/-Masthead-/-Horizontal-Nav-/-Overflow-Arrows-/-Right-Default">
+            <rect fill="#212427" x="0" y="0" width="32" height="40"></rect>
+            <rect id="Background" fill="#212427" x="0" y="0" width="32" height="40"></rect>
+            <g id="Icons-/-Framework-/-angle-left" transform="translate(14.000000, 16.000000)">
+                <g id="🖼-Icon" fill="#151515">
+                    <path d="M1.48943927,7.33709875 L4.67693167,4.14960635 C4.8972528,3.92928522 4.8972528,3.57305438 4.67459709,3.35273325 L1.48710469,0.165240847 C1.26914103,-0.0550802825 0.912887304,-0.0550802825 0.692566174,0.165240847 L0.165223681,0.699609996 C-0.0550745605,0.917573649 -0.0550745605,1.27382738 0.165223681,1.49414851 L2.42460245,3.75350439 L0.165223681,6.01288316 C-0.0550745605,6.23084681 -0.0550745605,6.58710054 0.165223681,6.80742167 L0.694923651,7.33709875 C0.912887304,7.55741988 1.26914103,7.55741988 1.48943927,7.33709875 Z" id="angle-right"></path>
+                </g>
+                <rect id="🎨-Color" fill="#FFFFFF" x="-10" y="-8" width="24" height="24"></rect>
+            </g>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(24.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="39"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#6A6E73" fill="#FFFFFF" x="0.5" y="0.5" width="1" height="39"></rect>
+        </g>
+    </g>
+</svg>

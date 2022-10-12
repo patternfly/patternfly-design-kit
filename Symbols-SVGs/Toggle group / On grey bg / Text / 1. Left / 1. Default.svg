@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="113px" height="36px" viewBox="0 0 113.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M113,0 L113,36 L3,36 C1.34314575,36 4.64379822e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 L113,0 Z"></path></clipPath><clipPath id="i1"><path d="M1,0 L1,36 L0,36 L0,0 L1,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 113,0 113,36 0,36 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(16.0 8.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default - left</text></g><g transform="translate(112.0 -2.842170943040401e-14)"><g clip-path="url(#i1)"><polygon points="0,0 1,0 1,36 0,36 0,0" stroke="none" fill="#FFFFFF"></polygon><polygon points="0,0 1,0 1,36 0,36 0,0 0,0" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="36px" viewBox="0 0 113 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toggle-group-/-On-grey-bg-/-Text-/-1.-Left-/-1.-Default">
+            <path d="M3,0 L113,0 L113,0 L113,36 L3,36 C1.34314575,36 4.64379822e-15,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-5.83819232e-16 3,0 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+            <text id="Default---left" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="16" y="22">Default - left</tspan>
+            </text>
+            <g id="Divider-/-Vertical" transform="translate(112.000000, -0.000000)" fill="#FFFFFF" stroke="#D2D2D2">
+                <rect id="Divider" x="0.5" y="0.5" width="1" height="35"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
