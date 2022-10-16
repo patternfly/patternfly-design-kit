@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="32px" height="24px" viewBox="0 0 32.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M8,0 C12.418278,0 16,3.581722 16,8 C16,12.418278 12.418278,16 8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 Z"></path></clipPath></defs><g transform="translate(8.0 4.0)"><g clip-path="url(#i0)"><polygon points="0,0 16,0 16,16 0,16 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-/-5.-Radio-Button-/-3.-Disabled" fill="#FFFFFF" stroke="#D2D2D2">
+            <circle id="Radio-Button" cx="16" cy="12" r="7.5"></circle>
+        </g>
+    </g>
+</svg>

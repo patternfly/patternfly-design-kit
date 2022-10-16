@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="33px" height="24px" viewBox="0 0 33.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M33,0 L33,24 L0,24 L0,0 L33,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 33,0 33,24 0,24 0,0" stroke="none" fill="#BEE1F3"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="24px" viewBox="0 0 33 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Search-input" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-input-/-Match-background-/-Current" fill="#BEE1F4">
+            <rect id="Rectangle" x="0" y="0" width="33" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="452px" height="174px" viewBox="0 0 452.0 174.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M0,174 L452,0" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="10" stroke-dasharray=" 4.0 4.0"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="452px" height="174px" viewBox="0 0 452 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="4">
+        <g id="Charts-/-Line-/-Dashed---Upwards" stroke="#0066CC" stroke-width="2">
+            <line x1="0" y1="174" x2="452" y2="0" id="Line"></line>
+        </g>
+    </g>
+</svg>

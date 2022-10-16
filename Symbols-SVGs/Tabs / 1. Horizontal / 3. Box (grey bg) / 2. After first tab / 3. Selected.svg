@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="60px" height="40px" viewBox="0 0 60.0 40.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M60,0 L60,40 L0,40 L0,0 L60,0 Z"></path></clipPath><clipPath id="i1"><path d="M1,0 L1,40 L0,40 L0,0 L1,0 Z"></path></clipPath><clipPath id="i2"><path d="M60,0 L60,3 L0,3 L0,0 L60,0 Z"></path></clipPath><clipPath id="i3"><path d="M16,0 L16,24 L0,24 L0,0 L16,0 Z"></path></clipPath><clipPath id="i4"><path d="M60,0 L60,8 L0,8 L0,0 L60,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 60,0 60,40 0,40 0,0" stroke="none" fill="#EDEDED"></polygon></g><g transform="translate(59.0 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 1,0 1,40 0,40 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g clip-path="url(#i1)"><polygon points="0,0 1,0 1,40 0,40 0,0" stroke="none" fill="#D2D2D2"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 60,0 60,3 0,3 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(16.0 8.0)"><text transform="translate(0.19200000000000017 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#151515" text-anchor="center" line-spacing="24.0">Tab</text></g><g transform="translate(0.0 8.0)"><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,24 0,24 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,24 0,24 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(44.0 8.0)"><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,24 0,24 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 16,0 16,24 0,24 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(0.0 32.0)"><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 60,0 60,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Tabs-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tabs-/-1.-Horizontal-/-3.-Box-(grey-bg)-/-2.-After-first-tab-/-3.-Selected">
+            <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="60" height="40"></rect>
+            <rect id="Right-divider" fill="#D2D2D2" x="59" y="0" width="1" height="40"></rect>
+            <rect id="Right-divider" fill="#D2D2D2" x="0" y="0" width="1" height="40"></rect>
+            <rect id="Active-color" fill="#0066CC" x="0" y="0" width="60" height="3"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="16.192" y="24">Tab</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer--/--Horizontal--/--3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer--/--Horizontal--/--3.-pf-global--spacer--md-(16px)" transform="translate(44.000000, 8.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="23"></rect>
+                </g>
+                <g id="Spacer--/--Vertical--/--3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="59" height="7"></rect>
+                </g>
+                <g id="Spacer--/--Vertical--/--3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 32.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="59" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

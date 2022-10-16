@@ -1,1 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="343px" height="62px" viewBox="0 0 343.0 62.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M343,0 L343,62 L0,62 L0,0 L343,0 Z"></path></clipPath><clipPath id="i1"><path d="M1.38513235,0.330481695 C1.82577461,-0.110160565 2.53828206,-0.110160565 2.97420937,0.330481695 L9.34919417,6.7054665 C9.79450561,7.14610876 9.79450561,7.85857044 9.35386335,8.2992127 L2.97887855,14.6741975 C2.53828206,15.1148398 1.82577461,15.1148398 1.3898473,14.6741975 L0.330447363,13.6148433 C-0.110149121,13.1742011 -0.110149121,12.4616936 0.330447363,12.0257663 L4.8492049,7.50700877 L0.330447363,2.98829701 C-0.110149121,2.54765475 -0.110149121,1.8351473 0.330447363,1.39921999 Z"></path></clipPath><clipPath id="i2"><path d="M343,0 L343,16 L0,16 L0,0 L343,0 Z"></path></clipPath><clipPath id="i3"><path d="M24,0 L24,30 L0,30 L0,0 L24,0 Z"></path></clipPath><clipPath id="i4"><path d="M16,0 L16,30 L0,30 L0,0 L16,0 Z"></path></clipPath><clipPath id="i5"><path d="M8,0 L8,30 L0,30 L0,0 L8,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 343,0 343,62 0,62 0,0" stroke="none" fill="#F0F0F0"></polygon><g transform="translate(0.0 1.0)"><polygon points="343,0 0,0 0,-1 343,-1 343,0 343,0" stroke="none" fill="#D2D2D2"></polygon></g><g transform="translate(0.0 -1.0)"><polygon points="343,62 343,63 0,63 0,62 343,62 343,62" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(303.0 19.0)"><g transform="translate(7.0 4.0)"><g clip-path="url(#i1)"><polygon points="0,5.55111512e-17 9.6837637,5.55111512e-17 9.6837637,15.0046792 0,15.0046792 0,5.55111512e-17" stroke="none" fill="#151515"></polygon></g></g></g><g transform="translate(24.0 16.0)"><text transform="translate(0.0 20.0)" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20.0" font-weight="500" fill="#151515" text-anchor="left" line-spacing="30.0">Heading</text></g><g transform="translate(0.0 46.0)"><g clip-path="url(#i2)"><polygon points="0,0 343,0 343,16 0,16 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 343,0 343,16 0,16 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i2)"><polygon points="0,0 343,0 343,16 0,16 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 343,0 343,16 0,16 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(0.0 16.0)"><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,30 0,30 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,30 0,30 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(327.0 16.0)"><g clip-path="url(#i4)"><polygon points="0,0 16,0 16,30 0,30 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 16,0 16,30 0,30 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(295.0 16.0)"><g clip-path="url(#i5)"><polygon points="0,0 8,0 8,30 0,30 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i5)"><polygon points="0,0 8,0 8,30 0,30 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="62px" viewBox="0 0 343 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343" height="62"></rect>
+        <filter x="-0.1%" y="-0.8%" width="100.3%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Accordion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accordion-/-Toggle-/-Large-bordered-/-Hover">
+            <g id="Rectangle">
+                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Caret" transform="translate(310.000000, 23.000000)" fill="#151515">
+                <path d="M2.97887855,14.6741975 L9.35386335,8.2992127 C9.79450561,7.85857044 9.79450561,7.14610876 9.34919417,6.7054665 L2.97420937,0.330481695 C2.53828206,-0.110160565 1.82577461,-0.110160565 1.38513235,0.330481695 L0.330447363,1.39921999 C-0.110149121,1.8351473 -0.110149121,2.54765475 0.330447363,2.98829701 L4.8492049,7.50700877 L0.330447363,12.0257663 C-0.110149121,12.4616936 -0.110149121,13.1742011 0.330447363,13.6148433 L1.3898473,14.6741975 C1.82577461,15.1148398 2.53828206,15.1148398 2.97887855,14.6741975 Z" id="angle-right"></path>
+            </g>
+            <text id="Heading" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="20" font-weight="500" line-spacing="30" fill="#151515">
+                <tspan x="24" y="36">Heading</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(0.000000, 46.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="342" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="342" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 16.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="29"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(327.000000, 16.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="29"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(295.000000, 16.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="29"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

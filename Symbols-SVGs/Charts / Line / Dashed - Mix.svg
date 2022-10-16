@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="452px" height="128px" viewBox="0 0 452.0 128.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0.0 2.0)"><path d="M0,65.3103055 L21.3871784,25.2991124 L66.8910964,123 L116.977808,44.135269 L185.858713,57.82046 L260.347075,36.0366767 L320.442941,65.3103055 L376.124986,0 L452,31.7595926" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="10" stroke-dasharray=" 4.0 4.0"></path></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="452px" height="128px" viewBox="0 0 452 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="4">
+        <g id="Charts-/-Line-/-Dashed---Mix" stroke="#0066CC" stroke-width="2">
+            <path d="M0,67.3103055 L21.3871784,27.2991124 L66.8910964,125 L116.977808,46.135269 L185.858713,59.82046 L260.347075,38.0366767 L320.442941,67.3103055 L376.124986,2 L452,33.7595926" id="Line-3"></path>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="72px" height="72px" viewBox="0 0 72.0 72.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M36,0 C55.882251,0 72,16.117749 72,36 C72,55.882251 55.882251,72 36,72 C16.117749,72 0,55.882251 0,36 C0,16.117749 16.117749,0 36,0 Z"></path></clipPath><clipPath id="i1"><path d="M12.8,0 C19.8,0 25.6,5.8 25.6,12.8 C25.6,19.8 20,25.6 12.8,25.6 C5.8,25.6 0,19.8 0,12.8 C0,5.8 5.8,0 12.8,0 Z"></path></clipPath><clipPath id="i2"><path d="M6.4,0 L6.4,13.4 L0,13.4 L0.2,7 C0.6,2.8 2.4,0.8 6.4,0 Z"></path></clipPath><clipPath id="i3"><path d="M25,0 C32.05,0 34.3138333,0.245444444 36.1174583,0.736333333 L36.3455417,0.800333333 C36.38325,0.811222222 36.4208333,0.822222222 36.4583333,0.833333333 L36.6826667,0.901333333 C36.9066667,0.970666667 37.1306667,1.044 37.3636667,1.12133333 L37.6,1.2 C40,2 42.4,3.6 44.6,6.4 C47.8,10.4 49.6,20.6 50.4,28.4 L41,28.4 L40.8,22 C40.4,17.8 38.6,15.8 34.6,15 L34.6,28.4 L15.8,28.4 L15.8,15 C11.8,15.8 10,17.8 9.6,22 L9.4,28.4 L0,28.4 C0.8,20.8 2.6,10.4 6,6.6 C8,3.8 10.4,2.2 12.8,1.4 C12.8,1.4 16,0 25,0 Z"></path></clipPath><clipPath id="i4"><path d="M0,0 C4,0.8 5.8,2.8 6.2,7 L6.4,13.4 L0,13.4 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 72,0 72,72 0,72 0,0" stroke="none" fill="#F0F0F0"></polygon><g transform="translate(11.000000000000046 14.600000000000001)"><g transform="translate(11.799999999999729 0.0)"><g clip-path="url(#i1)"><polygon points="0,0 25.6,0 25.6,25.6 0,25.6 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(9.399999999999634 44.0)"><g clip-path="url(#i2)"><polygon points="0,0 6.4,0 6.4,13.4 0,13.4 0,0" stroke="none" fill="#B8BBBE"></polygon></g></g><g transform="translate(0.0 29.000000000000004)"><g clip-path="url(#i3)"><polygon points="0,0 50.4,0 50.4,28.4 0,28.4 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(34.599999999999895 44.0)"><g clip-path="url(#i4)"><polygon points="0,0 6.4,0 6.4,13.4 0,13.4 0,0" stroke="none" fill="#B8BBBE"></polygon></g></g></g></g><path d="M36,72 C55.882251,72 72,55.882251 72,36 C72,16.117749 55.882251,0 36,0 C16.117749,0 0,16.117749 0,36 C0,55.882251 16.117749,72 36,72 Z" stroke="#D2D2D2" stroke-width="1" fill="none" stroke-miterlimit="10"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <circle id="path-1" cx="36" cy="36" r="36"></circle>
+        <circle id="path-3" cx="36" cy="36" r="36"></circle>
+    </defs>
+    <g id="Masthead" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Light-bordered-avatar">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#F0F0F0" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="img_avatar-light" mask="url(#mask-2)">
+                <g transform="translate(11.000000, 14.600000)" id="Path">
+                    <path d="M24.6,25.6 C17.6,25.6 11.8,19.8 11.8,12.8 C11.8,5.8 17.6,0 24.6,0 C31.6,0 37.4,5.8 37.4,12.8 C37.4,19.8 31.8,25.6 24.6,25.6 Z" fill="#D2D2D2" fill-rule="evenodd"></path>
+                    <path d="M15.8,57.4 L15.8,44 C11.8,44.8 10,46.8 9.6,51 L9.4,57.4 L15.8,57.4 Z" fill="#B8BBBE" fill-rule="nonzero"></path>
+                    <path d="M9.4,57.4 L9.6,51 C10,46.8 11.8,44.8 15.8,44 L15.8,57.4 L34.6,57.4 L34.6,44 C38.6,44.8 40.4,46.8 40.8,51 L41,57.4 L50.4,57.4 C49.6,49.6 47.8,39.4 44.6,35.4 C42.4,32.6 40,31 37.6,30.2 C35.2,29.4 34,29 25,29 C16,29 12.8,30.4 12.8,30.4 C10.4,31.2 8,32.8 6,35.6 C2.6,39.4 0.8,49.8 0,57.4 L9.4,57.4 Z" fill="#D2D2D2" fill-rule="nonzero"></path>
+                    <path d="M41,57.4 L40.8,51 C40.4,46.8 38.6,44.8 34.6,44 L34.6,57.4 L41,57.4 Z" fill="#B8BBBE" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Oval" stroke="#D2D2D2" fill-rule="nonzero" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

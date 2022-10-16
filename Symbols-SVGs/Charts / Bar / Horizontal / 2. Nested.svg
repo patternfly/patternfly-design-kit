@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="244px" height="80px" viewBox="0 0 244.0 80.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M138,0 L138,16 L0,16 L0,0 L138,0 Z"></path></clipPath><clipPath id="i1"><path d="M175,0 L175,16 L0,16 L0,0 L175,0 Z"></path></clipPath><clipPath id="i2"><path d="M182,0 L182,16 L0,16 L0,0 L182,0 Z"></path></clipPath><clipPath id="i3"><path d="M205,0 L205,16 L0,16 L0,0 L205,0 Z"></path></clipPath><clipPath id="i4"><path d="M244,0 L244,16 L0,16 L0,0 L244,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 138,0 138,16 0,16 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(0.0 16.0)"><g clip-path="url(#i1)"><polygon points="0,0 175,0 175,16 0,16 0,0" stroke="none" fill="#8BC1F7"></polygon></g></g><g transform="translate(0.0 32.0)"><g clip-path="url(#i2)"><polygon points="0,0 182,0 182,16 0,16 0,0" stroke="none" fill="#002F5D"></polygon></g></g><g transform="translate(0.0 48.0)"><g clip-path="url(#i3)"><polygon points="0,0 205,0 205,16 0,16 0,0" stroke="none" fill="#519DE9"></polygon></g></g><g transform="translate(0.0 64.0)"><g clip-path="url(#i4)"><polygon points="0,0 244,0 244,16 0,16 0,0" stroke="none" fill="#004A95"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="80px" viewBox="0 0 244 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Bar-/-Horizontal-/-2.-Nested">
+            <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="138" height="16"></rect>
+            <rect id="Rectangle" fill="#8BC1F7" x="0" y="16" width="175" height="16"></rect>
+            <rect id="Rectangle" fill="#002F5D" x="0" y="32" width="182" height="16"></rect>
+            <rect id="Rectangle" fill="#519DE9" x="0" y="48" width="205" height="16"></rect>
+            <rect id="Rectangle" fill="#004B95" x="0" y="64" width="244" height="16"></rect>
+        </g>
+    </g>
+</svg>

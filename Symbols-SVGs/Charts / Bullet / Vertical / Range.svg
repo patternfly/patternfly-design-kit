@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="30px" height="1px" viewBox="0 0 30.0 1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M30,0 L30,1 L0,1 L0,0 L30,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 30,0 30,1 0,1 0,0" stroke="none" fill="#C9190A"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="1px" viewBox="0 0 30 1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts-/-Bullet-/-Vertical-/-Range" fill="#C9190B">
+            <rect id="Rectangle" x="0" y="0" width="30" height="1"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="62px" height="29px" viewBox="0 0 62.0 29.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M9,0 L9,17 L0,17 L0,0 L9,0 Z"></path></clipPath><clipPath id="i1"><path d="M54,0 L54,8 L0,8 L0,0 L54,0 Z"></path></clipPath><clipPath id="i2"><path d="M8,0 L8,29 L0,29 L0,0 L8,0 Z"></path></clipPath></defs><g transform="translate(0.0 20.0)"><path d="M0.5,0.5 L35.5,0.5" stroke="#8A8D90" stroke-width="1" fill="none" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray=" 2.0 2.0"></path></g><g transform="translate(41.0 4.0)"><g clip-path="url(#i0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#C9190A" text-anchor="left" line-spacing="21.0">*</text></g></g><g transform="translate(0.0 4.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Medium, Red Hat Text" font-size="14.0" font-weight="400" fill="#151515" text-anchor="left" line-spacing="18.20000076293945">Label</text></g><g transform="translate(0.0 21.0)"><g clip-path="url(#i1)"><polygon points="0,0 54,0 54,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 54,0 54,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(54.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 8,0 8,29 0,29 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 8,0 8,29 0,29 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="29px" viewBox="0 0 62 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-/-8.-Field-Label-/-Underlined-/-Required-/-1.-Default">
+            <line x1="0.5" y1="20.5" x2="35.5" y2="20.5" id="Line-2" stroke="#8A8D90" stroke-linecap="square" stroke-dasharray="2"></line>
+            <text id="✏️-Required" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#C9190B">
+                <tspan x="41" y="18">*</tspan>
+            </text>
+            <text id="✏️-Label" font-family="RedHatText-Medium, Red Hat Text" font-size="14" font-weight="400" line-spacing="18.2000008" fill="#151515">
+                <tspan x="0" y="18">Label</tspan>
+            </text>
+            <g id="📐-Padding" fill="#92D400" fill-opacity="0.9" stroke="#7FB300">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(0.000000, 21.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="53" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(54.000000, 0.000000)">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

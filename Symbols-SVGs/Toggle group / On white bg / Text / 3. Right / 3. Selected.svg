@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="130px" height="36px" viewBox="0 0 130.0 36.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M127,0 C128.656854,-3.04359188e-16 130,1.34314575 130,3 L130,33 C130,34.6568542 128.656854,36 127,36 L0,36 L0,0 L127,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 130,0 130,36 0,36 0,0" stroke="none" fill="#E7F1FA"></polygon><path d="M0,0 L127,0 C128.656854,-3.04359188e-16 130,1.34314575 130,3 L130,33 C130,34.6568542 128.656854,36 127,36 L0,36 L0,36 L0,0 Z" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(16.0 8.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Selected - right</text></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="36px" viewBox="0 0 130 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Toggle-group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toggle-group-/-On-white-bg-/-Text-/-3.-Right-/-3.-Selected">
+            <path d="M127,0.5 C127.690356,0.5 128.315356,0.779822031 128.767767,1.23223305 C129.220178,1.68464406 129.5,2.30964406 129.5,3 L129.5,33 C129.5,33.6903559 129.220178,34.3153559 128.767767,34.767767 C128.315356,35.220178 127.690356,35.5 127,35.5 L0.5,35.5 L0.5,0.5 Z" id="Rectangle-Copy" stroke="#0066CC" fill="#E7F1FA"></path>
+            <text id="Selected---right" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                <tspan x="16" y="22">Selected - right</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

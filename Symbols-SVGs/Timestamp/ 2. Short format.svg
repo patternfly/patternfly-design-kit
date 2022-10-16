@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="188px" height="21px" viewBox="0 0 188.0 21.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0.0 2.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="21.0">21 January 2019, 9:38 PM EST</text></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="21px" viewBox="0 0 188 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Timestamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+        <g id="Timestamp/-2.-Short-format" fill="#6A6E73">
+            <text id="21-January-2019,-9:3">
+                <tspan x="0" y="16">21 January 2019, 9:38 PM EST</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

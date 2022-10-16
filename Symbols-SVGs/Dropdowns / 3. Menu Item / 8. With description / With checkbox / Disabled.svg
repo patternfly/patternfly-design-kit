@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="118px" height="58px" viewBox="0 0 118.0 58.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M118,0 L118,58 L0,58 L0,0 L118,0 Z"></path></clipPath><clipPath id="i1"><path d="M16,0 L16,16 L0,16 L0,0 L16,0 Z"></path></clipPath><clipPath id="i2"><path d="M16,0 L16,58 L0,58 L0,0 L16,0 Z"></path></clipPath><clipPath id="i3"><path d="M86,0 L86,8 L0,8 L0,0 L86,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 118,0 118,58 0,58 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform="translate(40.0 32.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">Description</text></g><g transform="translate(40.0 8.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="24.0">Option</text></g><g transform="translate(8.0 8.0)"><g transform="translate(8.0 4.0)"><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,16 0,16 0,0" stroke="none" fill="#D2D2D2"></polygon></g></g></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,58 0,58 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,58 0,58 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(16.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 86,0 86,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 86,0 86,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(16.0 50.0)"><g clip-path="url(#i3)"><polygon points="0,0 86,0 86,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 86,0 86,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(102.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,58 0,58 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 16,0 16,58 0,58 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="58px" viewBox="0 0 118 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Dropdowns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdowns-/-3.-Menu-Item-/-8.-With-description-/-With-checkbox-/-Disabled">
+            <rect id="Background" fill="#FFFFFF" x="0" y="0" width="118" height="58"></rect>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                <tspan x="40" y="44">Description</tspan>
+            </text>
+            <text id="✏️-Label" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                <tspan x="40" y="24">Option</tspan>
+            </text>
+            <g id="Forms/3.-Toggles/2.-Checkbox/1.-Unchecked/Default" transform="translate(16.000000, 12.000000)" fill="#D2D2D2">
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="57"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="85" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(16.000000, 50.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="85" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(102.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="15" height="57"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

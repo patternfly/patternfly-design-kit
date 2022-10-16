@@ -1,1 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="956px" height="72px" viewBox="0 0 956.0 72.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><filter id="i0" x="-1.35135135%" y="-19.2307692%" filterUnits="userSpaceOnUse" width="102.079002%" height="125.641026%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i1"></feGaussianBlur><feOffset dx="0" dy="-2" in="i1" result="i2"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i2"></feColorMatrix></filter><clipPath id="i3"><path d="M956,0 L956,72 L0,72 L0,0 L956,0 Z"></path></clipPath><filter id="i4" x="-1.35135135%" y="-14.1025641%" filterUnits="userSpaceOnUse" width="102.079002%" height="125.641026%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i5"></feGaussianBlur><feOffset dx="0" dy="2" in="i5" result="i6"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.16 0" type="matrix" in="i6"></feColorMatrix></filter><clipPath id="i7"><path d="M3,0 L3,72 L0,72 L0,0 L3,0 Z"></path></clipPath><clipPath id="i8"><path d="M2.24999464,10.9999738 C3.49373557,10.9999738 4.49998927,12.0062275 4.49998927,13.2499684 C4.49998927,14.4937093 3.49373557,15.499963 2.24999464,15.499963 C1.0062537,15.499963 0,14.4937093 0,13.2499684 C0,12.0062275 1.0062537,10.9999738 2.24999464,10.9999738 Z M2.24999464,5.49998689 C3.49373557,5.49998689 4.49998927,6.50624059 4.49998927,7.74998152 C4.49998927,8.99372245 3.49373557,9.99997616 2.24999464,9.99997616 C1.0062537,9.99997616 0,8.99372245 0,7.74998152 C0,6.50624059 1.0062537,5.49998689 2.24999464,5.49998689 Z M2.24999464,0 C3.49373557,0 4.49998927,1.0062537 4.49998927,2.24999464 C4.49998927,3.49373557 3.49373557,4.49998927 2.24999464,4.49998927 C1.0062537,4.49998927 0,3.49373557 0,2.24999464 C0,1.0062537 1.0062537,0 2.24999464,0 Z"></path></clipPath><clipPath id="i9"><path d="M0.926557239,0.220298242 C1.22031875,-0.0734327473 1.69532372,-0.0734327473 1.98594192,0.220298242 L4.99844695,3.23280327 L8.01092145,0.220298242 C8.30468296,-0.0734327473 8.77968793,-0.0734327473 9.07030613,0.220298242 L9.77654224,0.926564869 C10.0703037,1.22029586 10.0703037,1.69530083 9.77654224,1.98591903 L5.52655238,6.2359089 C5.23904696,6.52967041 4.7640725,6.52967041 4.470311,6.2359089 L0.22032113,1.98591903 C-0.0734403767,1.69218804 -0.0734403767,1.21718307 0.22032113,0.926564869 Z"></path></clipPath><clipPath id="i10"><path d="M24,0 L24,72 L0,72 L0,0 L24,0 Z"></path></clipPath><clipPath id="i11"><path d="M908,0 L908,24 L0,24 L0,0 L908,0 Z"></path></clipPath><clipPath id="i12"><path d="M16,0 L16,16 L0,16 L0,0 L16,0 Z"></path></clipPath></defs><polygon points="1,1 955,1 955,71 1,71 1,1" stroke="none" fill="#000000" filter="url(#i0)"></polygon><g clip-path="url(#i3)"><polygon points="0,0 956,0 956,72 0,72 0,0" stroke="none" fill="#FFFFFF"></polygon></g><polygon points="1,1 955,1 955,71 1,71 1,1" stroke="none" fill="#000000" filter="url(#i4)"></polygon><g clip-path="url(#i3)"><polygon points="0,0 956,0 956,72 0,72 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 956,0 956,72 0,72 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(0.0 -1.0)"><polygon points="956,72 956,73 0,73 0,72 956,72 956,72" stroke="none" fill="#D2D2D2"></polygon></g></g><g clip-path="url(#i7)"><polygon points="0,0 3,0 3,72 0,72 0,0" stroke="none" fill="#0066CC"></polygon></g><g transform="translate(902.0 18.0)"><g transform="translate(8.0 6.0)"><g transform="translate(10.0 3.999999999999999)"><g clip-path="url(#i8)"><polygon points="0,0 4.49998927,0 4.49998927,15.499963 0,15.499963 0,0" stroke="none" fill="#696E73"></polygon></g></g></g></g><g transform="translate(24.0 24.0)"><g transform="translate(7.0 9.0)"><g clip-path="url(#i9)"><polygon points="0,0 9.99686337,0 9.99686337,6.45623003 0,6.45623003 0,0" stroke="none" fill="#696E73"></polygon></g></g></g><g clip-path="url(#i10)"><polygon points="0,0 24,0 24,72 0,72 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i10)"><polygon points="0,0 24,0 24,72 0,72 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g><g transform="translate(931.9999999999999 0.0)"><g clip-path="url(#i10)"><polygon points="0,0 24,0 24,72 0,72 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i10)"><polygon points="0,0 24,0 24,72 0,72 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(24.0 0.0)"><g clip-path="url(#i11)"><polygon points="0,0 908,0 908,24 0,24 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i11)"><polygon points="0,0 908,0 908,24 0,24 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(24.0 47.99999999999997)"><g clip-path="url(#i11)"><polygon points="0,0 908,0 908,24 0,24 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i11)"><polygon points="0,0 908,0 908,24 0,24 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(48.0 24.0)"><g transform="translate(8.0 4.0)"><g clip-path="url(#i12)"><polygon points="0,0 16,0 16,16 0,16 0,0" stroke="none" fill="#FFFFFF"></polygon><polygon points="0,0 16,0 16,16 0,16 0,0 0,0" stroke="#696E73" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="956px" height="72px" viewBox="0 0 956 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="956" height="72"></rect>
+        <filter x="-0.6%" y="-10.4%" width="101.2%" height="115.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="956" height="72"></rect>
+        <filter x="-0.6%" y="-4.9%" width="101.2%" height="115.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="956" height="72"></rect>
+        <filter x="-0.1%" y="-0.7%" width="100.1%" height="101.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-5.-Default-selectable-row-/-2.-Selectable-Expandable-/-With-checkbox-/-3.-Selected-expanded">
+            <g id="Data-list-+-table-/-1.-Row-/-1.-Row-background-/-Compact-(8px-spacers)-w-no-line-/-1.-Default">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <rect id="Rectangle" fill="#0066CC" x="0" y="0" width="3" height="72"></rect>
+            </g>
+            <g id="Data-list-+-table-/-1.-Row-/-2.-Row-features-/-Large-(24px-spacers)-/-1.-Not-expandable">
+                <g id="Kebab" transform="translate(902.000000, 18.000000)">
+                    <g id="🖼-Icon" transform="translate(18.000000, 10.000000)" fill="#6A6E73">
+                        <path d="M2.24999464,4.49998927 C3.49373557,4.49998927 4.49998927,3.49373557 4.49998927,2.24999464 C4.49998927,1.0062537 3.49373557,0 2.24999464,0 C1.0062537,0 0,1.0062537 0,2.24999464 C0,3.49373557 1.0062537,4.49998927 2.24999464,4.49998927 Z M2.24999464,9.99997616 C3.49373557,9.99997616 4.49998927,8.99372245 4.49998927,7.74998152 C4.49998927,6.50624059 3.49373557,5.49998689 2.24999464,5.49998689 C1.0062537,5.49998689 0,6.50624059 0,7.74998152 C0,8.99372245 1.0062537,9.99997616 2.24999464,9.99997616 Z M2.24999464,15.499963 C3.49373557,15.499963 4.49998927,14.4937093 4.49998927,13.2499684 C4.49998927,12.0062275 3.49373557,10.9999738 2.24999464,10.9999738 C1.0062537,10.9999738 0,12.0062275 0,13.2499684 C0,14.4937093 1.0062537,15.499963 2.24999464,15.499963 Z" id="ellipsis-v"></path>
+                    </g>
+                    <g id="📐-Padding" fill-opacity="0.9">
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Horizontal-/-3.-pf-global--spacer--md-(16px)" transform="translate(32.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                            <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                        <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="23" height="5"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Icons/1.-Size-md-(16px)/Framework/angle-right" transform="translate(31.000000, 33.000000)" fill="#6A6E73">
+                    <path d="M5.52655238,6.2359089 L9.77654224,1.98591903 C10.0703037,1.69530083 10.0703037,1.22029586 9.77654224,0.926564869 L9.07030613,0.220298242 C8.77968793,-0.0734327473 8.30468296,-0.0734327473 8.01092145,0.220298242 L4.99844695,3.23280327 L1.98594192,0.220298242 C1.69532372,-0.0734327473 1.22031875,-0.0734327473 0.926557239,0.220298242 L0.22032113,0.926564869 C-0.0734403767,1.21718307 -0.0734403767,1.69218804 0.22032113,1.98591903 L4.470311,6.2359089 C4.7640725,6.52967041 5.23904696,6.52967041 5.52655238,6.2359089 Z" id="angle-down"></path>
+                </g>
+                <g id="📐-Padding" fill="#007A87" fill-opacity="0.9" stroke="#09707B">
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="71"></rect>
+                    </g>
+                    <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(932.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="71"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)" transform="translate(24.000000, 0.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="907" height="23"></rect>
+                    </g>
+                    <g id="Spacer-/-Vertical-/-4.-pf-global--spacer--lg-(24px)-Copy" transform="translate(24.000000, 48.000000)">
+                        <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="907" height="23"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Checkbox" transform="translate(56.000000, 28.000000)" fill="#FFFFFF" stroke="#6A6E73">
+                <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

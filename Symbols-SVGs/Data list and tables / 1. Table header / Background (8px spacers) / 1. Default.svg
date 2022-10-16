@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="412px" height="41px" viewBox="0 0 412.0 41.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M412,0 L412,42 L0,42 L0,0 L412,0 Z"></path></clipPath><clipPath id="i1"><path d="M16,0 L16,16 L0,16 L0,0 L16,0 Z"></path></clipPath><clipPath id="i2"><path d="M364,0 L364,8 L0,8 L0,0 L364,0 Z"></path></clipPath><clipPath id="i3"><path d="M24,0 L24,42 L0,42 L0,0 L24,0 Z"></path></clipPath><clipPath id="i4"><path d="M364,0 L364,4 L0,4 L0,0 L364,0 Z"></path></clipPath></defs><g clip-path="url(#i0)"><polygon points="0,0 412,0 412,42 0,42 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(0.0 -1.0)"><polygon points="412,42 412,43 0,43 0,42 412,42 412,42" stroke="none" fill="#D2D2D2"></polygon></g></g><g transform="translate(16.0 9.0)"><g transform="translate(8.0 4.0)"><g clip-path="url(#i1)"><polygon points="0,0 16,0 16,16 0,16 0,0" stroke="none" fill="#FFFFFF"></polygon><polygon points="0,0 16,0 16,16 0,16 0,0 0,0" stroke="#696E73" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></g><g transform="translate(24.0 4.0)"><g clip-path="url(#i2)"><polygon points="0,0 364,0 364,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 364,0 364,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform=""><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,42 0,42 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,42 0,42 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(388.0 0.0)"><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,42 0,42 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 24,0 24,42 0,42 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(24.0 0.0)"><g clip-path="url(#i4)"><polygon points="0,0 364,0 364,4 0,4 0,0" stroke="none" fill="rgba(236, 121, 8, 0.9)"></polygon></g><g clip-path="url(#i4)"><polygon points="0,0 364,0 364,4 0,4 0,0 0,0" stroke="#C67000" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(24.0 34.0)"><g clip-path="url(#i2)"><polygon points="0,0 364,0 364,8 0,8 0,0" stroke="none" fill="rgba(146, 211, 0, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 364,0 364,8 0,8 0,0 0,0" stroke="#7EB200" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="412px" height="41px" viewBox="0 0 412 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="412" height="42"></rect>
+        <filter x="-0.1%" y="-1.2%" width="100.2%" height="102.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Data-List-and-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-list-and-tables-/-1.-Table-header-/-Background-(8px-spacers)-/-1.-Default">
+            <g id="Background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Checkbox" transform="translate(24.000000, 13.000000)" fill="#FFFFFF" stroke="#6A6E73">
+                <rect id="Rectangle" x="0.5" y="0.5" width="15" height="15"></rect>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(24.000000, 4.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="363" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-5.-pf-global--spacer--xl-(32px)" transform="translate(0.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="41"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(388.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="41"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-1.-pf-global--spacer--xs-(4px)" transform="translate(24.000000, 0.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="363" height="3"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(24.000000, 34.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="363" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="97px" height="19px" viewBox="0 0 97.0 19.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#151515" text-anchor="left" line-spacing="18.2">Section landing</text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="19px" viewBox="0 0 97 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Breadcrumbs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="18.2">
+        <g id="Breadcrumbs-/-4.-Section-landing" fill="#151515">
+            <text id="Section-landing">
+                <tspan x="0" y="14">Section landing</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

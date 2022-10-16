@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="87px" height="24px" viewBox="0 0 87.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M3,0 C4.65685425,0 6,1.34314575 6,3 C6,4.65685425 4.65685425,6 3,6 C1.34314575,6 0,4.65685425 0,3 C0,1.34314575 1.34314575,0 3,0 Z"></path></clipPath></defs><g transform="translate(23.999999999999943 0.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="16.0" font-weight="normal" fill="#0066CC" text-anchor="left" line-spacing="24.0">List item</text></g><g transform="translate(8.999999999999943 9.0)"><g clip-path="url(#i0)"><polygon points="0,0 6,0 6,6 0,6 0,0" stroke="none" fill="#151515"></polygon></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="24px" viewBox="0 0 87 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List-/-1.-Basic-/-2.-Link-/-Default">
+            <text id="List-item" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#0066CC">
+                <tspan x="24" y="16">List item</tspan>
+            </text>
+            <circle id="Oval" fill="#151515" cx="12" cy="12" r="3"></circle>
+        </g>
+    </g>
+</svg>

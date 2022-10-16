@@ -1,1 +1,981 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="1353px" height="1195px" viewBox="0 0 1353.0 1195.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M1353,0 L1353,1195 L0,1195 L0,0 L1353,0 Z"></path></clipPath><filter id="i1" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i2"></feGaussianBlur><feOffset dx="0" dy="0" in="i2" result="i3"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i3"></feColorMatrix></filter><filter id="i4" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i5"></feGaussianBlur><feOffset dx="0" dy="4" in="i5" result="i6"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i6"></feColorMatrix></filter><clipPath id="i7"><path d="M68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 L68,0 Z"></path></clipPath><clipPath id="i8"><path d="M68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 L68,0 Z"></path></clipPath><filter id="i9" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i10"></feGaussianBlur><feOffset dx="0" dy="0" in="i10" result="i11"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i11"></feColorMatrix></filter><filter id="i12" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i13"></feGaussianBlur><feOffset dx="0" dy="4" in="i13" result="i14"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i14"></feColorMatrix></filter><filter id="i15" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i16"></feGaussianBlur><feOffset dx="0" dy="0" in="i16" result="i17"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i17"></feColorMatrix></filter><filter id="i18" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i19"></feGaussianBlur><feOffset dx="0" dy="4" in="i19" result="i20"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i20"></feColorMatrix></filter><filter id="i21" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i22"></feGaussianBlur><feOffset dx="0" dy="0" in="i22" result="i23"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i23"></feColorMatrix></filter><filter id="i24" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i25"></feGaussianBlur><feOffset dx="0" dy="4" in="i25" result="i26"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i26"></feColorMatrix></filter><filter id="i27" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i28"></feGaussianBlur><feOffset dx="0" dy="0" in="i28" result="i29"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i29"></feColorMatrix></filter><filter id="i30" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i31"></feGaussianBlur><feOffset dx="0" dy="4" in="i31" result="i32"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i32"></feColorMatrix></filter><filter id="i33" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i34"></feGaussianBlur><feOffset dx="0" dy="0" in="i34" result="i35"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i35"></feColorMatrix></filter><filter id="i36" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i37"></feGaussianBlur><feOffset dx="0" dy="4" in="i37" result="i38"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i38"></feColorMatrix></filter><filter id="i39" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i40"></feGaussianBlur><feOffset dx="0" dy="0" in="i40" result="i41"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i41"></feColorMatrix></filter><filter id="i42" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i43"></feGaussianBlur><feOffset dx="0" dy="4" in="i43" result="i44"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i44"></feColorMatrix></filter><filter id="i45" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i46"></feGaussianBlur><feOffset dx="0" dy="0" in="i46" result="i47"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i47"></feColorMatrix></filter><filter id="i48" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i49"></feGaussianBlur><feOffset dx="0" dy="4" in="i49" result="i50"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i50"></feColorMatrix></filter><filter id="i51" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i52"></feGaussianBlur><feOffset dx="0" dy="0" in="i52" result="i53"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i53"></feColorMatrix></filter><filter id="i54" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i55"></feGaussianBlur><feOffset dx="0" dy="4" in="i55" result="i56"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i56"></feColorMatrix></filter><filter id="i57" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i58"></feGaussianBlur><feOffset dx="0" dy="0" in="i58" result="i59"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i59"></feColorMatrix></filter><filter id="i60" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i61"></feGaussianBlur><feOffset dx="0" dy="4" in="i61" result="i62"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i62"></feColorMatrix></filter><filter id="i63" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i64"></feGaussianBlur><feOffset dx="0" dy="0" in="i64" result="i65"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i65"></feColorMatrix></filter><filter id="i66" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i67"></feGaussianBlur><feOffset dx="0" dy="4" in="i67" result="i68"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i68"></feColorMatrix></filter><filter id="i69" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i70"></feGaussianBlur><feOffset dx="0" dy="0" in="i70" result="i71"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i71"></feColorMatrix></filter><filter id="i72" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i73"></feGaussianBlur><feOffset dx="0" dy="4" in="i73" result="i74"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i74"></feColorMatrix></filter><filter id="i75" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i76"></feGaussianBlur><feOffset dx="0" dy="0" in="i76" result="i77"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i77"></feColorMatrix></filter><filter id="i78" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i79"></feGaussianBlur><feOffset dx="0" dy="4" in="i79" result="i80"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i80"></feColorMatrix></filter><filter id="i81" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i82"></feGaussianBlur><feOffset dx="0" dy="0" in="i82" result="i83"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i83"></feColorMatrix></filter><filter id="i84" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i85"></feGaussianBlur><feOffset dx="0" dy="4" in="i85" result="i86"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i86"></feColorMatrix></filter><filter id="i87" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i88"></feGaussianBlur><feOffset dx="0" dy="0" in="i88" result="i89"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i89"></feColorMatrix></filter><filter id="i90" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i91"></feGaussianBlur><feOffset dx="0" dy="4" in="i91" result="i92"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i92"></feColorMatrix></filter><filter id="i93" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i94"></feGaussianBlur><feOffset dx="0" dy="0" in="i94" result="i95"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i95"></feColorMatrix></filter><filter id="i96" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i97"></feGaussianBlur><feOffset dx="0" dy="4" in="i97" result="i98"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i98"></feColorMatrix></filter><filter id="i99" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i100"></feGaussianBlur><feOffset dx="0" dy="0" in="i100" result="i101"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i101"></feColorMatrix></filter><filter id="i102" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i103"></feGaussianBlur><feOffset dx="0" dy="4" in="i103" result="i104"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i104"></feColorMatrix></filter><filter id="i105" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i106"></feGaussianBlur><feOffset dx="0" dy="0" in="i106" result="i107"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i107"></feColorMatrix></filter><filter id="i108" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i109"></feGaussianBlur><feOffset dx="0" dy="4" in="i109" result="i110"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i110"></feColorMatrix></filter><filter id="i111" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i112"></feGaussianBlur><feOffset dx="0" dy="0" in="i112" result="i113"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i113"></feColorMatrix></filter><filter id="i114" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i115"></feGaussianBlur><feOffset dx="0" dy="4" in="i115" result="i116"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i116"></feColorMatrix></filter><filter id="i117" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i118"></feGaussianBlur><feOffset dx="0" dy="0" in="i118" result="i119"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i119"></feColorMatrix></filter><filter id="i120" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i121"></feGaussianBlur><feOffset dx="0" dy="4" in="i121" result="i122"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i122"></feColorMatrix></filter><filter id="i123" x="-10.8108108%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="114.414414%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i124"></feGaussianBlur><feOffset dx="0" dy="0" in="i124" result="i125"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i125"></feColorMatrix></filter><filter id="i126" x="-23.5294118%" y="-19.047619%" filterUnits="userSpaceOnUse" width="133.613445%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i127"></feGaussianBlur><feOffset dx="0" dy="4" in="i127" result="i128"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i128"></feColorMatrix></filter><clipPath id="i129"><path d="M100,0 C101.656854,-3.04359188e-16 103,1.34314575 103,3 L103,107 C103,108.656854 101.656854,110 100,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 L100,0 Z"></path></clipPath><clipPath id="i130"><path d="M100,0 C101.656854,-3.04359188e-16 103,1.34314575 103,3 L103,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 L100,0 Z"></path></clipPath><filter id="i131" x="-10.5263158%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="114.035088%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i132"></feGaussianBlur><feOffset dx="0" dy="0" in="i132" result="i133"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i133"></feColorMatrix></filter><filter id="i134" x="-22.9508197%" y="-19.047619%" filterUnits="userSpaceOnUse" width="132.786885%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i135"></feGaussianBlur><feOffset dx="0" dy="4" in="i135" result="i136"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i136"></feColorMatrix></filter><clipPath id="i137"><path d="M103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,107 C106,108.656854 104.656854,110 103,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 L103,0 Z"></path></clipPath><clipPath id="i138"><path d="M103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 L103,0 Z"></path></clipPath><filter id="i139" x="-10.5263158%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="114.035088%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i140"></feGaussianBlur><feOffset dx="0" dy="0" in="i140" result="i141"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i141"></feColorMatrix></filter><filter id="i142" x="-22.9508197%" y="-19.047619%" filterUnits="userSpaceOnUse" width="132.786885%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i143"></feGaussianBlur><feOffset dx="0" dy="4" in="i143" result="i144"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i144"></feColorMatrix></filter><filter id="i145" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i146"></feGaussianBlur><feOffset dx="0" dy="0" in="i146" result="i147"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i147"></feColorMatrix></filter><filter id="i148" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i149"></feGaussianBlur><feOffset dx="0" dy="4" in="i149" result="i150"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i150"></feColorMatrix></filter><clipPath id="i151"><path d="M149,0 L149,43 L0,43 L0,0 L149,0 Z"></path></clipPath><filter id="i152" x="-13.52478%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="118.03304%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i153"></feGaussianBlur><feOffset dx="0" dy="0" in="i153" result="i154"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i154"></feColorMatrix></filter><filter id="i155" x="-28.9477411%" y="-19.047619%" filterUnits="userSpaceOnUse" width="141.353916%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i156"></feGaussianBlur><feOffset dx="0" dy="4" in="i156" result="i157"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i157"></feColorMatrix></filter><clipPath id="i158"><path d="M77.7260274,0 C79.3828816,-3.04359188e-16 80.7260274,1.34314575 80.7260274,3 L80.7260274,107 C80.7260274,108.656854 79.3828816,110 77.7260274,110 L3,110 C1.34314575,110 9.33717391e-15,108.656854 0,107 L0,3 C-6.46995335e-16,1.34314575 1.34314575,7.48448398e-16 3,0 L77.7260274,0 Z"></path></clipPath><clipPath id="i159"><path d="M78,0 C79.6568542,-3.04359188e-16 81,1.34314575 81,3 L81,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 L78,0 Z"></path></clipPath><filter id="i160" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i161"></feGaussianBlur><feOffset dx="0" dy="0" in="i161" result="i162"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i162"></feColorMatrix></filter><filter id="i163" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i164"></feGaussianBlur><feOffset dx="0" dy="4" in="i164" result="i165"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i165"></feColorMatrix></filter><filter id="i166" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i167"></feGaussianBlur><feOffset dx="0" dy="0" in="i167" result="i168"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i168"></feColorMatrix></filter><filter id="i169" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i170"></feGaussianBlur><feOffset dx="0" dy="4" in="i170" result="i171"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i171"></feColorMatrix></filter><filter id="i172" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i173"></feGaussianBlur><feOffset dx="0" dy="0" in="i173" result="i174"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i174"></feColorMatrix></filter><filter id="i175" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i176"></feGaussianBlur><feOffset dx="0" dy="4" in="i176" result="i177"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i177"></feColorMatrix></filter><filter id="i178" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i179"></feGaussianBlur><feOffset dx="0" dy="0" in="i179" result="i180"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i180"></feColorMatrix></filter><filter id="i181" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i182"></feGaussianBlur><feOffset dx="0" dy="4" in="i182" result="i183"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i183"></feColorMatrix></filter><filter id="i184" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i185"></feGaussianBlur><feOffset dx="0" dy="0" in="i185" result="i186"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i186"></feColorMatrix></filter><filter id="i187" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i188"></feGaussianBlur><feOffset dx="0" dy="4" in="i188" result="i189"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i189"></feColorMatrix></filter><filter id="i190" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i191"></feGaussianBlur><feOffset dx="0" dy="0" in="i191" result="i192"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i192"></feColorMatrix></filter><filter id="i193" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i194"></feGaussianBlur><feOffset dx="0" dy="4" in="i194" result="i195"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i195"></feColorMatrix></filter><filter id="i196" x="-15.1898734%" y="-10.1694915%" filterUnits="userSpaceOnUse" width="120.253165%" height="113.559322%"><feGaussianBlur stdDeviation="2" in="SourceAlpha" result="i197"></feGaussianBlur><feOffset dx="0" dy="0" in="i197" result="i198"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.06 0" type="matrix" in="i198"></feColorMatrix></filter><filter id="i199" x="-32.183908%" y="-19.047619%" filterUnits="userSpaceOnUse" width="145.977011%" height="131.746032%"><feGaussianBlur stdDeviation="4" in="SourceAlpha" result="i200"></feGaussianBlur><feOffset dx="0" dy="4" in="i200" result="i201"></feOffset><feColorMatrix values="0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.0 0 0 0 0 0.12 0" type="matrix" in="i201"></feColorMatrix></filter></defs><rect x="0px" y="0px" width="1353px" height="1195px" fill="#FFFFFF"></rect><g clip-path="url(#i0)"><g transform="translate(44.0 185.0)"><g transform="translate(0.0 51.0)"><g transform="translate(70.0 0.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Default</text></g><g transform="translate(0.0 63.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Filled</text></g><g transform="translate(71.0 163.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Hover</text></g><g transform="translate(70.0 32.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i1)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i4)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#E7F1FA"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#BEE1F3" stroke-width="1" fill="none" stroke-miterlimit="10"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Blue</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#E7F1FA</text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i9)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i12)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F2F9F9"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#A2D9D9" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Cyan</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F2F9F9</text></g></g><g transform="translate(246.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i15)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i18)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F3FAF2"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#BDE5B8" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Green</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F3FAF2</text></g></g><g transform="translate(328.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i21)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i24)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F5F5F5"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#D2D2D2" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F5F5F5</text></g></g><g transform="translate(410.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i27)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i30)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FDF7E7"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#F9E0A2" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Yellow</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FDF7E7</text></g></g><g transform="translate(492.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i33)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i36)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F2F0FC"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#CBC1FF" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Purple</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F2F0FC</text></g></g><g transform="translate(164.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i39)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i42)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FAEAE8"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#C9190A" stroke-width="1" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Red</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FAEAE8</text></g></g></g><g transform="translate(71.0 195.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i45)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i48)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#E7F1FA"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#BEE1F3" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Blue</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#E7F1FA</text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i51)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i54)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F2F9F9"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#A2D9D9" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Cyan</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F2F9F9</text></g></g><g transform="translate(246.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i57)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i60)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F3FAF2"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#BDE5B8" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Green</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F3FAF2</text></g></g><g transform="translate(328.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i63)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i66)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F5F5F5"></polygon></g><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="10"></path><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F5F5F5</text></g></g><g transform="translate(410.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i69)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i72)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFF6EC"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#F3B677" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Yellow</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FDF7E7</text></g></g><g transform="translate(492.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i75)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i78)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F2F0FC"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#CBC1FF" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Purple</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F2F0FC</text></g></g><g transform="translate(164.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i81)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i84)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FAEAE8"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#C9190A" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Red</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FAEAE8</text></g></g></g></g><g transform="translate(66.0 0.0)"><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Labels</text></g><g transform="translate(665.0 59.0)"><g transform="translate(94.0 0.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Default</text></g><g transform="translate(0.0 63.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Outlined</text></g><g transform="translate(179.0 0.0)"><text transform="translate(-1.072 13.951904296875)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="24.0">Hover</text></g><g transform="translate(94.0 32.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i87)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i90)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#D2D2D2</text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i93)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i96)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#D2D2D2" stroke-width="4" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#D2D2D2</text></g></g></g></g><g transform="translate(66.0 407.0)"><g transform="translate(0.0 51.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i99)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i102)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#D2D2D2" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FFFFFF</text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i105)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i108)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F0F0F0"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#8A8D90" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Hover</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F0F0F0</text></g></g><g transform="translate(164.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i111)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i114)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#E7F1FA"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#0066CC" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Selected</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#E7F1FA</text></g></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Toggle group</text></g><g transform="translate(370.0 407.0)"><g transform="translate(0.0 51.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i117)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i120)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(0.0 -1.0)"><path d="M71,59 L71,60 L0,60 L0,59 L71,59 Z M71,1 L70.9999998,2.9989971 C70.9997486,2.23108313 70.7109754,1.53061212 70.2361945,1.00009834 L71,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)"><tspan x="0px" y="0px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Bordered</tspan><tspan x="0px" y="21px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">content</tspan></text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L100,0 C101.656854,-3.04359188e-16 103,1.34314575 103,3 L103,107 C103,108.656854 101.656854,110 100,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i123)"></path><path d="M3,0 L100,0 C101.656854,-3.04359188e-16 103,1.34314575 103,3 L103,107 C103,108.656854 101.656854,110 100,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i126)"></path><g clip-path="url(#i129)"><polygon points="0,0 103,0 103,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i130)"><polygon points="0,0 103,0 103,59 0,59 0,0" stroke="none" fill="#F0F0F0"></polygon><g transform="translate(0.0 -1.0)"><path d="M103,59 L103,60 L0,60 L0,59 L103,59 Z M103,1 L103,2.9989971 C102.999749,2.23108313 102.710975,1.53061212 102.236195,1.00009834 L103,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)"><tspan x="0px" y="0px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey bordered</tspan><tspan x="0px" y="21px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">content</tspan></text></g></g><g transform="translate(196.0 0.0)"><path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,107 C106,108.656854 104.656854,110 103,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i131)"></path><path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,107 C106,108.656854 104.656854,110 103,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i134)"></path><g clip-path="url(#i137)"><polygon points="0,0 106,0 106,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i138)"><polygon points="0,0 106,0 106,59 0,59 0,0" stroke="none" fill="#F0F0F0"></polygon><g transform="translate(0.0 -1.0)"><path d="M106,59 L106,60 L0,60 L0,59 L106,59 Z M106,1 L106,2.9989971 C105.999749,2.23108313 105.710975,1.53061212 105.236195,1.00009834 L106,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g><g transform="translate(0.0 1.0)"><path d="M106,3 C106,1.34314575 104.656854,-3.04359188e-16 103,0 L3,0 C1.34314575,-1.02790844e-15 -2.02906125e-16,1.34314575 0,3 L0,-1 L106,-1 Z" stroke="none" fill="#D2D2D2"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)"><tspan x="0px" y="0px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Grey bordered</tspan><tspan x="0px" y="21px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">background</tspan></text></g></g><g transform="translate(313.0 0.0)"><path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,107 C106,108.656854 104.656854,110 103,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i139)"></path><path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,107 C106,108.656854 104.656854,110 103,110 L3,110 C1.34314575,110 -1.1293615e-15,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.63662682e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i142)"></path><g clip-path="url(#i137)"><polygon points="0,0 106,0 106,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i138)"><polygon points="0,0 106,0 106,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(0.0 -1.0)"><path d="M106,59 L106,60 L0,60 L0,59 L106,59 Z M106,1 L106,2.9989971 C105.999749,2.23108313 105.710975,1.53061212 105.236195,1.00009834 L106,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g><g transform="translate(0.0 1.0)"><path d="M106,3 C106,1.34314575 104.656854,-3.04359188e-16 103,0 L3,0 C1.34314575,-1.02790844e-15 -2.02906125e-16,1.34314575 0,3 L0,-1 L106,-1 Z" stroke="none" fill="#D2D2D2"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)"><tspan x="0px" y="0px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">White bordered</tspan><tspan x="0px" y="21px" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">background</tspan></text></g></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Accordion</text></g><g transform="translate(66.0 619.0)"><g transform="translate(0.0 43.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i145)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i148)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#E7F1FA"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#BEE1F3" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#E7F1FA</text></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Hint</text><g transform="translate(739.0 0.0)"><g clip-path="url(#i151)"><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Spinner</text></g></g></g><g transform="translate(282.0 619.0)"><g transform="translate(0.0 43.0)"><path d="M3,0 L77.7260274,0 C79.3828816,-3.04359188e-16 80.7260274,1.34314575 80.7260274,3 L80.7260274,107 C80.7260274,108.656854 79.3828816,110 77.7260274,110 L3,110 C1.34314575,110 9.33717391e-15,108.656854 0,107 L0,3 C-6.46995335e-16,1.34314575 1.34314575,7.48448398e-16 3,0 Z" stroke="none" fill="#000000" filter="url(#i152)"></path><path d="M3,0 L77.7260274,0 C79.3828816,-3.04359188e-16 80.7260274,1.34314575 80.7260274,3 L80.7260274,107 C80.7260274,108.656854 79.3828816,110 77.7260274,110 L3,110 C1.34314575,110 9.33717391e-15,108.656854 0,107 L0,3 C-6.46995335e-16,1.34314575 1.34314575,7.48448398e-16 3,0 Z" stroke="none" fill="#000000" filter="url(#i155)"></path><g clip-path="url(#i158)"><polygon points="0,0 80.7260274,0 80.7260274,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i159)"><polygon points="0,0 81,0 81,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><g transform="translate(0.0 -1.0)"><path d="M81,59 L81,60 L0,60 L0,59 L81,59 Z M81,1 L80.9999998,2.9989971 C80.9997486,2.23108313 80.7109754,1.53061212 80.2361945,1.00009834 L81,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Underlined</text></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Data list &amp; tables</text></g><g transform="translate(858.0 407.0)"><g transform="translate(0.0 51.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i160)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i163)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FAEAE8"></polygon></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Danger</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FAEAE8</text></g><g transform="translate(82.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i166)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i169)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F2F9F9"></polygon></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F2F9F9</text></g></g><g transform="translate(164.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i172)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i175)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#E7F1FA"></polygon></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Info</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#E7F1FA</text></g></g><g transform="translate(246.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i178)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i181)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F3FAF2"></polygon></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Success</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#F3FAF2</text></g></g><g transform="translate(328.0 0.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i184)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i187)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FDF7E7"></polygon></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Warning</text></g><g transform="translate(4.0 86.0)"><text transform="translate(0.0 12.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="12.0" font-weight="normal" fill="#696E73" text-anchor="left" line-spacing="18.0">#FDF7E7</text></g></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Inline alerts</text></g><g transform="translate(174.0 619.0)"><g transform="translate(0.0 43.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i190)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i193)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#FFFFFF"></polygon><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" stroke="#F0F0F0" stroke-width="2" fill="none" stroke-miterlimit="5"></path></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default</text></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Chips</text></g><g transform="translate(495.0 619.0)"><g transform="translate(0.0 43.0)"><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i196)"></path><path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,107 C71,108.656854 69.6568542,110 68,110 L3,110 C1.34314575,110 2.02906125e-16,108.656854 0,107 L0,3 C-2.02906125e-16,1.34314575 1.34314575,1.19253761e-15 3,0 Z" stroke="none" fill="#000000" filter="url(#i199)"></path><g clip-path="url(#i7)"><polygon points="0,0 71,0 71,110 0,110 0,0" stroke="none" fill="#FFFFFF"></polygon></g><g transform=""><g clip-path="url(#i8)"><polygon points="0,0 71,0 71,59 0,59 0,0" stroke="none" fill="#F0F0F0"></polygon><g transform="translate(0.0 -1.0)"><path d="M71,59 L71,60 L0,60 L0,59 L71,59 Z M71,1 L70.9999998,2.9989971 C70.9997486,2.23108313 70.7109754,1.53061212 70.2361945,1.00009834 L71,1 Z M0,1 L0.763805482,1.00009834 C0.288817892,1.53084306 -9.4090469e-17,2.23169302 0,3 L0,1 Z" stroke="none" fill="#D2D2D2"></path></g></g></g><g transform="translate(4.0 66.0)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#141514" text-anchor="left" line-spacing="21.0">Default</text></g></g><text transform="translate(0.0 24.0)" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24.0" font-weight="normal" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Notification drawer</text></g></g><g transform="translate(52.0 62.0)"><text transform="translate(-3.3120000000000003 31.559764862060547)" font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48.0" font-weight="500" fill="#282C33" text-anchor="left" line-spacing="46.79999923706055">Widgets</text></g><g transform="translate(846.0 869.0)"><path d="M0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0" stroke="#0066CC" stroke-width="1" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path><g transform="translate(58.0 0.0)"><path d="M0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0" stroke="#0066CC" stroke-width="2" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path></g><g transform="translate(110.0 0.0)"><path d="M0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0" stroke="#0066CC" stroke-width="4" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1353px" height="1195px" viewBox="0 0 1353 1195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-19" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-25" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-29" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-31" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-33" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-35" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-37" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-39" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L1.42108547e-14,59 L1.42108547e-14,3 C1.40079486e-14,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-41"></path>
+        <filter x="-0.7%" y="-0.8%" width="101.4%" height="101.7%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0" y="0" width="103" height="110" rx="3"></rect>
+        <filter x="-13.6%" y="-9.1%" width="127.2%" height="125.5%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L100,0 C101.656854,-3.04359188e-16 103,1.34314575 103,3 L103,59 L103,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-45"></path>
+        <filter x="-0.5%" y="-0.8%" width="101.0%" height="101.7%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="106" height="110" rx="3"></rect>
+        <filter x="-13.2%" y="-9.1%" width="126.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,59 L106,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-49"></path>
+        <filter x="-0.5%" y="-0.8%" width="100.9%" height="101.7%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-51" x="0" y="0" width="106" height="110" rx="3"></rect>
+        <filter x="-13.2%" y="-9.1%" width="126.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L103,0 C104.656854,-3.04359188e-16 106,1.34314575 106,3 L106,59 L106,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-53"></path>
+        <filter x="-0.5%" y="-0.8%" width="100.9%" height="101.7%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-55" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-56">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-57" x="0" y="0" width="80.7260274" height="110" rx="3"></rect>
+        <filter x="-17.3%" y="-9.1%" width="134.7%" height="125.5%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L78,0 C79.6568542,-3.04359188e-16 81,1.34314575 81,3 L81,59 L81,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-59"></path>
+        <filter x="-0.6%" y="-0.8%" width="101.2%" height="101.7%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-65" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-67" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-68">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-69" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-71" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-72">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-73" x="0" y="0" width="71" height="110" rx="3"></rect>
+        <filter x="-19.7%" y="-9.1%" width="139.4%" height="125.5%" filterUnits="objectBoundingBox" id="filter-74">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L1.42108547e-14,59 L1.42108547e-14,3 C1.40079486e-14,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="path-75"></path>
+        <filter x="-0.7%" y="-0.8%" width="101.4%" height="101.7%" filterUnits="objectBoundingBox" id="filter-76">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.823529412   0 0 0 0 0.823529412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Widgets">
+            <rect fill="#FFFFFF" x="0" y="0" width="1353" height="1195"></rect>
+            <g transform="translate(44.000000, 185.000000)">
+                <g id="Group-5">
+                    <g id="Filled-labels" transform="translate(0.000000, 51.000000)">
+                        <text id="Default" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                            <tspan x="70" y="16">Default</tspan>
+                        </text>
+                        <text id="Filled" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                            <tspan x="0" y="79">Filled</tspan>
+                        </text>
+                        <text id="Hover" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                            <tspan x="71" y="179">Hover</tspan>
+                        </text>
+                        <g id="Filled-bg---labels" transform="translate(70.000000, 32.000000)">
+                            <g id="Comment">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L1.42108547e-14,59 L1.42108547e-14,3 C1.40079486e-14,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#BEE1F4" fill="#E7F1FA"></path>
+                                <text id="Blue" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Blue</tspan>
+                                </text>
+                                <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#E7F1FA</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(82.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#A2D9D9" fill="#F2F9F9"></path>
+                                <text id="Cyan" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Cyan</tspan>
+                                </text>
+                                <text id="#F2F9F9" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F2F9F9</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(246.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#BDE5B8" fill="#F3FAF2"></path>
+                                <text id="Green" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Green</tspan>
+                                </text>
+                                <text id="#F3FAF2" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F3FAF2</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(328.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#D2D2D2" fill="#F5F5F5"></path>
+                                <text id="Grey" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Grey</tspan>
+                                </text>
+                                <text id="#F5F5F5" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F5F5F5</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(410.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#F9E0A2" fill="#FDF7E7"></path>
+                                <text id="Yellow" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Yellow</tspan>
+                                </text>
+                                <text id="#FDF7E7" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#FDF7E7</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(492.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#CBC1FF" fill="#F2F0FC"></path>
+                                <text id="Purple" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Purple</tspan>
+                                </text>
+                                <text id="#F2F0FC" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F2F0FC</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(164.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#C9190B" fill="#FAEAE8"></path>
+                                <text id="Red" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Red</tspan>
+                                </text>
+                                <text id="#FAEAE8" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#FAEAE8</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Filled-bg---labels" transform="translate(71.000000, 195.000000)">
+                            <g id="Comment">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#BEE1F4" stroke-width="2" fill="#E7F1FA"></path>
+                                <text id="Blue" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Blue</tspan>
+                                </text>
+                                <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#E7F1FA</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(82.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#A2D9D9" stroke-width="2" fill="#F2F9F9"></path>
+                                <text id="Cyan" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Cyan</tspan>
+                                </text>
+                                <text id="#F2F9F9" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F2F9F9</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(246.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#BDE5B8" stroke-width="2" fill="#F3FAF2"></path>
+                                <text id="Green" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Green</tspan>
+                                </text>
+                                <text id="#F3FAF2" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F3FAF2</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(328.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                </g>
+                                <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" stroke="#D2D2D2" stroke-width="2" fill="#F5F5F5"></path>
+                                <text id="Grey" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Grey</tspan>
+                                </text>
+                                <text id="#F5F5F5" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F5F5F5</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(410.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#F4B678" stroke-width="2" fill="#FFF6EC"></path>
+                                <text id="Yellow" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Yellow</tspan>
+                                </text>
+                                <text id="#FDF7E7" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#FDF7E7</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(492.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#CBC1FF" stroke-width="2" fill="#F2F0FC"></path>
+                                <text id="Purple" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Purple</tspan>
+                                </text>
+                                <text id="#F2F0FC" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#F2F0FC</tspan>
+                                </text>
+                            </g>
+                            <g id="Comment" transform="translate(164.000000, 0.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                </g>
+                                <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#C9190B" stroke-width="2" fill="#FAEAE8"></path>
+                                <text id="Red" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                    <tspan x="4" y="80">Red</tspan>
+                                </text>
+                                <text id="#FAEAE8" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                    <tspan x="4" y="98">#FAEAE8</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="Labels" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="66" y="24">Labels</tspan>
+                    </text>
+                </g>
+                <g id="Filled-labels" transform="translate(665.000000, 59.000000)">
+                    <text id="Default" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                        <tspan x="94" y="16">Default</tspan>
+                    </text>
+                    <text id="Outlined" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                        <tspan x="0" y="79">Outlined</tspan>
+                    </text>
+                    <text id="Hover" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="16" font-weight="normal" line-spacing="24" fill="#282D33">
+                        <tspan x="179" y="16">Hover</tspan>
+                    </text>
+                    <g id="Filled-bg---labels" transform="translate(94.000000, 32.000000)">
+                        <g id="Comment">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#D2D2D2" fill="#FFFFFF"></path>
+                            <text id="Grey" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Grey</tspan>
+                            </text>
+                            <text id="#d2d2d2" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#D2D2D2</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(82.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                            </g>
+                            <path d="M68,1 C68.5522847,1 69.0522847,1.22385763 69.4142136,1.58578644 C69.7761424,1.94771525 70,2.44771525 70,3 L70,58 L1,58 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 Z" id="Comment-Pink" stroke="#D2D2D2" stroke-width="2" fill="#FFFFFF"></path>
+                            <text id="Grey" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Grey</tspan>
+                            </text>
+                            <text id="#d2d2d2" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#D2D2D2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Toggle-group" transform="translate(66.000000, 407.000000)">
+                    <g id="Filled-bg---labels" transform="translate(0.000000, 51.000000)">
+                        <g id="Comment">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                            </g>
+                            <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#D2D2D2" fill="#FFFFFF"></path>
+                            <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Default</tspan>
+                            </text>
+                            <text id="#ffffff" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#FFFFFF</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(82.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            </g>
+                            <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#8A8D90" fill="#F0F0F0"></path>
+                            <text id="Hover" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Hover</tspan>
+                            </text>
+                            <text id="#f0f0f0" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#F0F0F0</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(164.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                            </g>
+                            <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#0066CC" fill="#E7F1FA"></path>
+                            <text id="Selected" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Selected</tspan>
+                            </text>
+                            <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#E7F1FA</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Toggle group</tspan>
+                    </text>
+                </g>
+                <g id="Accordion" transform="translate(370.000000, 407.000000)">
+                    <g id="Filled-bg---labels" transform="translate(0.000000, 51.000000)">
+                        <g id="Comment">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                            </g>
+                            <g id="Comment-Pink">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                            </g>
+                            <text id="Bordered-content" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Bordered</tspan>
+                                <tspan x="4" y="101">content</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(82.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                            </g>
+                            <g id="Comment-Pink">
+                                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-45"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                            </g>
+                            <text id="Grey-bordered-conten" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Grey bordered</tspan>
+                                <tspan x="4" y="101">content</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(196.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                            </g>
+                            <g id="Comment-Pink">
+                                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-49"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                            </g>
+                            <text id="Grey-bordered-backgr" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Grey bordered</tspan>
+                                <tspan x="4" y="101">background</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(313.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                            </g>
+                            <g id="Comment-Pink">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                            </g>
+                            <text id="White-bordered-backg" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">White bordered</tspan>
+                                <tspan x="4" y="101">background</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Accordion</tspan>
+                    </text>
+                </g>
+                <g id="Hint" transform="translate(66.000000, 619.000000)">
+                    <g id="Comment" transform="translate(0.000000, 43.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+                        </g>
+                        <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#BEE1F4" fill="#E7F1FA"></path>
+                        <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="4" y="80">Default</tspan>
+                        </text>
+                        <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                            <tspan x="4" y="98">#E7F1FA</tspan>
+                        </text>
+                    </g>
+                    <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Hint</tspan>
+                    </text>
+                    <text id="Spinner" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="739" y="24">Spinner</tspan>
+                    </text>
+                </g>
+                <g id="Data-list-and-tables" transform="translate(282.000000, 619.000000)">
+                    <g id="Comment" transform="translate(0.000000, 43.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+                        </g>
+                        <g id="Comment-Pink">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                        </g>
+                        <text id="Underlined" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="4" y="80">Underlined</tspan>
+                        </text>
+                    </g>
+                    <text id="Data-list-&amp;-tables" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Data list &amp; tables</tspan>
+                    </text>
+                </g>
+                <g id="Inline-alerts" transform="translate(858.000000, 407.000000)">
+                    <g id="Filled-bg---labels" transform="translate(0.000000, 51.000000)">
+                        <g id="Comment">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+                            </g>
+                            <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L1.42108547e-14,59 L1.42108547e-14,3 C1.40079486e-14,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" fill="#FAEAE8"></path>
+                            <text id="Danger" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Danger</tspan>
+                            </text>
+                            <text id="#FAEAE8" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#FAEAE8</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(82.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+                            </g>
+                            <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" fill="#F2F9F9"></path>
+                            <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Default</tspan>
+                            </text>
+                            <text id="#F2F9F9" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#F2F9F9</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(164.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+                            </g>
+                            <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" fill="#E7F1FA"></path>
+                            <text id="Info" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Info</tspan>
+                            </text>
+                            <text id="#E7F1FA" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#E7F1FA</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(246.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-68)" xlink:href="#path-67"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-67"></use>
+                            </g>
+                            <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" fill="#F3FAF2"></path>
+                            <text id="Success" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Success</tspan>
+                            </text>
+                            <text id="#F3FAF2" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#F3FAF2</tspan>
+                            </text>
+                        </g>
+                        <g id="Comment" transform="translate(328.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-70)" xlink:href="#path-69"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-69"></use>
+                            </g>
+                            <path d="M3,0 L68,0 C69.6568542,-3.04359188e-16 71,1.34314575 71,3 L71,59 L71,59 L0,59 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Comment-Pink" fill="#FDF7E7"></path>
+                            <text id="Warning" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                                <tspan x="4" y="80">Warning</tspan>
+                            </text>
+                            <text id="#FDF7E7" font-family="RedHatText-Regular, Red Hat Text" font-size="12" font-weight="normal" line-spacing="18" fill="#6A6E73">
+                                <tspan x="4" y="98">#FDF7E7</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Inline alerts</tspan>
+                    </text>
+                </g>
+                <g id="Chips" transform="translate(174.000000, 619.000000)">
+                    <g id="Comment" transform="translate(0.000000, 43.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-72)" xlink:href="#path-71"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
+                        </g>
+                        <path d="M68,0.5 C68.6903559,0.5 69.3153559,0.779822031 69.767767,1.23223305 C70.220178,1.68464406 70.5,2.30964406 70.5,3 L70.5,58.5 L0.5,58.5 L0.5,3 C0.5,2.30964406 0.779822031,1.68464406 1.23223305,1.23223305 C1.68464406,0.779822031 2.30964406,0.5 3,0.5 Z" id="Comment-Pink" stroke="#F0F0F0" fill="#FFFFFF"></path>
+                        <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="4" y="80">Default</tspan>
+                        </text>
+                    </g>
+                    <text font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Chips</tspan>
+                    </text>
+                </g>
+                <g id="Chips" transform="translate(495.000000, 619.000000)">
+                    <g id="Comment" transform="translate(0.000000, 43.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-74)" xlink:href="#path-73"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-73"></use>
+                        </g>
+                        <g id="Comment-Pink">
+                            <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-75"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-76)" xlink:href="#path-75"></use>
+                        </g>
+                        <text id="Default" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                            <tspan x="4" y="80">Default</tspan>
+                        </text>
+                    </g>
+                    <text id="Notification-drawer" font-family="RedHatDisplay-Regular, Red Hat Display" font-size="24" font-weight="normal" line-spacing="46.7999992" fill="#282D33">
+                        <tspan x="0" y="24">Notification drawer</tspan>
+                    </text>
+                </g>
+            </g>
+            <text font-family="RedHatDisplay-Medium, Red Hat Display" font-size="48" font-weight="500" line-spacing="46.7999992" fill="#282D33">
+                <tspan x="52" y="111">Widgets</tspan>
+            </text>
+            <g id="Spinner" transform="translate(846.000000, 869.000000)" stroke="#0066CC" stroke-linecap="round">
+                <path d="M0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0" id="Path"></path>
+                <path d="M58,20 C58,31.045695 66.954305,40 78,40 C89.045695,40 98,31.045695 98,20 C98,8.954305 89.045695,0 78,0" id="Path" stroke-width="2"></path>
+                <path d="M110,20 C110,31.045695 118.954305,40 130,40 C141.045695,40 150,31.045695 150,20 C150,8.954305 141.045695,0 130,0" id="Path" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

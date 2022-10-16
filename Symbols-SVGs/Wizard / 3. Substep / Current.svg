@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="249px" height="40px" viewBox="0 0 249.0 40.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M177,0 L177,16 L0,16 L0,0 L177,0 Z"></path></clipPath><clipPath id="i1"><path d="M24,0 L24,24 L0,24 L0,0 L24,0 Z"></path></clipPath><clipPath id="i2"><path d="M24,0 L24,40 L0,40 L0,0 L24,0 Z"></path></clipPath><clipPath id="i3"><path d="M48,0 L48,40 L0,40 L0,0 L48,0 Z"></path></clipPath></defs><g transform="translate(72.0 16.0)"><text transform="translate(0.0 16.0)" font-family="RedHatText-Medium, Red Hat Text" font-size="16.0" font-weight="400" fill="#0066CC" text-anchor="left" line-spacing="24.0">Substep</text></g><g transform="translate(72.0 0.0)"><g clip-path="url(#i0)"><polygon points="0,0 177,0 177,16 0,16 0,0" stroke="none" fill="rgba(62, 156, 52, 0.9)"></polygon></g><g clip-path="url(#i0)"><polygon points="0,0 177,0 177,16 0,16 0,0 0,0" stroke="#418A37" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(225.0 16.0)"><g clip-path="url(#i1)"><polygon points="0,0 24,0 24,24 0,24 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i1)"><polygon points="0,0 24,0 24,24 0,24 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g transform="translate(48.0 0.0)"><g clip-path="url(#i2)"><polygon points="0,0 24,0 24,40 0,40 0,0" stroke="none" fill="rgba(0, 121, 135, 0.9)"></polygon></g><g clip-path="url(#i2)"><polygon points="0,0 24,0 24,40 0,40 0,0 0,0" stroke="#09707A" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></g><g clip-path="url(#i3)"><polygon points="0,0 48,0 48,40 0,40 0,0" stroke="none" fill="rgba(88, 46, 192, 0.9)"></polygon></g><g clip-path="url(#i3)"><polygon points="0,0 48,0 48,40 0,40 0,0 0,0" stroke="#5430A4" stroke-width="2" fill="none" stroke-miterlimit="5"></polygon></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="249px" height="40px" viewBox="0 0 249 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wizard-/-3.-Substep-/-Current">
+            <text id="✏️-Substep" font-family="RedHatText-Medium, Red Hat Text" font-size="16" font-weight="400" line-spacing="24" fill="#0066CC">
+                <tspan x="72" y="32">Substep</tspan>
+            </text>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-3.-pf-global--spacer--md-(16px)" transform="translate(72.000000, 0.000000)" fill="#3F9C35" stroke="#418A38">
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="176" height="15"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(225.000000, 16.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="23"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-4.-pf-global--spacer--lg-(24px)" transform="translate(48.000000, 0.000000)" fill="#007A87" stroke="#09707B">
+                    <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="23" height="39"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-6.-pf-global--spacer--2xl-(48px)" fill="#582FC0" stroke="#5431A5">
+                    <rect id="Rectangle-Copy-5" x="0.5" y="0.5" width="47" height="39"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

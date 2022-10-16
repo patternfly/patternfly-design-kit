@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" width="75px" height="24px" viewBox="0 0 75.0 24.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><clipPath id="i0"><path d="M5.81248614,0 C9.02263779,0 11.6249723,2.60233449 11.6249723,5.81248614 C11.6249723,9.02263779 9.02263779,11.6249723 5.81248614,11.6249723 C2.60233449,11.6249723 0,9.02263779 0,5.81248614 C0,2.60233449 2.60233449,0 5.81248614,0 Z M8.92231912,3.51701279 C8.77590376,3.37055166 8.53843942,3.37055166 8.39197828,3.51701279 L4.87498838,7.0340027 L3.232994,5.39198544 C3.08655575,5.24554719 2.84909141,5.24554719 2.70265316,5.39198544 L2.17231233,5.92230338 C2.02589696,6.06874163 2.02589696,6.30620597 2.17231233,6.45264422 L4.60980651,8.89013841 C4.75626765,9.03657666 4.9937091,9.03657666 5.14017024,8.8901613 L9.45265996,4.57767158 C9.59907532,4.43123333 9.59907532,4.19376899 9.45265996,4.04733074 Z"></path></clipPath><clipPath id="i1"><path d="M11.6249723,0 L11.6249723,11.6249723 L0,11.6249723 L0,0 L11.6249723,0 Z"></path></clipPath><clipPath id="i2"><path d="M43,0 L43,24 L0,24 L0,0 L43,0 Z"></path></clipPath></defs><g transform="translate(14.0 7.0)"><g transform="translate(-6.18751385807991 -6.18751385807991)"><g transform="translate(6.0 6.0)"><g clip-path="url(#i0)"><polygon points="0,0 11.6249723,0 11.6249723,11.6249723 0,11.6249723 0,0" stroke="none" fill="#3E8634"></polygon><g transform="translate(6.18751385807991 6.18751385807991)"><g clip-path="url(#i1)"><polygon points="0,0 5.43745843,0 5.43745843,5.43745843 0,5.43745843 0,0" stroke="none" fill="#3E8634"></polygon></g></g></g></g></g></g><g transform="translate(32.0 0.0)"><g clip-path="url(#i2)"><text transform="translate(0.0 14.0)" font-family="RedHatText-Regular, Red Hat Text" font-size="14.0" font-weight="normal" fill="#3E8634" text-anchor="left" line-spacing="28.0">Strong</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="24px" viewBox="0 0 75 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="Password-strength" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Password-strength-/-Strength---Strong" fill="#3E8635">
+            <g id="Icons-/-🖼-Dynamic-Icon" transform="translate(13.812486, 6.812486)">
+                <g id="🖼-Icon">
+                    <path d="M5.81248614,11.6249723 C9.02263779,11.6249723 11.6249723,9.02263779 11.6249723,5.81248614 C11.6249723,2.60233449 9.02263779,0 5.81248614,0 C2.60233449,0 0,2.60233449 0,5.81248614 C0,9.02263779 2.60233449,11.6249723 5.81248614,11.6249723 Z M4.60980651,8.89013841 L2.17231233,6.45264422 C2.02589696,6.30620597 2.02589696,6.06874163 2.17231233,5.92230338 L2.70265316,5.39198544 C2.84909141,5.24554719 3.08655575,5.24554719 3.232994,5.39198544 L4.87498838,7.0340027 L8.39197828,3.51701279 C8.53843942,3.37055166 8.77590376,3.37055166 8.92231912,3.51701279 L9.45265996,4.04733074 C9.59907532,4.19376899 9.59907532,4.43123333 9.45265996,4.57767158 L5.14017024,8.8901613 C4.9937091,9.03657666 4.75626765,9.03657666 4.60980651,8.89013841 Z" id="check-circle"></path>
+                </g>
+                <rect id="🎨-Color" x="0.187513858" y="0.187513858" width="11.6249723" height="11.6249723"></rect>
+            </g>
+            <text id="Strong" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="28">
+                <tspan x="32" y="14">Strong</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
