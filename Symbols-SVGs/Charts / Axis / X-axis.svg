@@ -3,31 +3,37 @@
     <title></title>
     <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Charts-/-Axis-/-X-axis">
-            <g id="x-axis-values" transform="translate(-5.000000, 7.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
-                <text id="0">
-                    <tspan x="0" y="14">0 </tspan>
+            <g id="Tick-1---x" transform="translate(-5.000000, 1.000000)">
+                <text id="0" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="0" y="20">0 </tspan>
                 </text>
-                <text id="25">
-                    <tspan x="144" y="14">25</tspan>
+                <rect id="tick-mark" fill="#D2D2D2" transform="translate(5.500000, 2.500000) rotate(90.000000) translate(-5.500000, -2.500000) " x="3" y="2" width="5" height="1"></rect>
+            </g>
+            <g id="Tick-2---x" transform="translate(139.000000, 1.000000)">
+                <text id="25" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="0" y="20">25</tspan>
                 </text>
-                <text id="50">
-                    <tspan x="295" y="14">50</tspan>
+                <polygon id="tick-mark" fill="#D2D2D2" transform="translate(7.000000, 2.500000) rotate(90.000000) translate(-7.000000, -2.500000) " points="4.5 2 9.5 2 9.5 3 4.5 3"></polygon>
+            </g>
+            <g id="Tick-3---x" transform="translate(290.000000, 1.000000)">
+                <text id="50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="0" y="20">50</tspan>
                 </text>
-                <text id="75">
-                    <tspan x="448" y="14">75</tspan>
+                <polygon id="tick-mark" fill="#D2D2D2" transform="translate(8.000000, 2.500000) rotate(90.000000) translate(-8.000000, -2.500000) " points="5.5 2 10.5 2 10.5 3 5.5 3"></polygon>
+            </g>
+            <g id="Tick-4--x" transform="translate(443.000000, 1.000000)">
+                <text id="75" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="0" y="20">75</tspan>
                 </text>
-                <text id="100">
-                    <tspan x="599" y="14">100</tspan>
+                <polygon id="tick-mark" fill="#D2D2D2" transform="translate(8.000000, 2.500000) rotate(90.000000) translate(-8.000000, -2.500000) " points="5.5 2 10.5 2 10.5 3 5.5 3"></polygon>
+            </g>
+            <g id="Tick-5--x" transform="translate(594.000000, 1.000000)">
+                <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="0" y="20">100</tspan>
                 </text>
+                <polygon id="tick-mark" fill="#D2D2D2" transform="translate(10.500000, 2.500000) rotate(90.000000) translate(-10.500000, -2.500000) " points="8 2 13 2 13 3 8 3"></polygon>
             </g>
             <polygon id="x-axis-stroke" fill="#D2D2D2" points="0 0 605 0 605 1 0 1"></polygon>
-            <g id="Tick-marks" transform="translate(225.500000, 3.000000) rotate(90.000000) translate(-225.500000, -3.000000) translate(223.000000, -223.000000)" fill="#D2D2D2">
-                <rect id="tick-mark" x="0" y="450.5" width="5" height="1"></rect>
-                <polygon id="tick-mark" points="6.25277607e-13 305 5 305 5 306 6.25277607e-13 306"></polygon>
-                <polygon id="tick-mark" points="-1.02318154e-12 153 5 153 5 154 -1.02318154e-12 154"></polygon>
-                <polygon id="tick-mark" points="-1.02318154e-12 0 5 0 5 1 -1.02318154e-12 1"></polygon>
-            </g>
-            <polygon id="tick-mark" fill="#D2D2D2" transform="translate(604.500000, 2.500000) rotate(90.000000) translate(-604.500000, -2.500000) " points="602 2 607 2 607 3 602 3"></polygon>
         </g>
     </g>
 </svg>

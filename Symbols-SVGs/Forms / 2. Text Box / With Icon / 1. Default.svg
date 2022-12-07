@@ -1,57 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="140px" height="36px" viewBox="0 0 140 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="140" height="36"></rect>
-        <filter x="-0.4%" y="-1.4%" width="100.7%" height="102.8%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
-            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
-            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner3"></feOffset>
-            <feComposite in="shadowOffsetInner3" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner3"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.941176471   0 0 0 0 0.941176471   0 0 0 0 0.941176471  0 0 0 1 0" type="matrix" in="shadowInnerInner3" result="shadowMatrixInner3"></feColorMatrix>
-            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner4"></feOffset>
-            <feComposite in="shadowOffsetInner4" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner4"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.541176471   0 0 0 0 0.552941176   0 0 0 0 0.564705882  0 0 0 1 0" type="matrix" in="shadowInnerInner4" result="shadowMatrixInner4"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
-                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
-                <feMergeNode in="shadowMatrixInner3"></feMergeNode>
-                <feMergeNode in="shadowMatrixInner4"></feMergeNode>
-            </feMerge>
-        </filter>
-    </defs>
     <g id="Form-Inputs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Forms-/-2.-Text-Box-/-With-Icon-/-1.-Default">
-            <g id="Forms-/-2.-Text-Box-/-With-Icon-/-Default-A">
-                <g id="Background">
-                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                </g>
-                <text id="✏️-Content" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
-                    <tspan x="40" y="22">Text box</tspan>
-                </text>
+            <g id="Icons/1.-Size-md/Actions/search-Copy" transform="translate(112.000000, 10.000000)" fill="#6A6E73">
+                <path d="M14.8937023,15.7812124 L15.7780996,14.8968456 C16.0718306,14.6030841 16.0718306,14.1280791 15.7812124,13.8343481 L12.6655887,10.7187244 C12.524964,10.5780998 12.3343517,10.499975 12.13434,10.499975 L11.6249723,10.499975 C12.487458,9.3968587 12.999969,8.0093498 12.999969,6.4999845 C12.999969,2.90935586 10.0906131,-1.77635684e-15 6.4999845,-1.77635684e-15 C2.90935586,-1.77635684e-15 0,2.90935586 0,6.4999845 C0,10.0906131 2.90935586,12.999969 6.4999845,12.999969 C8.0093498,12.999969 9.3968587,12.487458 10.499975,11.6249723 L10.499975,12.13434 C10.499975,12.3343517 10.5780998,12.524964 10.7187244,12.6655887 L13.8343481,15.7812124 C14.1280791,16.0749739 14.6030841,16.0749739 14.8937023,15.7812124 Z M6.49999404,10.499975 C4.29060867,10.499975 2.49999404,8.71247312 2.49999404,6.49999404 C2.49999404,4.29060867 4.28749588,2.49999404 6.49999404,2.49999404 C8.70936034,2.49999404 10.499975,4.28749588 10.499975,6.49999404 C10.499975,8.70936034 8.71247312,10.499975 6.49999404,10.499975 Z" id="search"></path>
             </g>
             <g id="📐-Padding" fill-opacity="0.9">
                 <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="35"></rect>
                 </g>
-                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(92.000000, 6.000000)" fill="#92D400" stroke="#7FB300">
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" transform="translate(132.000000, 6.000000)" fill="#92D400" stroke="#7FB300">
                     <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="23"></rect>
                 </g>
                 <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 30.000000)" fill="#F3D53C" stroke="#CBB534">
-                    <rect id="Rectangle" x="0.5" y="0.5" width="91" height="5"></rect>
+                    <rect id="Rectangle" x="0.5" y="0.5" width="131" height="5"></rect>
                 </g>
                 <g id="Spacer-/-Vertical-/-8.-pf-global--spacer--form-element-(6px)" transform="translate(8.000000, 0.000000)" fill="#F3D53C" stroke="#CBB534">
-                    <rect id="Rectangle" x="0.5" y="0.5" width="91" height="5"></rect>
+                    <rect id="Rectangle" x="0.5" y="0.5" width="131" height="5"></rect>
                 </g>
             </g>
-            <g id="Icons/1.-Size-md/Actions/search" transform="translate(12.000000, 10.000000)" fill="#6A6E73">
-                <path d="M14.8937023,15.7812124 L15.7780996,14.8968456 C16.0718306,14.6030841 16.0718306,14.1280791 15.7812124,13.8343481 L12.6655887,10.7187244 C12.524964,10.5780998 12.3343517,10.499975 12.13434,10.499975 L11.6249723,10.499975 C12.487458,9.3968587 12.999969,8.0093498 12.999969,6.4999845 C12.999969,2.90935586 10.0906131,-1.77635684e-15 6.4999845,-1.77635684e-15 C2.90935586,-1.77635684e-15 0,2.90935586 0,6.4999845 C0,10.0906131 2.90935586,12.999969 6.4999845,12.999969 C8.0093498,12.999969 9.3968587,12.487458 10.499975,11.6249723 L10.499975,12.13434 C10.499975,12.3343517 10.5780998,12.524964 10.7187244,12.6655887 L13.8343481,15.7812124 C14.1280791,16.0749739 14.6030841,16.0749739 14.8937023,15.7812124 Z M6.49999404,10.499975 C4.29060867,10.499975 2.49999404,8.71247312 2.49999404,6.49999404 C2.49999404,4.29060867 4.28749588,2.49999404 6.49999404,2.49999404 C8.70936034,2.49999404 10.499975,4.28749588 10.499975,6.49999404 C10.499975,8.70936034 8.71247312,10.499975 6.49999404,10.499975 Z" id="search"></path>
-            </g>
+            <text id="✏️-Content-Copy" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#6A6E73">
+                <tspan x="8" y="22">Text box</tspan>
+            </text>
         </g>
     </g>
 </svg>

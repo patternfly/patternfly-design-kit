@@ -3,98 +3,115 @@
     <title></title>
     <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Charts-/-Axis-/-Full-with-horizontal-lines">
-            <g id="x-axis-values" transform="translate(38.000000, 317.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
-                <text id="1">
-                    <tspan x="0" y="14.2000008">1 </tspan>
-                </text>
-                <text id="2">
-                    <tspan x="74" y="14">2</tspan>
-                </text>
-                <text id="3">
-                    <tspan x="148" y="14">3</tspan>
-                </text>
-                <text id="4">
-                    <tspan x="221" y="14">4</tspan>
-                </text>
-                <text id="5">
-                    <tspan x="295" y="14">5</tspan>
-                </text>
-                <text id="6">
-                    <tspan x="369" y="14">6</tspan>
-                </text>
-                <text id="7">
-                    <tspan x="443" y="14">7</tspan>
-                </text>
+            <g id="x-axis-values" transform="translate(35.000000, 10.000000)">
+                <g id="Line-1" transform="translate(0.000000, 307.000000)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
+                    <text id="5">
+                        <tspan x="1.851" y="14">1</tspan>
+                    </text>
+                </g>
+                <g id="Line-2" transform="translate(73.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0.164" y="20">2</tspan>
+                    </text>
+                </g>
+                <g id="Line-3" transform="translate(146.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">3</tspan>
+                    </text>
+                </g>
+                <g id="Line-4" transform="translate(219.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">4</tspan>
+                    </text>
+                </g>
+                <g id="Line-5" transform="translate(292.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0.01" y="20">5</tspan>
+                    </text>
+                </g>
+                <g id="Line-6" transform="translate(365.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">6</tspan>
+                    </text>
+                </g>
+                <g id="Line-7" transform="translate(438.000000, 301.000000)">
+                    <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="5"></rect>
+                    <text id="5" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0.094" y="20">7</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle" fill="#D2D2D2" x="4" y="0" width="1" height="307"></rect>
+                <polygon id="x-axis-stroke" fill="#D2D2D2" points="4 300 454 300 454 301 4 301"></polygon>
             </g>
-            <g id="y-axis-values" transform="translate(0.000000, 2.200001)" fill="#151515" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21">
-                <text id="0">
-                    <tspan x="15" y="308">0</tspan>
+            <g id="y-axis-values">
+                <text id="Tick-1---Y" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="15" y="310">0</tspan>
                 </text>
-                <text id="10">
-                    <tspan x="9" y="279">10</tspan>
-                </text>
-                <text id="20">
-                    <tspan x="6" y="249.2">20</tspan>
-                </text>
-                <text id="30">
-                    <tspan x="6" y="219.8">30</tspan>
-                </text>
-                <text id="40">
-                    <tspan x="6" y="190.4">40</tspan>
-                </text>
-                <text id="50">
-                    <tspan x="6" y="161">50</tspan>
-                </text>
-                <text id="60">
-                    <tspan x="6" y="131.6">60</tspan>
-                </text>
-                <text id="70">
-                    <tspan x="7" y="102.2">70</tspan>
-                </text>
-                <text id="80">
-                    <tspan x="6" y="72.8">80</tspan>
-                </text>
-                <text id="90">
-                    <tspan x="6" y="43.4">90</tspan>
-                </text>
-                <text id="100">
-                    <tspan x="0" y="14">100</tspan>
-                </text>
-            </g>
-            <polygon id="x-axis-stroke" fill="#D2D2D2" points="39 310 489 310 489 311 39 311"></polygon>
-            <g id="Tick-marks" transform="translate(261.500000, 313.500000) rotate(90.000000) translate(-261.500000, -313.500000) translate(259.000000, 90.000000)" fill="#D2D2D2">
-                <rect id="tick-mark" x="1.45661261e-12" y="446" width="5" height="1"></rect>
-                <polygon id="tick-mark" points="1.57740487e-12 369 5 369 5 370 1.57740487e-12 370"></polygon>
-                <polygon id="tick-mark" points="1.62003744e-12 294 5 294 5 295 1.62003744e-12 295"></polygon>
-                <polygon id="tick-mark" points="1.47082346e-12 221 5 221 5 222 1.47082346e-12 222"></polygon>
-                <polygon id="tick-mark" points="1.1155521e-12 148 5 148 5 149 1.1155521e-12 149"></polygon>
-                <polygon id="tick-mark" points="3.90798505e-13 73 5 73 5 74 3.90798505e-13 74"></polygon>
-                <polygon id="tick-mark" points="0 0 5 0 5 1 0 1"></polygon>
-            </g>
-            <g id="Tick-marks" transform="translate(34.000000, 10.000000)" fill="#D2D2D2">
-                <rect id="tick-mark" x="0" y="264" width="5" height="1"></rect>
-                <polygon id="tick-mark" points="0 235 5 235 5 236 0 236"></polygon>
-                <polygon id="tick-mark" points="0 205 5 205 5 206 0 206"></polygon>
-                <polygon id="tick-mark" points="0 176 5 176 5 177 0 177"></polygon>
-                <polygon id="tick-mark" points="0 147 5 147 5 148 0 148"></polygon>
-                <polygon id="tick-mark" points="0 117 5 117 5 118 0 118"></polygon>
-                <polygon id="tick-mark" points="0 88 5 88 5 89 0 89"></polygon>
-                <polygon id="tick-mark" points="0 59 5 59 5 60 0 60"></polygon>
-                <polygon id="tick-mark" points="0 29 5 29 5 30 0 30"></polygon>
-                <polygon id="tick-mark" points="0 0 5 0 5 1 0 1"></polygon>
-            </g>
-            <rect id="y-axis-stroke" fill="#D2D2D2" x="38" y="11" width="1" height="300"></rect>
-            <g id="Group" transform="translate(38.500277, 10.000000)" stroke="#D2D2D2" stroke-linecap="square">
-                <line x1="225.249862" y1="489.249862" x2="225.749862" y2="40.2501369" id="Line-4" transform="translate(225.499862, 264.750000) rotate(90.000000) translate(-225.499862, -264.750000) "></line>
-                <line x1="224.374862" y1="460.124862" x2="224.624862" y2="11.1251369" id="Line-4" transform="translate(224.499862, 235.625000) rotate(90.000000) translate(-224.499862, -235.625000) "></line>
-                <line x1="225.249862" y1="254.124862" x2="225.749862" y2="-194.874863" id="Line-4" transform="translate(225.499862, 29.625000) rotate(90.000000) translate(-225.499862, -29.625000) "></line>
-                <line x1="224.374862" y1="224.999862" x2="224.624862" y2="-223.999863" id="Line-4" transform="translate(224.499862, 0.500000) rotate(90.000000) translate(-224.499862, -0.500000) "></line>
-                <line x1="225.249862" y1="313.124862" x2="225.749862" y2="-135.874863" id="Line-4" transform="translate(225.499862, 88.625000) rotate(90.000000) translate(-225.499862, -88.625000) "></line>
-                <line x1="224.374862" y1="283.999862" x2="224.624862" y2="-164.999863" id="Line-4" transform="translate(224.499862, 59.500000) rotate(90.000000) translate(-224.499862, -59.500000) "></line>
-                <line x1="224.249862" y1="372.124862" x2="224.749862" y2="-76.8748631" id="Line-4" transform="translate(224.499862, 147.625000) rotate(90.000000) translate(-224.499862, -147.625000) "></line>
-                <line x1="224.374862" y1="341.999862" x2="224.624862" y2="-106.999863" id="Line-4" transform="translate(224.499862, 117.500000) rotate(90.000000) translate(-224.499862, -117.500000) "></line>
-                <line x1="225.249862" y1="430.124862" x2="225.749862" y2="-18.8748631" id="Line-4" transform="translate(225.499862, 205.625000) rotate(90.000000) translate(-225.499862, -205.625000) "></line>
-                <line x1="224.374862" y1="400.999862" x2="224.624862" y2="-47.9998631" id="Line-4" transform="translate(224.499862, 176.500000) rotate(90.000000) translate(-224.499862, -176.500000) "></line>
+                <g id="Tick-2---Y" transform="translate(9.000000, 267.000000)">
+                    <text id="10" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">10</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" x="25" y="10" width="444" height="1"></rect>
+                </g>
+                <g id="Tick-3---Y" transform="translate(6.000000, 237.200000)">
+                    <text id="20" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">20</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 472 10 472 11 28 11"></polygon>
+                </g>
+                <g id="Tick-4---Y" transform="translate(6.000000, 208.000000)">
+                    <text id="30" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">30</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 472 10 472 11 28 11"></polygon>
+                </g>
+                <g id="Tick-5---Y" transform="translate(6.000000, 178.400000)">
+                    <text id="40" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">40</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 7.39999924 472 7.39999924 472 8.39999924 28 8.39999924"></polygon>
+                </g>
+                <g id="Tick-6---Y" transform="translate(6.000000, 149.000000)">
+                    <text id="50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">50</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 7.79999924 472 7.79999924 472 8.79999924 28 8.79999924"></polygon>
+                </g>
+                <g id="Tick-7---Y" transform="translate(6.000000, 120.000000)">
+                    <text id="60" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">60</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 472 10 472 11 28 11"></polygon>
+                </g>
+                <g id="Tick-8---Y" transform="translate(7.000000, 90.000000)">
+                    <text id="70" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">70</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="27 10 471 10 471 11 27 11"></polygon>
+                </g>
+                <g id="Tick-9---Y" transform="translate(6.000000, 61.000000)">
+                    <text id="80" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">80</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 472 10 472 11 28 11"></polygon>
+                </g>
+                <g id="Tick-10---Y" transform="translate(6.000000, 31.000000)">
+                    <text id="90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">90</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 472 10 472 11 28 11"></polygon>
+                </g>
+                <g id="Tick-11---Y">
+                    <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">100</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="34 10 478 10 478 11 34 11"></polygon>
+                </g>
             </g>
         </g>
     </g>
