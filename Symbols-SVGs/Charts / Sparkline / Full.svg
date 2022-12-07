@@ -2,120 +2,118 @@
 <svg width="1499px" height="336px" viewBox="0 0 1499 336" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <g id="Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Charts-/-Sparkline-/-Full" transform="translate(0.000000, 0.000000)">
-            <g id="Group">
-                <g id="Line-Chart---Dark-Copy" transform="translate(39.000000, 309.799999)">
-                    <g id="Tick-1---X" transform="translate(14.000000, 1.000000)">
-                        <text id="2015" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="20">2015</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " points="13 2 18 2 18 3 13 3"></polygon>
-                    </g>
-                    <g id="Tick-2---X" transform="translate(250.000000, 1.000000)">
-                        <text id="2016" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="20">2016</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " points="13 2 18 2 18 3 13 3"></polygon>
-                    </g>
-                    <g id="Tick-3---x" transform="translate(487.000000, 1.000000)">
-                        <text id="2017" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="20">2017</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" transform="translate(14.500000, 2.500000) rotate(90.000000) translate(-14.500000, -2.500000) " x="12" y="2" width="5" height="1"></rect>
-                    </g>
-                    <g id="Tick-4--x" transform="translate(721.000000, 1.000000)">
-                        <text id="2018" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="20">2018</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " x="13" y="2" width="5" height="1"></rect>
-                    </g>
-                    <g id="Tick-5---x" transform="translate(955.000000, 1.200001)">
-                        <text id="2019" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="19.7999992">2019</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " x="13" y="2" width="5" height="1"></rect>
-                    </g>
-                    <g id="Tick-6---x" transform="translate(1189.000000, 1.200001)">
-                        <text id="2020" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="19.7999992">2020</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" transform="translate(17.500000, 2.500000) rotate(90.000000) translate(-17.500000, -2.500000) " x="15" y="2" width="5" height="1"></rect>
-                    </g>
-                    <g id="Tick-7---x" transform="translate(1425.000000, 1.000000)">
-                        <text id="2021" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="20">2021</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" transform="translate(14.500000, 2.500000) rotate(90.000000) translate(-14.500000, -2.500000) " x="12" y="2" width="5" height="1"></rect>
-                    </g>
-                    <rect id="Rectangle-5" fill="#D2D2D2" x="0" y="0" width="1460" height="1"></rect>
-                </g>
-                <g id="y-axis-values">
-                    <text id="Tick-1---Y" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                        <tspan x="15" y="310">0</tspan>
+        <g id="Charts-/-Sparkline-/-Full">
+            <g id="X" transform="translate(39.000000, 309.799999)">
+                <g id="Tick-1---X" transform="translate(14.000000, 1.000000)">
+                    <text id="2015" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">2015</tspan>
                     </text>
-                    <g id="Tick-2---Y" transform="translate(9.000000, 267.000000)">
-                        <text id="10" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">10</tspan>
-                        </text>
-                        <rect id="tick-mark" fill="#D2D2D2" x="25" y="10" width="5" height="1"></rect>
-                    </g>
-                    <g id="Tick-3---Y" transform="translate(6.000000, 237.200000)">
-                        <text id="20" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">20</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
-                    </g>
-                    <g id="Tick-4---Y" transform="translate(6.000000, 208.000000)">
-                        <text id="30" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">30</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
-                    </g>
-                    <g id="Tick-5---Y" transform="translate(6.000000, 178.400000)">
-                        <text id="40" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">40</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 7.39999924 33 7.39999924 33 8.39999924 28 8.39999924"></polygon>
-                    </g>
-                    <g id="Tick-6---Y" transform="translate(6.000000, 149.000000)">
-                        <text id="50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">50</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 7.79999924 33 7.79999924 33 8.79999924 28 8.79999924"></polygon>
-                    </g>
-                    <g id="Tick-7---Y" transform="translate(6.000000, 120.000000)">
-                        <text id="60" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">60</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
-                    </g>
-                    <g id="Tick-8---Y" transform="translate(7.000000, 90.000000)">
-                        <text id="70" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">70</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="27 10 32 10 32 11 27 11"></polygon>
-                    </g>
-                    <g id="Tick-9---Y" transform="translate(6.000000, 61.000000)">
-                        <text id="80" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">80</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
-                    </g>
-                    <g id="Tick-10---Y" transform="translate(6.000000, 31.000000)">
-                        <text id="90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">90</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
-                    </g>
-                    <g id="Tick-11---Y">
-                        <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                            <tspan x="0" y="14">100</tspan>
-                        </text>
-                        <polygon id="tick-mark" fill="#D2D2D2" points="34 10 39 10 39 11 34 11"></polygon>
-                    </g>
+                    <polygon id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " points="13 2 18 2 18 3 13 3"></polygon>
                 </g>
-                <rect id="y-axis-stroke" fill="#D2D2D2" x="38" y="10.7999992" width="1" height="300"></rect>
+                <g id="Tick-2---X" transform="translate(250.000000, 1.000000)">
+                    <text id="2016" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">2016</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " points="13 2 18 2 18 3 13 3"></polygon>
+                </g>
+                <g id="Tick-3---x" transform="translate(487.000000, 1.000000)">
+                    <text id="2017" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">2017</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" transform="translate(14.500000, 2.500000) rotate(90.000000) translate(-14.500000, -2.500000) " x="12" y="2" width="5" height="1"></rect>
+                </g>
+                <g id="Tick-4--x" transform="translate(721.000000, 1.000000)">
+                    <text id="2018" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">2018</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " x="13" y="2" width="5" height="1"></rect>
+                </g>
+                <g id="Tick-5---x" transform="translate(955.000000, 1.200001)">
+                    <text id="2019" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="19.7999992">2019</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" transform="translate(15.500000, 2.500000) rotate(90.000000) translate(-15.500000, -2.500000) " x="13" y="2" width="5" height="1"></rect>
+                </g>
+                <g id="Tick-6---x" transform="translate(1189.000000, 1.200001)">
+                    <text id="2020" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="19.7999992">2020</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" transform="translate(17.500000, 2.500000) rotate(90.000000) translate(-17.500000, -2.500000) " x="15" y="2" width="5" height="1"></rect>
+                </g>
+                <g id="Tick-7---x" transform="translate(1425.000000, 1.000000)">
+                    <text id="2021" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="20">2021</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" transform="translate(14.500000, 2.500000) rotate(90.000000) translate(-14.500000, -2.500000) " x="12" y="2" width="5" height="1"></rect>
+                </g>
+                <rect id="Rectangle-5" fill="#D2D2D2" x="0" y="0" width="1460" height="1"></rect>
             </g>
+            <g id="y-axis-values">
+                <text id="Tick-1---Y" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                    <tspan x="15" y="310">0</tspan>
+                </text>
+                <g id="Tick-2---Y" transform="translate(9.000000, 267.000000)">
+                    <text id="10" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">10</tspan>
+                    </text>
+                    <rect id="tick-mark" fill="#D2D2D2" x="25" y="10" width="5" height="1"></rect>
+                </g>
+                <g id="Tick-3---Y" transform="translate(6.000000, 237.200000)">
+                    <text id="20" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">20</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
+                </g>
+                <g id="Tick-4---Y" transform="translate(6.000000, 208.000000)">
+                    <text id="30" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">30</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
+                </g>
+                <g id="Tick-5---Y" transform="translate(6.000000, 178.400000)">
+                    <text id="40" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">40</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 7.39999924 33 7.39999924 33 8.39999924 28 8.39999924"></polygon>
+                </g>
+                <g id="Tick-6---Y" transform="translate(6.000000, 149.000000)">
+                    <text id="50" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">50</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 7.79999924 33 7.79999924 33 8.79999924 28 8.79999924"></polygon>
+                </g>
+                <g id="Tick-7---Y" transform="translate(6.000000, 120.000000)">
+                    <text id="60" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">60</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
+                </g>
+                <g id="Tick-8---Y" transform="translate(7.000000, 90.000000)">
+                    <text id="70" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">70</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="27 10 32 10 32 11 27 11"></polygon>
+                </g>
+                <g id="Tick-9---Y" transform="translate(6.000000, 61.000000)">
+                    <text id="80" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">80</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
+                </g>
+                <g id="Tick-10---Y" transform="translate(6.000000, 31.000000)">
+                    <text id="90" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">90</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="28 10 33 10 33 11 28 11"></polygon>
+                </g>
+                <g id="Tick-11---Y">
+                    <text id="100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="0" y="14">100</tspan>
+                    </text>
+                    <polygon id="tick-mark" fill="#D2D2D2" points="34 10 39 10 39 11 34 11"></polygon>
+                </g>
+            </g>
+            <rect id="y-axis-stroke" fill="#D2D2D2" x="38" y="10.7999992" width="1" height="300"></rect>
             <g id="cats" transform="translate(66.000000, 136.799999)" fill="#0066CC">
                 <polygon id="Path-9" stroke="#0066CC" fill-opacity="0.2" points="3 173.5 3 104.409691 365.235511 86 709.117755 4 1053 46 1053 174"></polygon>
                 <circle id="Oval" cx="3" cy="104" r="3"></circle>

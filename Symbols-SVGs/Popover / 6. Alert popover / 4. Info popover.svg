@@ -2,7 +2,7 @@
 <svg width="450px" height="164px" viewBox="0 0 450 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title></title>
     <defs>
-        <path d="M18,18 L432,18 L432,147 L18,147 L18,18 Z M450,82.7507599 L432,64.7507599 L432,100.75076 L450,82.7507599 Z M0,82.7507599 L18,64.7507599 L18,100.75076 L0,82.7507599 Z M225,165 L243,147 L207,147 L225,165 Z M225,0 L243,18 L207,18 L225,0 Z" id="path-1"></path>
+        <path d="M18,18 L432,18 L432,147 L18,147 Z M450,82.7507599 L432,64.7507599 L432,100.75076 L450,82.7507599 Z M0,82.7507599 L18,64.7507599 L18,100.75076 L0,82.7507599 Z M225,165 L243,147 L207,147 L225,165 Z M225,0 L243,18 L207,18 L225,0 Z" id="path-1"></path>
         <filter x="-6.2%" y="-12.1%" width="112.4%" height="133.9%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
