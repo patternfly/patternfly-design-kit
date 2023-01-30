@@ -758,12 +758,12 @@
             </g>
             <g id="Grey" transform="translate(39.000000, 1324.000000)">
                 <g id="Comment">
-                    <rect id="Comment-Pink" fill="#EDEDED" x="0" y="0" width="214" height="50"></rect>
+                    <rect id="Comment-Pink" fill="#F0F0F0" x="0" y="0" width="214" height="50"></rect>
                     <text id="black-100" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
                         <tspan x="17" y="29">black-100</tspan>
                     </text>
-                    <text id="#EDEDED" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
-                        <tspan x="135" y="29">#EDEDED</tspan>
+                    <text id="#F0F0F0" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#151515">
+                        <tspan x="135" y="29">#F0F0F0</tspan>
                     </text>
                 </g>
                 <g id="Comment" transform="translate(0.000000, 50.000000)">
@@ -794,12 +794,12 @@
                     </text>
                 </g>
                 <g id="Comment" transform="translate(0.000000, 200.000000)">
-                    <rect id="Comment-Pink" fill="#737679" x="0" y="0" width="214" height="50"></rect>
+                    <rect id="Comment-Pink" fill="#6A6E73" x="0" y="0" width="214" height="50"></rect>
                     <text id="black-500" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
                         <tspan x="17" y="29">black-500</tspan>
                     </text>
-                    <text id="#737679" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
-                        <tspan x="135" y="29">#737679</tspan>
+                    <text id="#6A6E73" font-family="RedHatText-Regular, Red Hat Text" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="135" y="29">#6A6E73</tspan>
                     </text>
                 </g>
                 <g id="Comment" transform="translate(0.000000, 250.000000)">

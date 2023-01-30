@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="37px" viewBox="0 0 150 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="150" height="37"></rect>
+        <filter x="-0.7%" y="-2.7%" width="101.3%" height="105.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.4   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Time-picker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Time-picker-/-Active">
+            <g id="Background">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <text id="Time" font-family="RedHatText-Regular, Red Hat Text" font-size="16" font-weight="normal" line-spacing="24" fill="#151515">
+                <tspan x="8" y="23">HH:MM</tspan>
+            </text>
+            <g id="Icons-/-1.-Size-md-/-Framework-/-clock" transform="translate(126.000000, 10.500000)" fill="#B8BBBE">
+                <path d="M7.74998152,15.499963 C12.0312213,15.499963 15.499963,12.0312213 15.499963,7.74998152 C15.499963,3.46874173 12.0312213,0 7.74998152,0 C3.46874173,0 0,3.46874173 0,7.74998152 C0,12.0312213 3.46874173,15.499963 7.74998152,15.499963 Z M7.74998152,13.9999666 C4.29686476,13.9999666 1.49999642,11.2030983 1.49999642,7.74998152 C1.49999642,4.29686476 4.29686476,1.49999642 7.74998152,1.49999642 C11.2030983,1.49999642 13.9999666,4.29686476 13.9999666,7.74998152 C13.9999666,11.2030983 11.2030983,13.9999666 7.74998152,13.9999666 Z M10.2062135,10.6562246 L10.7937365,9.84683932 C10.9155929,9.67810803 10.8812302,9.44373359 10.7124684,9.32184667 L8.62497944,7.8031125 L8.62497944,3.37499195 C8.62497944,3.16875465 8.45621763,2.99999285 8.24998033,2.99999285 L7.24998271,2.99999285 C7.04374541,2.99999285 6.87498361,3.16875465 6.87498361,3.37499195 L6.87498361,8.50623582 C6.87498361,8.62497944 6.93122737,8.73746696 7.02812045,8.8093662 L9.68122081,10.7374622 C9.84998262,10.8593491 10.0843571,10.8218431 10.2062135,10.6562246 Z" id="clock"></path>
+            </g>
+            <g id="📐-Padding" fill-opacity="0.9">
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)" transform="translate(8.000000, 0.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="137" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Vertical-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(8.000000, 29.000000)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="137" height="7"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)" fill="#92D400" stroke="#7FB300">
+                    <rect id="Rectangle-Copy" x="0.5" y="0.5" width="7" height="36"></rect>
+                </g>
+                <g id="Spacer-/-Horizontal-/-2.-pf-global--spacer--sm-(8px)-Copy" transform="translate(146.000000, 0.000000)" fill="#EC7A08" stroke="#C77000">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="3" height="36"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
