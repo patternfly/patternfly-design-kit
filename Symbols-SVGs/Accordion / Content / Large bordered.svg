@@ -28,11 +28,11 @@
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
             </g>
-            <g id="Button-/-8.-Call-to-action-/-Link" transform="translate(24.000000, 40.000000)" fill="#0066CC">
-                <text id="CTA-Label" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="18" font-weight="bold" line-spacing="27">
+            <g id="Button-/-8.-Call-to-action-/-Link" transform="translate(24.000000, 40.000000)">
+                <text id="CTA-Label" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="18" font-weight="bold" line-spacing="27" fill="#0066CC">
                     <tspan x="0" y="18">Call to action</tspan>
                 </text>
-                <g id="Icons-/-Web-Componenta-/-Arrow-right" transform="translate(124.041525, 7.845000)">
+                <g id="Icons-/-Web-Componenta-/-Arrow-right" transform="translate(124.041525, 7.845000)" fill="#151515">
                     <path d="M15.4884982,5.85158562 L9.89193158,0.255018959 C9.67199091,0.0350782771 9.35142038,-0.0508183388 9.05097583,0.0296855352 C8.75053128,0.110189409 8.51585737,0.34486332 8.43535349,0.645307874 C8.35484962,0.945752428 8.44074623,1.26632295 8.66068691,1.48626362 L12.760172,5.58574871 L0.88145925,5.58574871 C0.647681722,5.58574871 0.423479112,5.67861647 0.258173437,5.84392214 C0.0928677615,6.00922782 1.42108547e-14,6.23343043 1.42108547e-14,6.46720796 C0.00764133668,6.94855176 0.400054802,7.33473644 0.88145925,7.33467579 L12.760172,7.33467579 L8.66068691,11.4481523 C8.49307967,11.6090905 8.3983375,11.83141 8.3983375,12.0637746 C8.3983375,12.2961392 8.49307967,12.5184587 8.66068691,12.679397 C9.0030927,13.0135343 9.5495258,13.0135343 9.89193158,12.679397 L15.4884982,7.08283029 C15.6561055,6.92189206 15.7508477,6.69957255 15.7508477,6.46720796 C15.7508477,6.23484337 15.6561055,6.01252385 15.4884982,5.85158562 Z" id="Arrow-right"></path>
                 </g>
             </g>
