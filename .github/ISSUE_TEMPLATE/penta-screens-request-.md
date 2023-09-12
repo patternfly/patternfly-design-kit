@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-##Goal
+## Goal
 What are you trying to achieve with these screens (reskin, UI refresh, blue sky)?
 
-##Deadline for screen
+## Deadline for screen
 Add date
 
-##Links and screenshots
+## Links and screenshots
 Include all relevant links, screenshots, contact information
