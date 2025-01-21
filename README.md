@@ -28,6 +28,8 @@ If you believe that you've come across a PatternFly Design Kit bug, alert our te
 ## Contributing to the kit
 We welcome contributions from our community of PatternFly designers. Reach out to the team within the [patternfly.slack.com workspace](http://patternfly.slack.com) via the #patternfly-design-kit channel, and our team will assist with questions on design kit enhancements.
 
+![Component Contributing guide](https://github.com/user-attachments/assets/f7c32a9b-76ab-457b-b330-08bc861cbb5f)
+
 ### Contributing a new or edited component, pattern, or extension
 Follow these steps:
 1. Create a copy of the PF6 Design Kit Figma file you are working from or create a new branch hosted in Figma.
