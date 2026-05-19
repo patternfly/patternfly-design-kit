@@ -7,7 +7,7 @@ The PatternFly 6 design kit gives you access to:
 * Our design token system
 * Demos and patterns of full-screen designs
 
-The figma design kit includes:
+The Figma design kit includes:
 
 * **[PatternFly 6: Styles and Component library](https://www.figma.com/community/file/1357060119827689328/patternfly-6-components)** – includes all standard components, icons and design tokens
 * **[PatternFly 6: Patterns & Extensions Library](https://www.figma.com/community/file/1357062621908564852/patternfly-6-patterns-extensions)** – provides several patterns, extensions and demos that solve common UI problems by grouping multiple PatternFly components into reusable layouts
