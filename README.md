@@ -26,12 +26,6 @@ We've added new variants to support our evolving visual language and Red Hat-spe
 - Docked navigation: A space-saving solution that minimizes navigation items to icons while remaining expandable.
 - Compass: A conversational-first layout for generative UI, placing a ChatBot bar below content with surrounding toolbars.
 
-We've added new variants to support our evolving visual language and Red Hat-specific user journeys:
-
-- Iconography: We’ve updated our icon set to use Red Hat brand icons. This is an automatic change handled via a single class, ensuring cross-platform consistency without much manual lift.
-- Hero: A new card-like component for attention-grabbing callouts at the top of pages.
-- Docked navigation: A space-saving solution that minimizes navigation items to icons while remaining expandable.
-- Compass: A conversational-first layout for generative UI, placing a ChatBot bar below content with surrounding toolbars.
 
 ## Themes
 We're excited to offer PatternFly's first major theme variant: the Project Felt theme. It targets more familiar Red-Hat experiences through red accent colors and pill-shaped radii. Best of all—Project Felt is built entirely with our design token system, meaning no breaking change is required to add it to your product.
